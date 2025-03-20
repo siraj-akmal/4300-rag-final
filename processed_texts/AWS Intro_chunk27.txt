@@ -1,0 +1,1 @@
+compliance of apps on AWS Database Services ●Relational - Amazon RDS, Amazon Aurora ●Key-Value - Amazon DynamoDB ●In-Memory - Amazon MemoryDB, Amazon ElastiCache ●Document - Amazon DocumentDB (Compat with MongoDB) ●Graph - Amazon Neptune 13 Analytics Services ●Amazon Athena - Analyze petabyte scale data where it lives (S3, for example)

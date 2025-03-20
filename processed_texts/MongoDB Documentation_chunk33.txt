@@ -1,0 +1,1 @@
+SQL statement: Refer to the document for the complete list of MongoDB query operators. Specify AND Conditions A compound query can specify conditions for more than one field in the collection's documents. Implicitly, a logical AND conjunction connects the clauses of a compound query so that the query selects the

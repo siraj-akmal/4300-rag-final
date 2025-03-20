@@ -1,0 +1,1 @@
+ops - Indexing - supports primary and secondary indices on document ﬁelds - Replication - supports replica sets with automatic failover - Load balancing built in 14 MongoDB Versions ●MongoDB Atlas ○ Fully managed MongoDB service in the cloud (DBaaS) ●MongoDB Enterprise ○ Subscription-based, self-managed version of MongoDB ●MongoDB Community

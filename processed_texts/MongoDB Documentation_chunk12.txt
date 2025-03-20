@@ -1,0 +1,1 @@
+Documents Project Results MongoDB Docs 8.0 (current) 3/17/25, 9:55 AM Query Documents - MongoDB Manual v8.0 - MongoDB Docs https://www.mongodb.com/docs/manual/tutorial/query-documents/ 2/14 Select All Documents in a Collection   await db.collection('inventory').insert { item: 'journal', qty: 25, size: { h: 14, w: 21, uom: 'cm' }, status: 'A' }, { item:

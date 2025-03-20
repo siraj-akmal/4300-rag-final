@@ -1,0 +1,1 @@
+to the place where data is stored. B- trees may also useful for in-memory data structures because these days main memory is almost as slow relative to the processor as disk drives were to main memory when B-trees were first introduced! A B-tree of order m is a search tree

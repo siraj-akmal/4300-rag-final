@@ -1,0 +1,1 @@
+mapping given when you created the container (probably the default 6379) - db is the database 0-15 you want to connect to - decode_responses → data comes back from server as bytes. Setting this true converter them (decodes) to strings. 3 import redis redis_client = redis.Redis(host=’localhost’, port=6379, db=2, decode_responses=True) Redis

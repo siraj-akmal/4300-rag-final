@@ -1,0 +1,1 @@
+the node. 1 An example 4 2 3 6 5 12 9 8 11 15 19 20 7 2 Traversal of the Nodes in a BST By “traversal” we mean visiting all the nodes in a graph. Traversal strategies can be speciﬁed by the ordering of the three objects to

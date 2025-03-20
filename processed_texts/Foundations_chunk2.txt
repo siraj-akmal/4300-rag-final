@@ -1,0 +1,1 @@
+efﬁciency is Linear Search ○ Start at the beginning of a list and proceed element by element until: ■ You ﬁnd what you’re looking for ■ You get to the last element and haven’t found it 2 Searching ●Record - A collection of values for attributes of a single entity

@@ -1,0 +1,1 @@
+DS 4300 Neo4j Mark Fontenot, PhD Northeastern University Material referenced from Graph Algorithms - Practical Examples in Apache Spark and Neo4j by Needham and Hodler (O’Reilly Press, 2019) Neo4j - A Graph Database System that supports both transactional and analytical processing of graph-based data - Relatively new class of no-sql

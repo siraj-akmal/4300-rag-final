@@ -1,0 +1,1 @@
+Inheritance and Composition of types. - How do we save a complex object to a relational database? We basically have to deconstruct it. - The structure of a document is self-describing. - They are well-aligned with apps that use JSON/XML as a transport layer 8 MongoDB 9 MongoDB - Started

@@ -1,0 +1,1 @@
+thanks! Distributed DBs and ACID - Pessimistic Concurrency ●ACID transactions ○ Focuses on “data safety” ○ considered a pessimistic concurrency model because it assumes one transaction has to protect itself from other transactions ■ IOW, it assumes that if something can go wrong, it will. ○ Conﬂicts are prevented by

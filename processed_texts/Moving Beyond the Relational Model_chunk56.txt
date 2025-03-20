@@ -1,0 +1,1 @@
+not be the absolute latest data. CAP in Reality What it is really saying: - If you cannot limit the number of faults, requests can be directed to any server, and you insist on serving every request, then you cannot possibly be consistent. But it is interpreted as: - You

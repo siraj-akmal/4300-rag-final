@@ -1,0 +1,1 @@
+- directly controlling storage - column oriented storage vs row oriented storage - query optimization - caching/prefetching - materialized views - precompiled stored procedures - data replication and partitioning 3 Transaction Processing - Transaction - a sequence of one or more of the CRUD operations performed as a single, logical

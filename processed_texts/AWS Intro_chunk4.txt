@@ -1,0 +1,1 @@
+Relational Database Service, DynamoDB, CloudWatch, Simple Workﬂow, CloudFront, Availability Zones, and others. ●Amazon had competitions with big prizes to spur the adoption of AWS in its early days ●They’ve continuously innovated, always introducing new services for ops, dev, analytics, etc… (200+ services now) 3 AWS Service Categories 4 Cloud Models

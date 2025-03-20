@@ -1,0 +1,1 @@
+performance too Distributed Data - Challenges - Consistency: Updates must be propagated across the network. - Application Complexity: Responsibility for reading and writing data in a distributed environment often falls to the application. 3 Vertical Scaling - Shared Memory Architectures - Geographically Centralized server - Some fault tolerance (via hot-swappable

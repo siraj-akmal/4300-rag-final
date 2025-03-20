@@ -1,0 +1,1 @@
+to z’s place. 3. If z has two children, then we will identify z’s successor. Call it y. The successor y either is a leaf or has only the right child. Promote y to z’s place. Treat the loss of y using one of the above two solutions. 17 10

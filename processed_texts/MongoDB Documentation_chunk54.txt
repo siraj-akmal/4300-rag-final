@@ -1,0 +1,1 @@
+- MongoDB Docs https://www.mongodb.com/docs/manual/tutorial/query-documents/ 8/14 The operation uses a query predicate of: which corresponds to the following SQL statement: Query Documents with MongoDB Atlas The example in this section uses the sample movies dataset. To learn how to load the sample dataset into your MongoDB Atlas deployment, see Load Sample

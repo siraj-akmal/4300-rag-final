@@ -1,0 +1,1 @@
+would be: { "object": "String", "q": "Expression" } This NoSQL object is converted into: SELECT * FROM table WHERE query latest Examples This simple query retrieves the name and salary of all employees in position of "Sales Manager": { "object": "employees", "q": { "position" : "Sales Manager" }, "fields": ["name",

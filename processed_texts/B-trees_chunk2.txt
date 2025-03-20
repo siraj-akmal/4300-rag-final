@@ -1,0 +1,1 @@
+the binary tree probably occupies only a fraction of any cache line. B-trees are a way to get better locality by putting multiple elements into each tree node. B-trees were originally invented for storing data structures on disk, where locality is even more crucial than with memory. Accessing a disk

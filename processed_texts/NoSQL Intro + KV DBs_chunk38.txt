@@ -1,0 +1,1 @@
+- store experiment or testing (A/B) results w/o prod db - Feature Store - store frequently accessed feature → low-latency retrieval for model training and prediction - Model Monitoring - store key metrics about performance of model, for example, in real-time inferencing. 16 KV SWE Use Cases - Storing Session

@@ -1,0 +1,1 @@
+} else { return null; } } else{ return findhelp(((BPInternal<Key,E>)rt).pointers(currec), k); } } tree insertion is similar to B-tree insertion. First, the leaf that should contain the record is found. If is not full, then the new record is added, and no other tree nodes are affected. If is already

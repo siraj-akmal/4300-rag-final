@@ -1,0 +1,1 @@
+a database from one consistent state to another consistent state - consistent state - all data meets integrity constraints 5 ACID Properties - Isolation - Two transactions T1 and T2 are being executed at the same time but cannot affect each other - If both T1 and T2 are reading

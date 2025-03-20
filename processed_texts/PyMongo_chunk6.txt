@@ -1,0 +1,1 @@
+or venv python environment - Install pymongo with pip install pymongo - Install Jupyter Lab in you python environment - pip install jupyterlab - Download and unzip > this < zip ﬁle - contains 2 Jupyter Notebooks - In terminal, navigate to the folder where you unzipped the ﬁles, and

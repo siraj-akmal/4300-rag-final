@@ -1,0 +1,1 @@
+} ] }, which corresponds to the following SQL statement: Specify AND as well as OR Conditions In the following example, the compound query document selects all documents in the collection where the status equals "A" and either qty is less than ( ) 30 or item starts with the

@@ -1,0 +1,1 @@
+element of the list (except the last one - points to nil/null) - O(1) to insert new value at front or insert new value at end 30 10 front back nil List Commands - Queue Queue-like Ops LPUSH bikes:repairs bike:1 LPUSH bikes:repairs bike:2 RPOP bikes:repairs RPOP biles:repairs 31 List Commands

@@ -1,0 +1,1 @@
+in order randomly selected n distinct keys to an initially empty tree. Here the actually values of the keys do not matter. What matters is the position of the inserted key in the n keys. 22 The Process of Construction So, we will view the process as follows: A key

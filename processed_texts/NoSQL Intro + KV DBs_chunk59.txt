@@ -1,0 +1,1 @@
+no other name associated - Direct interaction with Redis is through a set of commands related to setting and getting k/v pairs (and variations) - Many language libraries available as well. 23 Foundation Data Type - String - Sequence of bytes - text, serialized objects, bin arrays - Simplest data

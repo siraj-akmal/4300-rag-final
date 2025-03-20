@@ -1,0 +1,1 @@
+log is the (average) branching factor of the tree. Typical database applications use extremely high branching factors, perhaps 100 or more. Thus, in practice the B-tree and its variants are extremely shallow. As an illustration, consider a tree of order 100 and leaf nodes that contain up to 100 records.

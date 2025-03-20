@@ -1,0 +1,1 @@
+filter parameter to the find method. The query filter parameter determines the select criteria: This operation uses a query predicate of {}, which corresponds to the following SQL statement: To see supported options for the find() method, see find(). Specify Equality Condition To specify equality conditions, use <field>: <value> expressions

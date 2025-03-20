@@ -1,0 +1,1 @@
+example of deleting from the tree B+ B+ 2 −3+ B+ 1 / 28 << < > >> Example 2-3+ Tree Visualization: Insert 2 −3+ 1 / 10 << < > >> Example 2-3+ Tree Visualization: Search 15 J 22 X 52 B 33 65 S 71 W 89 M

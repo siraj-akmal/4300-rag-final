@@ -1,0 +1,1 @@
+2-3 tree is a B-tree of order three. Normally, the size of a node in the B- tree is chosen to fill a disk block. A B-tree node implementation typically allows 100 or more children. Thus, a B-tree node is equivalent to a disk block, and a “pointer” value stored

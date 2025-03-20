@@ -1,0 +1,1 @@
+Engineering with AWS, Packt Publishing EC2 2 EC2 ●EC2 → Elastic Cloud Compute ●Scalable Virtual Computing in the Cloud ●Many (Many!!) instance types available ●Pay-as-you-go model for pricing ●Multiple different Operating Systems 3 Features of EC2 ●Elasticity - easily (and programmatically) scale instances up or down as needed ●You can

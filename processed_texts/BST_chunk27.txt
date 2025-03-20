@@ -1,0 +1,1 @@
+the right subtree. If the latter is the case, by symmetry we will examine only the right subtree. 7 Algorithm Here k is the key that is searched for and x is the start node. BST-Search(x, k) 1: y ←x 2: while y ̸= nil do 3: if key[y] =

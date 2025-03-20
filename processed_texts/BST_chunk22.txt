@@ -1,0 +1,1 @@
+advantage of the BST-property. Suppose we are at a node. If the node has the key that is being searched for, then the search is over. Otherwise, the key at the current node is either strictly smaller than the key that is searched for or strictly greater than the key

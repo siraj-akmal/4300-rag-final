@@ -1,0 +1,1 @@
+so the tree is always height balanced. The B-tree is a generalization of the 2-3 tree. Put another way, a 2-3 tree is a B-tree of order three. Normally, the size of a node in the B- tree is chosen to fill a disk block. A B-tree node implementation typically

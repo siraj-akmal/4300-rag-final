@@ -1,0 +1,1 @@
+"department", "q": { "city" : "New York" }, "fields" : ["id"] } }, "location": "Boston" } } Conditions on Fields latest Formally, a condition on a field is a key-value expression of the form: Key : ValueExpression Where the fields are defined as follows: Key - name of the field

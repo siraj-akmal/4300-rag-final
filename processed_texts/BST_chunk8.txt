@@ -1,0 +1,1 @@
+be speciﬁed by the ordering of the three objects to visit: the current node, the left subtree, and the right subtree. We assume the the left subtree always comes before the right subtree. Then there are three strategies. 1. Inorder. The ordering is: the left subtree, the current node, the

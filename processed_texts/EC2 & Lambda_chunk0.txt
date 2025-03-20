@@ -1,0 +1,1 @@
+DS 4300 Amazon EC2 & Lambda Mark Fontenot, PhD Northeastern University Based in part on material from Gareth Eagar’s Data Engineering with AWS, Packt Publishing EC2 2 EC2 ●EC2 → Elastic Cloud Compute ●Scalable Virtual Computing in the Cloud ●Many (Many!!) instance types available ●Pay-as-you-go model for pricing ●Multiple different

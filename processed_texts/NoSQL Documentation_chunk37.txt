@@ -1,0 +1,1 @@
+a reference field referring the employees table to the department table: { "object": "employees", "q" : { "deptId" : { "$in": { "object": "department", "q": { "city" : "New York" }, "fields" : ["id"] } } } } If we wanted to look at a more complex query, we could

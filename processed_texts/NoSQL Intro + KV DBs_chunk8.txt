@@ -1,0 +1,1 @@
+table… read them when changing. THEN, check at the end of transaction to see if any other transaction has caused them to be modiﬁed. 3 Optimistic Concurrency ●Low Conﬂict Systems (backups, analytical dbs, etc.) ○ Read heavy systems ○ the conﬂicts that arise can be handled by rolling back and

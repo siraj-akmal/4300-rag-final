@@ -1,0 +1,1 @@
+Layer: - In front of a disk-based database 17 Redis DB - Redis (Remote Directory Server) - Open source, in-memory database - Sometimes called a data structure store - Primarily a KV store, but can be used with other models: Graph, Spatial, Full Text Search, Vector, Time Series - From

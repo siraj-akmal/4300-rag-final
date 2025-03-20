@@ -1,0 +1,1 @@
+database can maintain operations in the event of the network’s failing between two segments of the distributed system * Note, the definition of Consistency in CAP is different from that of ACID. CAP Theorem Review 7 Reference: https://alperenbayramoglu.com/posts/understanding-cap-theorem/ - Consistency + Availability: System always responds with the latest data and

@@ -1,0 +1,1 @@
+b) But, every insert into the table would be like inserting into a sorted array - slow… 2) A linked list of tuples (specialVal, rowNumber) sorted by specialVal a) searching for a specialVal would be slow - linear scan required b) But inserting into the table would theoretically be quick

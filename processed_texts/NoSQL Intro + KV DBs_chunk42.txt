@@ -1,0 +1,1 @@
+- User info could be obtained with a single GET operation… language, TZ, product or UI preferences - Shopping Cart Data - Cart data is tied to the user - needs to be available across browsers, machines, sessions - Caching Layer: - In front of a disk-based database 17 Redis

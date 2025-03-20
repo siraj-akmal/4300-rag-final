@@ -1,0 +1,1 @@
+all documents in the collection where the status equals "A" or qty is less than ( ) 30: $lt   const cursor = db.collection('inventory status: 'A', qty: { $lt: 30 } }); Node.js   SELECT * FROM inventory WHERE statu comparison operators $or $lt 3/17/25, 9:55 AM Query

@@ -1,0 +1,1 @@
+could have different data/schema 12 Relational vs Mongo/Document DB 13 RDBMS MongoDB Database Database Table/View Collection Row Document Column Field Index Index Join Embedded Document Foreign Key Reference MongoDB Features - Rich Query Support - robust support for all CRUD ops - Indexing - supports primary and secondary indices on

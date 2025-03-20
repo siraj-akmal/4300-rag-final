@@ -1,0 +1,1 @@
+on the path from the root to the leaf node containing the query record. The fewer the number of disk blocks affected during an operation, the less disk I/O is required. 3. B-trees keep related records (that is, records with similar key values) on the same disk block, which helps

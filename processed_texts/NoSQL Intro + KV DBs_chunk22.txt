@@ -1,0 +1,1 @@
+is always the latest, else data request is dropped. - Availability + Partition Tolerance: System always sends are responds based on distributed store, but may not be the absolute latest data. ACID Alternative for Distrib Systems - BASE ●Basically Available ○Guarantees the availability of the data (per CAP), but response

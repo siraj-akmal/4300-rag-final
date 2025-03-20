@@ -1,0 +1,1 @@
+●Contiguously Allocated List ○ All n*x bytes are allocated as a single “chunk” of memory ●Linked List ○ Each record needs x bytes + additional space for 1 or 2 memory addresses ○ Individual records are linked together in a type of chain using memory addresses 4 Contiguous vs Linked

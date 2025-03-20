@@ -1,0 +1,1 @@
+AMI if pre-conﬁg is needed ●Easily integrates with many other services such as S3, RDS, etc. 4 AMI = Amazon Machine Image EC2 Lifecycle ●Launch - when starting an instance for the ﬁrst time with a chosen conﬁguration ●Start/Stop - Temporarily suspend usage without deleting the instance ●Terminate - Permanently

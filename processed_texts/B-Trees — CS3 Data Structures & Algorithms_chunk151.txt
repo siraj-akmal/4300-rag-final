@@ -1,0 +1,1 @@
+understand them once they were completed! 12.6.1.2. B-Tree Analysis The asymptotic cost of search, insertion, and deletion of records from B-trees, trees, and trees is where is the total number of records in the tree. However, the base of the log is the (average) branching factor of the tree. Typical

@@ -1,0 +1,1 @@
+"Location" : { "$like" : "Palo Alto" } } ] }, "fields": ["Location", "Country"], "order": [["Budget", "desc"]], "groupBy": ["Country"], "aggregate": { "Location": "$concat" } } latest Algorithm to Generate SQL from JSON Queries The algorithm transforms from JSON to SQL using a top-down transformation. Usage transformJson(json, sqlSchema, isFilter, callback) The

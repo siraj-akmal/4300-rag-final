@@ -1,0 +1,1 @@
+Question 1: Linear search and Binary search aim to find the location of a specific value within a list of values (sorted list for binary search). The next level of complexity is to find two values from a list that together satisfy some requirement. Propose an algorithm (in Python) to

@@ -1,0 +1,1 @@
+The Clusters page displays. Navigate to the collection a. For the cluster that contains the sample data, click Browse Collections. b. In the left navigation pane, select the sample_mflix database. c. Select the movies collection. Specify the Filter field Specify the in the Filter field. A query filter document uses

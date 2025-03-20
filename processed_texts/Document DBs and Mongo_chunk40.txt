@@ -1,0 +1,1 @@
+SELECT * FROM movies WHERE rated in ("PG", "PG-13") 24 db.movies.find({rated: {$in:[ "PG", "PG-13" ]}}) mongosh - ﬁnd() - Return movies which were released in Mexico and have an IMDB rating of at least 7 25 db.movies.find( { "countries": "Mexico", "imdb.rating": { $gte: 7 } } ) mongosh - ﬁnd()

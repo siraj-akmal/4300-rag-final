@@ -1,0 +1,1 @@
+internal node, except for the root, has between and children. All leaves are at the same level in the tree, so the tree is always height balanced. The B-tree is a generalization of the 2-3 tree. Put another way, a 2-3 tree is a B-tree of order three. Normally, the

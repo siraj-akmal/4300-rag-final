@@ -1,0 +1,1 @@
+Atlas Additional Query Tutorials Behavior Additional Methods and Options To query documents, specify a indicating the documents you want to return. If you specify an empty query predicate ({ }), the query returns all documents in the collection. You can query documents in MongoDB by using the following methods: MongoDB

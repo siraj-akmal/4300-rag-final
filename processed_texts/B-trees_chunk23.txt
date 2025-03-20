@@ -1,0 +1,1 @@
+is straightforward. Given a node to start from, we use a simple linear or binary search to find whether the desired element is in the node, or if not, which child 3/17/25, 9:22 AM B-trees https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html 1/3 pointer to follow from the current node. Insertion and deletion from a B-tree

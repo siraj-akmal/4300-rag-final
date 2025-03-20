@@ -1,0 +1,1 @@
+so that the query selects the documents in the collection that match at least one condition. The following example retrieves all documents in the collection where the status equals "A" or qty is less than ( ) 30: $lt   const cursor = db.collection('inventory status: 'A', qty: { $lt:

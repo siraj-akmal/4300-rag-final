@@ -1,0 +1,1 @@
+and no other tree nodes are affected. If is already full, split it in two (dividing the records evenly among the two nodes) and promote a copy of the least-valued key in the newly formed right node. As with the 2-3 tree, promotion might cause the parent to split in

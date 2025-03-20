@@ -1,0 +1,1 @@
+Cases: - caching frequently accessed HTML/CSS/JS fragments - conﬁg settings, user settings info, token management - counting web page/app screen views OR rate limiting 24 Some Initial Basic Commands - SET /path/to/resource 0 SET user:1 “John Doe” GET /path/to/resource EXISTS user:1 DEL user:1 KEYS user* - SELECT 5 - select

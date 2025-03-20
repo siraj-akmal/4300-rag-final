@@ -1,0 +1,1 @@
+distinct keys into an initially empty tree. Assuming that the n! permutations are equally likely to occur, what is the average height of the tree? To study this question we consider the process of constructing a tree T by inserting in order randomly selected n distinct keys to an initially

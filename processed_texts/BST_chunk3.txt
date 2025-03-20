@@ -1,0 +1,1 @@
+subtree of x, then the key at y is greater than the key at x. We will assume that the keys of a BST are pairwise distinct. Each node has the following attributes: • p, left, and right, which are pointers to the parent, the left child, and the right

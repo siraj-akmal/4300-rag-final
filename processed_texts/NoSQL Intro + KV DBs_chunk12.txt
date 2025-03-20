@@ -1,0 +1,1 @@
+conﬂict → less efﬁcient ○ So, a locking scheme (pessimistic model) might be preferable 4 NoSQL - “NoSQL” ﬁrst used in 1998 by Carlo Strozzi to describe his relational database system that did not use SQL. - More common, modern meaning is “Not Only SQL” - But, sometimes thought of

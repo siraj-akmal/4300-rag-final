@@ -1,0 +1,1 @@
+compliance and governance policies and procedures 8 The AWS Global Infrastructure - Regions - distinct geographical areas - us-east-1, us-west 1, etc - Availability Zones (AZs) - each region has multiple AZs - roughly equiv to isolated data centers - Edge Locations - locations for CDN and other types of

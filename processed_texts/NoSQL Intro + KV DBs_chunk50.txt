@@ -1,0 +1,1 @@
+second - Rich collection of commands - Does NOT handle complex data. No secondary indexes. Only supports lookup by Key. 19 Redis Data Types Keys: - usually strings but can be any binary sequence Values: - Strings - Lists (linked lists) - Sets (unique unsorted string elements) - Sorted Sets

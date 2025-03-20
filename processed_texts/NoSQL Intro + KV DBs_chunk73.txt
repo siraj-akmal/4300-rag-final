@@ -1,0 +1,1 @@
+Use Cases: - implementation of stacks and queues - queue management & message passing queues (producer/consumer model) - logging systems (easy to keep in chronological order) - build social media streams/feeds - message history in a chat application - batch processing by queueing up a set of tasks to be

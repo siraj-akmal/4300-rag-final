@@ -1,0 +1,1 @@
+age of 25, you can use the following query: { "object": "employees", "q": { "age": { "$lt" : 25 } } } Expressions An expression can be either an AND expression, an OR expression, or a UNION query. AND expressions An AND expression is a conjunction of conditions on fields.

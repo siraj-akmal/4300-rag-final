@@ -1,0 +1,1 @@
+and affect the results, depending on the read concern level. For { year: 1924 } 4 Query on Embedded/Nested Documents Query an Array Query an Array of Embedded Documents Project Fields to Return from Query Query for Null or Missing Fields 3/17/25, 9:55 AM Query Documents - MongoDB Manual v8.0

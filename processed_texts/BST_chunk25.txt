@@ -1,0 +1,1 @@
+then by the BST property, all the keys in th left subtree are strictly less than the key that is searched for. That means that we do not need to search in the left subtree. Thus, we will examine only the right subtree. If the latter is the case, by

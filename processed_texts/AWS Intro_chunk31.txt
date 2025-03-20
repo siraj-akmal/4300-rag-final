@@ -1,0 +1,1 @@
+- real-time data streaming ●Amazon QuickSight - cloud-native BI/reporting tool 14 ML and AI Services - Amazon SageMaker - fully-managed ML platform, including Jupyter NBs - build, train, deploy ML models - AWS AI Services w/ Pre-trained Models - Amazon Comprehend - NLP - Amazon Rekognition - Image/Video analysis -

@@ -1,0 +1,1 @@
+- But remember: Network partitioning is inevitable! - network failures, system failures - Overall system needs to be Partition Tolerant - System can keep running even w/ network partition 17 The CAP Theorem 18 The CAP Theorem 19 The CAP Theorem states that it is impossible for a distributed data

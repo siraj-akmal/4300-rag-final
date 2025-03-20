@@ -1,0 +1,1 @@
+the same data that T2 may be writing, can result in: - Dirty Read - Non-repeatable Read - Phantom Reads 6 Isolation: Dirty Read 7 Figure from: https://www.mybluelinux.com/relational-databases-explained/ Dirty Read - a transaction T1 is able to read a row that has been modiﬁed by another transaction T2 that hasn’t

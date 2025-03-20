@@ -1,0 +1,1 @@
+more information, see Query Result Format When you run a find operation with a MongoDB driver or mongosh, the command returns a that manages query results. The query results are not returned as an array of documents. To learn how to iterate through documents in a cursor, refer to your

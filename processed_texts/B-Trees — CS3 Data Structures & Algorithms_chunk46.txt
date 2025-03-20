@@ -1,0 +1,1 @@
+size. If the next record to be inserted belongs to a chunk that hasn’t filled its block then we can just insert it there. The fact that this might cause other records in that chunk to move a little bit in the array is not important, since this does not

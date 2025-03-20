@@ -1,0 +1,1 @@
+a leaf node in a tree of order might have enough room to store more or less than records. The requirement is simply that the leaf nodes store enough records to remain at least half full. The leaf nodes of a tree are normally linked together to form a doubly

@@ -1,0 +1,1 @@
+when used as part of a filter or query - only constants can be escaped by Backand. With this in mind, you want to make sure that variables tied directly to user input are properly sanitized before being sent to the back-end. The SQL statement generated for the filter latest

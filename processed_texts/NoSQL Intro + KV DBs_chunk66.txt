@@ -1,0 +1,1 @@
+#decrement by 5 - INCR parses the value as int and increments (or adds to value) - SETNX key value - only sets value to key if key does not already exist 26 Hash Type 27 - Value of KV entry is a collection of ﬁeld-value pairs - Use Cases:

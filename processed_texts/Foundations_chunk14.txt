@@ -1,0 +1,1 @@
+make space Insert after 2nd record Observations: - Arrays - fast for random access - slow for random insertions - Linked Lists - slow for random access - fast for random insertions 7 Binary Search ● Input: array of values in sorted order, target value ● Output: the location (index)

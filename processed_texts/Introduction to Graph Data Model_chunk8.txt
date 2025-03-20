@@ -1,0 +1,1 @@
+- Composed of a set of node (vertex) objects and relationship (edge) objects - Labels are used to mark a node as part of a group - Properties are attributes (think KV pairs) and can exist on nodes and relationships - Nodes with no associated relationships are OK. Edges not

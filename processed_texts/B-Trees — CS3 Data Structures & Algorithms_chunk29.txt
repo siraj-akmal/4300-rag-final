@@ -1,0 +1,1 @@
+node at level 1, the third branch is taken to the next level to arrive at the leaf node containing a record with key value 47. B-tree insertion is a generalization of 2-3 tree insertion. The first step is to find the leaf node that should contain the key to

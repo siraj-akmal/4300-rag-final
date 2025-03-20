@@ -1,0 +1,1 @@
+DS 4300 AWS Introduction Mark Fontenot, PhD Northeastern University Amazon Web Services ●Leading Cloud Platform with over 200 different services available ●Globally available via its massive networks of regions and availability zones with their massive data centers ●Based on a pay-as-you-use cost model. ○ Theoretically cheaper than renting rackspace/servers in

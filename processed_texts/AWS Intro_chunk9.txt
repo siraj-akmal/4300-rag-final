@@ -1,0 +1,1 @@
+a Service ○ Provide full software apps that are run and managed by another party/vendor 5 Cloud Models 6 https://bluexp.netapp.com/iaas The Shared Responsibility Model - AWS - AWS Responsibilities (Security OF the cloud): - Security of physical infrastructure (infra) and network - keep the data centers secure, control access to

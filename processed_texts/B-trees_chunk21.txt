@@ -1,0 +1,1 @@
+the memory hierarchy where we can expect to get cache hits. For example, if we are accessing a large disk database then our "cache lines" are memory blocks of the size that is read from disk. Lookup in a B-tree is straightforward. Given a node to start from, we use

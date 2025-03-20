@@ -1,0 +1,1 @@
+Connecting to the Server - For your Docker deployment, host could be localhost or 127.0.0.1 - Port is the port mapping given when you created the container (probably the default 6379) - db is the database 0-15 you want to connect to - decode_responses → data comes back from server

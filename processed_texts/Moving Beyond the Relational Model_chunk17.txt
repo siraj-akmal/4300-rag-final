@@ -1,0 +1,1 @@
+transaction T2 has changed data and COMMITTED Isolation: Phantom Reads 9 Figure from: https://www.mybluelinux.com/relational-databases-explained/ Phantom Reads - when a transaction T1 is running and another transaction T2 adds or deletes rows from the set T1 is using Example Transaction - Transfer $$ 10 DELIMITER // CREATE PROCEDURE transfer( IN sender_id

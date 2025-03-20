@@ -1,0 +1,1 @@
+of the following form: SELECT fields with aggregation FROM table WHERE expression GROUP BY groupby ORDER BY orderby LIMIT limit NoSQL queries are constructed using JSON objects. Below is an example: { object: String, q: Expression, fields: Array of String, groupBy: Array of String, aggregation: Object mapping fields to aggregate

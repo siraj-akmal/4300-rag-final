@@ -1,0 +1,1 @@
+T1 is running and another transaction T2 adds or deletes rows from the set T1 is using Example Transaction - Transfer $$ 10 DELIMITER // CREATE PROCEDURE transfer( IN sender_id INT, IN receiver_id INT, IN amount DECIMAL(10,2) ) BEGIN DECLARE rollback_message VARCHAR(255) DEFAULT 'Transaction rolled back: Insufficient funds'; DECLARE commit_message

@@ -1,0 +1,1 @@
+search is O(n) time complexity. ●Binary Search ○ Best case: target is found at mid; 1 comparison (inside the loop) ○ Worst case: target is not in the array; log2 n comparisons ○ Therefore, in the worst case, binary search is O(log2n) time complexity. 9 Back to Database Searching ●

@@ -1,0 +1,1 @@
+height of the tree thus constructed is one plus the larger of the height of the left subtree and the height of the right subtree. 23 Random Variables n = number of keys Xn = height of the tree of n keys Yn = 2Xn. We want an upper bound

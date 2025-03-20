@@ -1,0 +1,1 @@
+values (sorted list for binary search). The next level of complexity is to find two values from a list that together satisfy some requirement. Propose an algorithm (in Python) to search for a pair of values in an unsorted array of n integers that are closest to one another. Closeness

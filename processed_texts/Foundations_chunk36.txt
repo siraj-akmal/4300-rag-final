@@ -1,0 +1,1 @@
+list of tuples (specialVal, rowNumber) sorted by specialVal a) searching for a specialVal would be slow - linear scan required b) But inserting into the table would theoretically be quick to also add to the list. 12 Something with Fast Insert and Fast Search? - Binary Search Tree - a

@@ -1,0 +1,1 @@
+Consistency Scenario - you’re adding a comment to a Reddit post… after you click Submit and are back at the main post, your comment should show up for you. - Less important for other users to see your comment as immediately. 19 Implementing Read-After-Write Consistency Method 1: Modiﬁable data (from

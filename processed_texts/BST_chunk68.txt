@@ -1,0 +1,1 @@
+y ̸= z then 24: { key[z] ←key[y] 25: Move other data from y to z } 27: return (y) 20 Summary of Eﬃciency Analysis Theorem A On a binary search tree of height h, Search, Minimum, Maximum, Successor, Predecessor, Insert, and Delete can be made to run in O(h)

@@ -1,0 +1,1 @@
+the process ripples upwards, eventually possibly reaching the root. If the root is split into two, then a new root is created with just two children, increasing the height of the tree by one. For example, here is the effect of a series of insertions. The first insertion (13) merely

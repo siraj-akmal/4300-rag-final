@@ -1,0 +1,1 @@
+application, the B-tree’s access to the disk file will be managed using a buffer pool and a block-replacement scheme such as LRU. Figure 12.6.1 shows a B-tree of order four. Each node contains up to three keys, and internal nodes have up to four children. Figure 12.6.1: A B-tree of

@@ -1,0 +1,1 @@
+{ “genres”: "Drama" } ] }) mongosh - project - Return the names of all movies from the movies collection that were released in 2010 and either won at least 5 awards or have a genre of Drama 29 db.movies.countDocuments( { “year”: 2010, $or: [ { "awards.wins": { $gte: 5

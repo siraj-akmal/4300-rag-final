@@ -1,0 +1,1 @@
+algorithm deletes z from BST T. BST-Delete(T, z) 1: if left[z] = nil or right[z] = nil 2: then y ←z 3: else y ←BST-Successor(z) 4:  y is the node that’s actually removed. 5:  Here y does not have two children. 6: if left[y] ̸= nil 7: then

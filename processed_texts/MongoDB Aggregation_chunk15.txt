@@ -1,0 +1,1 @@
+"title": 1, "cast": 1, "rating": "$imdb.rating"}} agg = mflixdb.movies.aggregate([match, limit, project]) print(dumps(agg, indent=2))

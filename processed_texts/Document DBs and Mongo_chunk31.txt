@@ -1,0 +1,1 @@
+a MongoDB database ●DataGrip and other 3rd Party Tools ●Every major language has a library to interface with MongoDB ○ PyMongo (Python), Mongoose (JavaScript/node), … 16 Mongodb Community Edition in Docker - Create a container - Map host:container port 27017 - Give initial username and password for superuser 17 E

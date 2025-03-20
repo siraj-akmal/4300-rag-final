@@ -1,0 +1,1 @@
+Notice, we didn’t set a password… 21 Connecting from DataGrip - File > New > Data Source > Redis - Give the Data Source a Name - Make sure the port is 6379 - Test the connection ✅ 22 Redis Database and Interaction - Redis provides 16 databases by default

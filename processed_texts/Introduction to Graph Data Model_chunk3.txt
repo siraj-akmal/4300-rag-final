@@ -1,0 +1,1 @@
+uniquely identiﬁed - each can contain properties (e.g. name, occupation, etc) - supports queries based on graph-oriented operations - traversals - shortest path - lots of others 2 Where do Graphs Show up? - Social Networks - yes… things like Instagram, - but also… modeling social interactions in ﬁelds like

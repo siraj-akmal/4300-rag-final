@@ -1,0 +1,1 @@
+match zero or more occurrences of the previous character (the . in this case) data = demodb.customers.find({"name": {"$regex": "^T.*"}}, {"_id": 0, "name": 1, "rating":1}) print(dumps(data, indent=2)) Sorting and limiting # SELECT name, rating FROM customers ORDER BY rating LIMIT 2 data = demodb.customers.find( { }, {"_id": 0, "name": 1, "rating":1}

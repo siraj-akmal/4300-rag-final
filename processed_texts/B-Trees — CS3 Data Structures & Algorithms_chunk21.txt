@@ -1,0 +1,1 @@
+have up to four children. Figure 12.6.1: A B-tree of order four. Search in a B-tree is a generalization of search in a 2-3 tree. It is an alternating two-step process, beginning with the root node of the B- tree. 1. Perform a binary search on the records in the

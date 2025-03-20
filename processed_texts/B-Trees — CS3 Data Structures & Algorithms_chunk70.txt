@@ -1,0 +1,1 @@
+in practice, nodes really do associate a key with each pointer. Each internal node should be assumed to hold in the B+ B∗ B+ B+ B+ B+ B+ B+ B+ m m B+ B+ B+ 3/17/25, 9:22 AM 12.6. B-Trees — CS3 Data Structures & Algorithms https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/BTree.html#id2 2/9 leftmost position

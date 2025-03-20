@@ -1,0 +1,1 @@
+Works well will highly structured data - Can handle large amounts of data - Well understood, lots of tooling, lots of experience 2 Relational Database Performance Many ways that a RDBMS increases efﬁciency: - indexing (the topic we focused on) - directly controlling storage - column oriented storage vs row

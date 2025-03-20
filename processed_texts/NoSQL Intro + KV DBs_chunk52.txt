@@ -1,0 +1,1 @@
+lists) - Sets (unique unsorted string elements) - Sorted Sets - Hashes (string → string) - Geospatial data 20 Setting Up Redis in Docker - In Docker Desktop, search for Redis. - Pull/Run the latest image (see above) - Optional Settings: add 6379 to Ports to expose that port so

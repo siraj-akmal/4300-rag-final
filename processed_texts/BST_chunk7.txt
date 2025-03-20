@@ -1,0 +1,1 @@
+of the Nodes in a BST By “traversal” we mean visiting all the nodes in a graph. Traversal strategies can be speciﬁed by the ordering of the three objects to visit: the current node, the left subtree, and the right subtree. We assume the the left subtree always comes before

@@ -1,0 +1,1 @@
+DS 4300 Large Scale Information Storage and Retrieval B+ Tree Walkthrough Mark Fontenot, PhD Northeastern University 2 B+ Tree : m = 4 Insert: 42, 21, 63, 89 ●Initially, the ﬁrst node is a leaf node AND root node. ●21, 42, … represent keys of some set of K:V pairs

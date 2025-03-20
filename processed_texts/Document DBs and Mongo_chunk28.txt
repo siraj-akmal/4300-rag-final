@@ -1,0 +1,1 @@
+failover - Load balancing built in 14 MongoDB Versions ●MongoDB Atlas ○ Fully managed MongoDB service in the cloud (DBaaS) ●MongoDB Enterprise ○ Subscription-based, self-managed version of MongoDB ●MongoDB Community ○ source-available, free-to-use, self-managed 15 Interacting with MongoDB ●mongosh → MongoDB Shell ○ CLI tool for interacting with a MongoDB

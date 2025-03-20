@@ -1,0 +1,1 @@
+11 19 61 R B+ L R L R L 1 / 23 << < > >> Example B+ Tree Visualization: Delete from a tree of degree 4 12 44 67 58 3/17/25, 9:22 AM 12.6. B-Trees — CS3 Data Structures & Algorithms https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/BTree.html#id2 6/9 Figure 12.6.7: An example of

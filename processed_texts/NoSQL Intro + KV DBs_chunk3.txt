@@ -1,0 +1,1 @@
+can go wrong, it will. ○ Conﬂicts are prevented by locking resources until a transaction is complete (there are both read and write locks) ○ Write Lock Analogy → borrowing a book from a library… If you have it, no one else can. 2 See https://www.freecodecamp.org/news/how-databases-guarantee-isolation for more for a

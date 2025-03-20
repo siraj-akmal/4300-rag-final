@@ -1,0 +1,1 @@
+w: 21, uom: 'cm' }, status: 'A' }, { item: 'notebook', qty: 50, size: { h: 8.5, w: 11, uom: 'in' }, status: 'A' }, { item: 'paper', qty: 100, size: { h: 8.5, w: 11, uom: 'in' }, status: 'D' }, { item: 'planner', qty: 75, size: { h:

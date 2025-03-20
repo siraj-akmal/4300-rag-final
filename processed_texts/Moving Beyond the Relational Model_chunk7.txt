@@ -1,0 +1,1 @@
+- OR the entire sequence fails (ROLLBACK or ABORT) - Help ensure - Data Integrity - Error Recovery - Concurrency Control - Reliable Data Storage - Simpliﬁed Error Handling 4 ACID Properties - Atomicity - transaction is treated as an atomic unit - it is fully executed or no parts

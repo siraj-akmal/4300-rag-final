@@ -1,0 +1,1 @@
+} 15 The predecessor can be found similarly with the roles of left and right exchanged and with the roles of maximum and minimum exchanged. For which node is the successor undeﬁned? What is the running time of the successor algorithm? 16 5. Deletion Suppose we want to delete a

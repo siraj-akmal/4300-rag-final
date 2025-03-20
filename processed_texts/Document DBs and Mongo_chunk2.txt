@@ -1,0 +1,1 @@
+are designed to be simple, ﬂexible, and scalable. 2 What is JSON? ● JSON (JavaScript Object Notation) ○ a lightweight data-interchange format ○ It is easy for humans to read and write. ○ It is easy for machines to parse and generate. ● JSON is built on two structures: ○

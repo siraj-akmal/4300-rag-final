@@ -1,0 +1,1 @@
+traversed in sorted order by visiting all the leaf nodes on the linked list. Here is a Java-like pseudocode representation for the tree node interface. Leaf node and internal node subclasses would implement this interface. /** Interface for B+ Tree nodes */ public interface BPNode<Key,E> { public boolean isLeaf(); public

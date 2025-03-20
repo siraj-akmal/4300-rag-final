@@ -1,0 +1,1 @@
+data when they read or write ●Optimistic because it assumes conﬂicts are unlikely to occur ○ Even if there is a conﬂict, everything will still be OK. ●But how? ○ Add last update timestamp and version number columns to every table… read them when changing. THEN, check at the end

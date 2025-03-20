@@ -1,0 +1,1 @@
+of all students in DS4300) - access control lists for users and permission structures - social network friends lists and/or group membership - Supports set operations!! 35 Set Commands SADD ds4300 “Mark” SADD ds4300 “Sam” SADD cs3200 “Nick” SADD cs3200 “Sam” SISMEMBER ds4300 “Mark” SISMEMBER ds4300 “Nick” SCARD ds4300 36

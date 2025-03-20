@@ -1,0 +1,1 @@
+to direct search, rather than store actual data. Does this overhead amount to a significant use of space? No, because once again the high fan-out rate of the tree structure means that the vast majority of nodes are leaf nodes. A K-ary tree has approximately of its nodes as internal

@@ -1,0 +1,1 @@
+single leaf node) can have at most 100 records. A tree with height two (a root internal node whose children are leaves) must have at least 100 records (2 leaves with 50 records each). It has at most 10,000 records (100 leaves with 100 records each). A tree with height

@@ -1,0 +1,1 @@
+thanks! Document Database A Document Database is a non-relational database that stores data as structured documents, usually in JSON. They are designed to be simple, ﬂexible, and scalable. 2 What is JSON? ● JSON (JavaScript Object Notation) ○ a lightweight data-interchange format ○ It is easy for humans to read

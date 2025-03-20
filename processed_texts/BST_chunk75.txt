@@ -1,0 +1,1 @@
+So, we will view the process as follows: A key x from the keys is selected uniformly at random and is inserted to the tree. Then all the other keys are inserted. Here all the keys greater than x go into the right subtree of x and all the keys

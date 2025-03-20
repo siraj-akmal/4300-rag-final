@@ -1,0 +1,1 @@
+a conﬂict, everything will still be OK. ●But how? ○ Add last update timestamp and version number columns to every table… read them when changing. THEN, check at the end of transaction to see if any other transaction has caused them to be modiﬁed. 3 Optimistic Concurrency ●Low Conﬂict Systems

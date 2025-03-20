@@ -1,0 +1,1 @@
+○Guarantees the availability of the data (per CAP), but response can be “failure”/“unreliable” because the data is in an inconsistent or changing state ○System appears to work most of the time 8 ACID Alternative for Distrib Systems - BASE ●Soft State - The state of the system could change over

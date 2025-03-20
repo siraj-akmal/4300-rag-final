@@ -1,0 +1,1 @@
+NoSQL queries are constructed using JSON objects. Below is an example: { object: String, q: Expression, fields: Array of String, groupBy: Array of String, aggregation: Object mapping fields to aggregate functions } For example, the shortest query you can write would be: { "object": "String", "q": "Expression" } This NoSQL

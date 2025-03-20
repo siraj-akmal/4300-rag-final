@@ -1,0 +1,1 @@
+Docs » API Documentation » NOSQL Query Language NOSQL Query Language This query language is inspired by MongoDB. A query consists of these parts: 1. fields to be extracted 2. table to extract the records from 3. expression for filtering the table rows 4. groupby - fields to group the

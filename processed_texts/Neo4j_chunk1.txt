@@ -1,0 +1,1 @@
+Neo4j by Needham and Hodler (O’Reilly Press, 2019) Neo4j - A Graph Database System that supports both transactional and analytical processing of graph-based data - Relatively new class of no-sql DBs - Considered schema optional (one can be imposed) - Supports various types of indexing - ACID compliant - Supports

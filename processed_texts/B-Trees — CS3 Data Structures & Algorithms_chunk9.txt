@@ -1,0 +1,1 @@
+similar key values) on the same disk block, which helps to minimize disk I/O on range searches. 4. B-trees guarantee that every node in the tree will be full at least to a certain minimum percentage. This improves space efficiency while reducing the typical number of disk fetches necessary during

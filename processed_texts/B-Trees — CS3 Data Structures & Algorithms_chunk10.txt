@@ -1,0 +1,1 @@
+that every node in the tree will be full at least to a certain minimum percentage. This improves space efficiency while reducing the typical number of disk fetches necessary during a search or update operation. A B-tree of order is defined to have the following shape properties: The root is

@@ -1,0 +1,1 @@
+operation performed by a database system ●In SQL, the SELECT statement is arguably the most versatile / complex. ●Baseline for efﬁciency is Linear Search ○ Start at the beginning of a list and proceed element by element until: ■ You ﬁnd what you’re looking for ■ You get to the

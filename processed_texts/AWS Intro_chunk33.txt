@@ -1,0 +1,1 @@
+Comprehend - NLP - Amazon Rekognition - Image/Video analysis - Amazon Textract - Text extraction - Amazon Translate - Machine translation 15 Important Services for Data Analytics/Engineering - EC2 and Lambda - Amazon S3 - Amazon RDS and DynamoDB - AWS Glue - Amazon Athena - Amazon EMR - Amazon

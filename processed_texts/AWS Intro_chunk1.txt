@@ -1,0 +1,1 @@
+available ●Globally available via its massive networks of regions and availability zones with their massive data centers ●Based on a pay-as-you-use cost model. ○ Theoretically cheaper than renting rackspace/servers in a data center… Theoretically. 2 History of AWS ●Originally launched in 2006 with only 2 services: S3 & EC2. ●By

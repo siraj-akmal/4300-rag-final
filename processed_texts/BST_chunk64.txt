@@ -1,0 +1,1 @@
+nil then root[T] ←x 14:  If y is the root, then x becomes the root. 15:  Otherwise, do the following. 16: else if y = left[p[y]] 17: then left[p[y]] ←x 18:  If y is the left child of its parent, then 19:  Set the parent’s left

@@ -1,0 +1,1 @@
+model Distributed databases usually adopt one of these strategies. 10 Leader-Based Replication - All writes from clients go to the leader - Leader sends replication info to the followers - Followers process the instructions from the leader - Clients can read from either the leader or followers 11 Leader-Based Replication

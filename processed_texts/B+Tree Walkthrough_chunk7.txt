@@ -1,0 +1,1 @@
+Tree : m = 4 Insert: 10, 27, 96 ● The insert process starts at the root node. The keys of the root node are searched to ﬁnd out which child node we need to descend to. ○ EX: 10. Since 10 < 42, we follow the pointer to the

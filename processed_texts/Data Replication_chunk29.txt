@@ -1,0 +1,1 @@
+● After (if?) the old leader recovers, how do we avoid having multiple leaders receiving conﬂicting data? (Split brain: no way to resolve conﬂicting requests. ● Leader failure detection. Optimal timeout is tricky. 17 Replication Lag refers to the time it takes for writes on the leader to be reﬂected

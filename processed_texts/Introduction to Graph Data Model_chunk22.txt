@@ -1,0 +1,1 @@
+nodes are “more important” in a network compared to other nodes - EX: Social Network Inﬂuencers? - Community Detection - evaluate clustering or partitioning of nodes of a graph and tendency to strengthen or break apart 18 Centrality 19 Some Famous Graph Algorithms - Dijkstra’s Algorithm - single-source shortest path

@@ -1,0 +1,1 @@
+navigate to the folder where you unzipped the ﬁles, and run jupyter lab 6 ?? 7

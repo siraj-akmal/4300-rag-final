@@ -1,0 +1,1 @@
+195, "qty": 4, "price": 35.00 } ] }, { "orderno": 1005, "custid": "C37", "order_date": "2017-08-30", "items": [ { "itemno": 460, "qty": 2, "price": 99.98 }, { "itemno": 347, "qty": 120, "price": 22.00 }, { "itemno": 780, "qty": 1, "price": 1500.00 }, { "itemno": 375, "qty": 2, "price": 149.98 } ]

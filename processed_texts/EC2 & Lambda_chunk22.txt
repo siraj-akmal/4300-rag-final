@@ -1,0 +1,1 @@
+15 In a Browser 16 AWS Lambda 17 Lambdas ●Lambdas provide serverless computing ●Automatically run code in response to events. ●Relieves you from having to manager servers - only worry about the code ●You only pay for execution time, not for idle compute time (different from EC2) 18 Lambda Features

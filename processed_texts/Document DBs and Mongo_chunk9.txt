@@ -1,0 +1,1 @@
+types not part of basic JSON (e.g. Date, BinaryData, etc) - Lightweight - keep space overhead to a minimum - Traversable - designed to be easily traversed, which is vitally important to a document DB - Efﬁcient - encoding and decoding must be efﬁcient - Supported by many modern programming

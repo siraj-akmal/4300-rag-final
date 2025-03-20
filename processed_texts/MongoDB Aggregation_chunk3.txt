@@ -1,0 +1,1 @@
+of stages through which documents proceed. ●​ Some of the different stages that can be used are: ■​ match ■​ project ■​ sort ■​ limit ■​ unwind ■​ group ■​ lookup $match c = mflixdb.movies.aggregate([ {"$match": {"year": {"$lte": 1920}}}, ]) print(dumps(c, indent=4)) match and project c = mflixdb.movies.aggregate([ {"$match": {"year":

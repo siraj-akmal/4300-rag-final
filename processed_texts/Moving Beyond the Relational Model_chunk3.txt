@@ -1,0 +1,1 @@
+of experience 2 Relational Database Performance Many ways that a RDBMS increases efﬁciency: - indexing (the topic we focused on) - directly controlling storage - column oriented storage vs row oriented storage - query optimization - caching/prefetching - materialized views - precompiled stored procedures - data replication and partitioning 3

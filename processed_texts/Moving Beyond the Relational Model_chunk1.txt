@@ -1,0 +1,1 @@
+Data Model and Query Language - ACID Compliance (more on this in a second) - Atomicity, Consistency, Isolation, Durability - Works well will highly structured data - Can handle large amounts of data - Well understood, lots of tooling, lots of experience 2 Relational Database Performance Many ways that a

@@ -1,0 +1,1 @@
+leader - Leader sends replication info to the followers - Followers process the instructions from the leader - Clients can read from either the leader or followers 11 Leader-Based Replication 12 This write could NOT be sent to one of the followers… only the leader. Leader-Based Replication - Very Common

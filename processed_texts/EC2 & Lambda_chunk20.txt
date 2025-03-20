@@ -1,0 +1,1 @@
+streamlit as st def main(): st.title("Welcome to my Streamlit App") st.write("## Data Sets") st.write(""" - data set 01 - data set 02 - data set 03 """) st.write("\n") st.write("## Goodbye!") if __name__ == "__main__": main() Opening Up The Streamlit Port 15 In a Browser 16 AWS Lambda 17 Lambdas ●Lambdas

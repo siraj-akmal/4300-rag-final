@@ -1,0 +1,1 @@
+}, "fields" : ["id"] } } } } This technique relies upon retrieving a single field from the sub-query. Using more than one field would prove more complex. We can now use this sub-query as a part of a larger query retrieving all employees employed in departments that are located

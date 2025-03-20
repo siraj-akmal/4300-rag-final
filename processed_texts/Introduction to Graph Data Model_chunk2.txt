@@ -1,0 +1,1 @@
+model based on the graph data structure - Composed of nodes and edges - edges connect nodes - each is uniquely identiﬁed - each can contain properties (e.g. name, occupation, etc) - supports queries based on graph-oriented operations - traversals - shortest path - lots of others 2 Where do

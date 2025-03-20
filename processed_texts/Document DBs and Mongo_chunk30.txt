@@ -1,0 +1,1 @@
+MongoDB Shell ○ CLI tool for interacting with a MongoDB instance ●MongoDB Compass ○ free, open-source GUI to work with a MongoDB database ●DataGrip and other 3rd Party Tools ●Every major language has a library to interface with MongoDB ○ PyMongo (Python), Mongoose (JavaScript/node), … 16 Mongodb Community Edition in

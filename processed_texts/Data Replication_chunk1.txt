@@ -1,0 +1,1 @@
+Data - Beneﬁts 2 - Scalability / High throughput: Data volume or Read/Write load grows beyond the capacity of a single machine - Fault Tolerance / High Availability: Your application needs to continue working even if one or more machines goes down. - Latency: When you have users in different

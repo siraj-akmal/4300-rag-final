@@ -1,0 +1,1 @@
+sample dataset into your MongoDB Atlas deployment, see Load Sample Data. To project fields to return from a query in MongoDB Atlas, follow these steps:   { status: 'A', $or: [ { qty: { $lt: 30 } }, { item: ] }   SELECT * FROM inventory WHERE

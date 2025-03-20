@@ -1,0 +1,1 @@
+DS 4300 Large Scale Information Storage and Retrieval Foundations Mark Fontenot, PhD Northeastern University Searching ●Searching is the most common operation performed by a database system ●In SQL, the SELECT statement is arguably the most versatile / complex. ●Baseline for efﬁciency is Linear Search ○ Start at the beginning of

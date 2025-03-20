@@ -1,0 +1,1 @@
+Figure 12.6.4: An example of deleting from a tree Now, let’s extend these ideas to a tree of higher order. trees are exceptionally good for range queries. Once the first record in the range has been found, the rest of the records with keys in the range can be accessed

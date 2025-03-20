@@ -1,0 +1,1 @@
+Machine Image EC2 Lifecycle ●Launch - when starting an instance for the ﬁrst time with a chosen conﬁguration ●Start/Stop - Temporarily suspend usage without deleting the instance ●Terminate - Permanently delete the instance ●Reboot - Restart an instance without sling the data on the root volume 5 Where Can You

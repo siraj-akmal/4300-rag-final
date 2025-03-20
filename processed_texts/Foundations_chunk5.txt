@@ -1,0 +1,1 @@
+of records of the same entity type; a table ○ Trivially, stored in some sequential order like a list ●Search Key - A value for an attribute from the entity type ○ Could be >= 1 attribute 3 Lists of Records ●If each record takes up x bytes of memory,

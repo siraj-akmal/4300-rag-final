@@ -1,0 +1,1 @@
+do { 4: if key[y] < k 5: then z ←left[y] 6: else z ←right[y] 7: if z = nil break 8: } 9: if key[y] > k then left[y] ←z 10: else right[p[y]] ←z 12 4. The Successor and The Predecessor The successor (respectively, the predecessor) of a key

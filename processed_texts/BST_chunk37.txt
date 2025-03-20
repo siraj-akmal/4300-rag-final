@@ -1,0 +1,1 @@
+that k = key[z]. Using binary search we ﬁnd a nil such that replacing it by z does not break the BST-property. 11 BST-Insert(x, z, k) 1: if x = nil then return “Error” 2: y ←x 3: while true do { 4: if key[y] < k 5: then z

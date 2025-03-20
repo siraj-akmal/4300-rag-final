@@ -1,0 +1,1 @@
+as follows: { $not: { location : "Paris" }} Or we can also use a not-equal operator: { location: { $neq: "Paris" }} Group By Queries A group by query aggregates on fields, and then applies aggregation operators to the specified fields. For instance, to group by Country , and

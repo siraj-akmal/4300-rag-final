@@ -1,0 +1,1 @@
+v8.0 - MongoDB Docs https://www.mongodb.com/docs/manual/tutorial/query-documents/ 3/14 To select all documents in the collection, pass an empty document as the query filter parameter to the find method. The query filter parameter determines the select criteria: This operation uses a query predicate of {}, which corresponds to the following SQL statement: To

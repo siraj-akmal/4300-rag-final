@@ -1,0 +1,1 @@
+Theorem states that it is impossible for a distributed data store to simultaneously provide more than two out of the following three guarantees: - Consistency - Every read receives the most recent write or error thrown - Availability - Every request receives a (non-error) response - but no guarantee that

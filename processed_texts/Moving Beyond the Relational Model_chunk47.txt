@@ -1,0 +1,1 @@
+request receives a (non-error) response - but no guarantee that the response contains the most recent write - Partition Tolerance - The system can continue to operate despite arbitrary network issues. CAP Theorem - Database View 20 Reference: https://alperenbayramoglu.com/posts/understanding-cap-theorem/ - Consistency*: Every user of the DB has an identical view

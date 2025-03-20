@@ -1,0 +1,1 @@
+are leaves) must have at least 100 records (2 leaves with 50 records each). It has at most 10,000 records (100 leaves with 100 records each). A tree with height three must have at least 5000 records (two second-level nodes with 50 children containing 50 records each) and at most

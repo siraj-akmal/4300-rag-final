@@ -1,0 +1,1 @@
+in 2006 with only 2 services: S3 & EC2. ●By 2010, services had expanded to include SimpleDB, Elastic Block Store, Relational Database Service, DynamoDB, CloudWatch, Simple Workﬂow, CloudFront, Availability Zones, and others. ●Amazon had competitions with big prizes to spur the adoption of AWS in its early days ●They’ve continuously

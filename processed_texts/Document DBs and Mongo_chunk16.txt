@@ -1,0 +1,1 @@
+to transform XML into other formats, including non-XML formats such as HTML. 7 Why Document Databases? - Document databases address the impedance mismatch problem between object persistence in OO systems and how relational DBs structure data. - OO Programming → Inheritance and Composition of types. - How do we save

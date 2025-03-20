@@ -1,0 +1,1 @@
+environment variables for different platforms separate - .env.local - .env.dev - .env.prod 7 NEO4J_PASSWORD=abc123!!! .env file Docker Compose Commands ●To test if you have Docker CLI properly installed, run: docker --version ●Major Docker Commands ○ docker compose up ○ docker compose up -d ○ docker compose down ○ docker compose

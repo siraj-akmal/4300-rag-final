@@ -1,0 +1,1 @@
+programmatically) scale instances up or down as needed ●You can use one of the standard AMIs OR provide your own AMI if pre-conﬁg is needed ●Easily integrates with many other services such as S3, RDS, etc. 4 AMI = Amazon Machine Image EC2 Lifecycle ●Launch - when starting an instance

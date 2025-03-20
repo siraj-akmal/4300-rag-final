@@ -1,0 +1,1 @@
+via a single PUT or POST and retrieved with a single GET …. VERY Fast - User Proﬁles & Preferences - User info could be obtained with a single GET operation… language, TZ, product or UI preferences - Shopping Cart Data - Cart data is tied to the user -

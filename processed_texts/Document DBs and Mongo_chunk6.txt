@@ -1,0 +1,1 @@
+In most languages, this is operationalized as an array, vector, list, or sequence. ● These are two universal data structures supported by virtually all modern programming languages ○ Thus, JSON makes a great data interchange format. 3 JSON Syntax 4 https://www.json.org/json-en.html Binary JSON? BSON - BSON → Binary JSON -

@@ -1,0 +1,1 @@
+a big graph of “pages” (nodes) connected by hyperlinks (edges) - Chemical and biological data - systems biology, genetics, etc. - interaction relationships in chemistry 3 Basics of Graphs and Graph Theory 4 What is a graph? Labeled Property Graph - Composed of a set of node (vertex) objects and

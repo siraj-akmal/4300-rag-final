@@ -1,0 +1,1 @@
+{ "location" : "Boston" }} Sub Queries The following sub-query retrieves the department ID of each department in New York: { "object": "department", "q": { "city" : "New York" }, "fields" : ["id"]} latest Using this subquery, we can now test a new field - dept_id - with respect to

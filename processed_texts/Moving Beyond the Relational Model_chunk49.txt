@@ -1,0 +1,1 @@
+Consistency*: Every user of the DB has an identical view of the data at any given instant - Availability: In the event of a failure, the database remains operational - Partition Tolerance: The database can maintain operations in the event of the network’s failing between two segments of the distributed

@@ -1,0 +1,1 @@
+42, … represent keys of some set of K:V pairs ●Leaf nodes store keys and data, although data not shown ●Inserting another key will cause the node to split. 3 B+ Tree : m = 4 Insert: 35 ● Leaf node needs to split to accommodate 35. New leaf node

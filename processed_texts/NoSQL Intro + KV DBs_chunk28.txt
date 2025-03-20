@@ -1,0 +1,1 @@
+Systems - BASE ●Eventual Consistency - The system will eventually become consistent ○All writes will eventually stop so all nodes/replicas can be updated 10 Categories of NoSQL DBs - Review 11 First Up → Key-Value Databases 12 Key Value Stores key = value - Key-value stores are designed around: -

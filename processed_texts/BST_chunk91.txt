@@ -1,0 +1,1 @@
+have E[Xn] = O(log n). Thus the average height of a randomly build BST is O(log n). 26

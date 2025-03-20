@@ -1,0 +1,1 @@
+“_id”: 0} ) 1 = return; 0 = don’t return PyMongo 30 PyMongo ●PyMongo is a Python library for interfacing with MongoDB instances 31 from pymongo import MongoClient client = MongoClient( ‘mongodb://user_name:pw@localhost:27017’ ) Getting a Database and Collection 32 from pymongo import MongoClient client = MongoClient( ‘mongodb://user_name:pw@localhost:27017’ ) db =

@@ -1,0 +1,1 @@
+m = 4 Insert: 42, 21, 63, 89 ●Initially, the ﬁrst node is a leaf node AND root node. ●21, 42, … represent keys of some set of K:V pairs ●Leaf nodes store keys and data, although data not shown ●Inserting another key will cause the node to split. 3

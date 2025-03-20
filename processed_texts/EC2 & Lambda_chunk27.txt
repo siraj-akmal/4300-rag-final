@@ -1,0 +1,1 @@
+●Watch your Lambda run when one of the event sources ﬁres an event 20 Let’s Make One 21 Making a Lambda 22 Creating a Function 23 Sample Code ●Edit the code ●Deploy the code! 24 Test It 25 ?? 26

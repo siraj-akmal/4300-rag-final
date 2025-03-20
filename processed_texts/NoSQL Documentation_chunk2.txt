@@ -1,0 +1,1 @@
+the table rows 4. groupby - fields to group the data under 5. aggregate functions to be applied to columns in fields 6. orderby - fields to order the return data by 7. limit - an integer number of records to return. Only the table and expression parameters are mandatory.

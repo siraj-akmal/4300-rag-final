@@ -1,0 +1,1 @@
+object redis_client.mset({'key1': 'val1', 'key2': 'val2', 'key3': 'val3'}) print(redis_client.mget('key1', 'key2', 'key3')) # returns as list [‘val1’, ‘val2’, ‘val3’] 6 String Commands - 3 - set(), mset(), setex(), msetnx(), setnx() - get(), mget(), getex(), getdel() - incr(), decr(), incrby(), decrby() - strlen(), append() 7 List Commands - 1 # create list: key

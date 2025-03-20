@@ -1,0 +1,1 @@
+model Demios brand Ergonom price 1971 HGET bike:1 model HGET bike:1 price HGETALL bike:1 HMGET bike:1 model price weight HINCRBY bike:1 price 100 What is returned? List Type - Value of KV Pair is linked lists of string values - Use Cases: - implementation of stacks and queues - queue

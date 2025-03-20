@@ -1,0 +1,1 @@
+return. If you specify an empty query predicate ({ }), the query returns all documents in the collection. You can query documents in MongoDB by using the following methods: MongoDB Manual CRUD Operations query predicate ANNOUNCEMENT: Voyage AI joins MongoDB to power more accurate and trustworthy AI applications on Atlas.

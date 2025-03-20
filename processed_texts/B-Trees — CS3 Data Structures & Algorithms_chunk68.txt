@@ -1,0 +1,1 @@
+to note is that while Figure 12.6.1 shows internal nodes containing three keys and four pointers, class BPNode is slightly different in that it stores key/pointer pairs. Figure 12.6.1 shows the tree as it is traditionally drawn. To simplify implementation in practice, nodes really do associate a key with each

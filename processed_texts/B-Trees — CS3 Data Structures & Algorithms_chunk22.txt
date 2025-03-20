@@ -1,0 +1,1 @@
+search in a 2-3 tree. It is an alternating two-step process, beginning with the root node of the B- tree. 1. Perform a binary search on the records in the current node. If a record with the search key is found, then return that record. If the current node is

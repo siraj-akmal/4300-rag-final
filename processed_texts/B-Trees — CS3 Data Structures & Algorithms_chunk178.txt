@@ -1,0 +1,1 @@
+B∗ Θ(logn) n B+ B+ B+ B+ B+ B+ B+ 1/K B+ 1/75 3/17/25, 9:22 AM 12.6. B-Trees — CS3 Data Structures & Algorithms https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/BTree.html#id2 8/9 3/17/25, 9:22 AM 12.6. B-Trees — CS3 Data Structures & Algorithms https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/BTree.html#id2 9/9

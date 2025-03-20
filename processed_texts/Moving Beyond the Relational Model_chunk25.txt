@@ -1,0 +1,1 @@
+WHERE account_id = sender_id) < 0 THEN -- Roll back the transaction if there are insufficient funds ROLLBACK; SIGNAL SQLSTATE '45000' -- 45000 is unhandled, user-defined error SET MESSAGE_TEXT = rollback_message; ELSE -- Log the transactions if there are sufficient funds INSERT INTO transactions (account_id, amount, transaction_type) VALUES (sender_id, -amount,

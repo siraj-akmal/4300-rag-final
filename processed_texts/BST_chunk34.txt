@@ -1,0 +1,1 @@
+1: if x = nil then return (“Empty Tree”) 2: y ←x 3: while left[y] ̸= nil do y ←left[y] 4: return (key[y]) BST-Maximum(x) 1: if x = nil then return (“Empty Tree”) 2: y ←x 3: while right[y] ̸= nil do y ←right[y] 4: return (key[y]) 10 3. Insertion

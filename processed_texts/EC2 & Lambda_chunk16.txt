@@ -1,0 +1,1 @@
+install MiniConda ○ curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh ○ bash ./Miniconda3-latest-Linux-x86_64.sh 12 Installing & Using Streamlit ●Log out of your EC2 instance and log back in ●Make sure pip is now available: ○ pip --version ●Install Streamlit and sklearn ○ pip install streamlit scikit-learn ●Make a directory for a small web app

@@ -1,0 +1,1 @@
+with the latest data and every request gets a response, but may not be able to deal with network issues - Consistency + Partition Tolerance: If system responds with data from a distributed store, it is always the latest, else data request is dropped. - Availability + Partition Tolerance: System

@@ -1,0 +1,1 @@
+conﬂicts that arise can be handled by rolling back and re-running a transaction that notices a conﬂict. ○ So, optimistic concurrency works well - allows for higher concurrency ●High Conﬂict Systems ○ rolling back and rerunning transactions that encounter a conﬂict → less efﬁcient ○ So, a locking scheme (pessimistic

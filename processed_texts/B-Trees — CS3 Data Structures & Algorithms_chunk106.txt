@@ -1,0 +1,1 @@
+Algorithms https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/BTree.html#id2 5/9 Here is an exercise to see if you get the basic idea of tree insertion. To delete record from the tree, first locate the leaf that contains . If is more than half full, then we need only remove , leaving still at least half full. This

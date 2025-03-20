@@ -1,0 +1,1 @@
+pointers to the parent, the left child, and the right child, respectively, and • key, which is key stored at the node. 1 An example 4 2 3 6 5 12 9 8 11 15 19 20 7 2 Traversal of the Nodes in a BST By “traversal” we mean

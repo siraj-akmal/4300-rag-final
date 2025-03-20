@@ -1,0 +1,1 @@
+user:1 DEL user:1 KEYS user* - SELECT 5 - select a different database 25 Some Basic Commands - SET someValue 0 INCR someValue #increment by 1 INCRBY someValue 10 #increment by 10 DECR someValue #decrement by 1 DECRBY someValue 5 #decrement by 5 - INCR parses the value as int

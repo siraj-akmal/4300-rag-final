@@ -1,0 +1,1 @@
+AWS Glue - Amazon Athena - Amazon EMR - Amazon Redshift 16 AWS Free Tier ●Allows you to gain hands-on experience with a subset of the services for 12 months (service limitations apply as well) ○ Amazon EC2 - 750 hours/month (speciﬁc OSs and Instance Sizes) ○ Amazon S3 -

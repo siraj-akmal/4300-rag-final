@@ -1,0 +1,1 @@
+< min_diff: min_diff = diff pair = (arr[x], arr[y]) return pair Next, propose a separate algorithm (in Python) for a sorted list of integers to achieve the same goal. [10 points] def closest_pair_sorted(arr): n = len(arr) pair = (0,0) min_diff = float('inf') for x in range(n-1): diff = abs(arr[x] -

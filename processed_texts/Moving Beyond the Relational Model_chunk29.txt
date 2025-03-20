@@ -1,0 +1,1 @@
+- Once a transaction is completed and committed successfully, its changes are permanent. - Even in the event of a system failure, committed transactions are preserved - For more info on Transactions, see: - Kleppmann Book Chapter 7 12 But … Relational Databases may not be the solution to all

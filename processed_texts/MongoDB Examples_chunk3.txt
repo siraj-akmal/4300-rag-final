@@ -1,0 +1,1 @@
+DemoDB with 2 collections demodb.customers.drop() demodb.orders.drop() customers = [ {"custid": "C13", "name": "T. Cruise", "address": { "street": "201 Main St.", "city": "St. Louis, MO", "zipcode": "63101" }, "rating": 750 }, {"custid": "C25", "name": "M. Streep", "address": { "street": "690 River St.", "city": "Hanover, MA", "zipcode": "02340" }, "rating": 690 },

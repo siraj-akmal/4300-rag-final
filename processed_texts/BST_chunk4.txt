@@ -1,0 +1,1 @@
+keys of a BST are pairwise distinct. Each node has the following attributes: • p, left, and right, which are pointers to the parent, the left child, and the right child, respectively, and • key, which is key stored at the node. 1 An example 4 2 3 6 5

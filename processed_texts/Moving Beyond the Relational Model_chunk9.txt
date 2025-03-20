@@ -1,0 +1,1 @@
+atomic unit - it is fully executed or no parts of it are executed - Consistency - a transaction takes a database from one consistent state to another consistent state - consistent state - all data meets integrity constraints 5 ACID Properties - Isolation - Two transactions T1 and T2

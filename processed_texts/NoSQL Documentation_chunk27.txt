@@ -1,0 +1,1 @@
+. The set of comparison operators is quite extensive and includes: $lte, $lt, $gte, $gt, $eq, $neq, $not 3. Test if the value of the field is IN or NOT IN the result of a sub-query. 4. Test for the negation of a comparison. For example, to test if the

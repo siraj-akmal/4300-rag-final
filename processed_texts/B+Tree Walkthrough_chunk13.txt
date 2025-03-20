@@ -1,0 +1,1 @@
+temporarily called newNode. ○ Insert newNode into the doubly linked list of leaf nodes. 6 B+ Tree : m = 4 Insert: 30 cont’d. ● re-distribute the keys ● copy the smallest key (27 in this case) from newNode to parent; rearrange keys and pointers in parent node. ● Parent

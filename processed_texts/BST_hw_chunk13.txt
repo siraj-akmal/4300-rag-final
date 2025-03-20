@@ -1,0 +1,1 @@
+the one in front of it. Question 2: Implement in Python an algorithm for a level order traversal of a binary tree. The algorithm should print each level of the binary tree to the screen starting with the lowest/deepest level on the first line. The last line of output should

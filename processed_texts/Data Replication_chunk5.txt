@@ -1,0 +1,1 @@
+reading and writing data in a distributed environment often falls to the application. 3 Vertical Scaling - Shared Memory Architectures - Geographically Centralized server - Some fault tolerance (via hot-swappable components) 4 Vertical Scaling - Shared Disk Architectures - Machines are connected via a fast network - Contention and the

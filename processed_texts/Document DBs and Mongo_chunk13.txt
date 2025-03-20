@@ -1,0 +1,1 @@
+set is extensible 6 XML-Related Tools/Technologies - Xpath - a syntax for retrieving speciﬁc elements from an XML doc - Xquery - a query language for interrogating XML documents; the SQL of XML - DTD - Document Type Deﬁnition - a language for describing the allowed structure of an XML

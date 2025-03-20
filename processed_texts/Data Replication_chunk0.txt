@@ -1,0 +1,1 @@
+DS 4300 Replicating Data Mark Fontenot, PhD Northeastern University Some material used with permission from Dr. Rachlin, with thanks! Distributing Data - Beneﬁts 2 - Scalability / High throughput: Data volume or Read/Write load grows beyond the capacity of a single machine - Fault Tolerance / High Availability: Your application

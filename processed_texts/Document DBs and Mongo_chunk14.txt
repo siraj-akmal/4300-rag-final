@@ -1,0 +1,1 @@
+Xquery - a query language for interrogating XML documents; the SQL of XML - DTD - Document Type Deﬁnition - a language for describing the allowed structure of an XML document - XSLT - eXtensible Stylesheet Language Transformation - tool to transform XML into other formats, including non-XML formats such

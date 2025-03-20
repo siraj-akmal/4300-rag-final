@@ -1,0 +1,1 @@
+ SELECT * FROM inventory WHERE statu NOTE The MongoDB Compass query bar autocompletes the current query based on the keys in your collection's documents, including keys in embedded sub-documents. query filter document query operators   { <field1>: { <operator1>: <value1> }, Node.js 3/17/25, 9:55 AM Query Documents -

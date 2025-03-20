@@ -1,0 +1,1 @@
+- Query Language and Plugins - Cypher - Neo4j’s graph query language created in 2011 - Goal: SQL-equivalent language for graph databases - Provides a visual way of matching patterns and relationships (nodes)-[:CONNECT_TO]->(otherNodes) - APOC Plugin - Awesome Procedures on Cypher - Add-on library that provides hundreds of procedures and

@@ -1,0 +1,1 @@
+1, etc - Availability Zones (AZs) - each region has multiple AZs - roughly equiv to isolated data centers - Edge Locations - locations for CDN and other types of caching services - allows content to be closer to end user. 9 10 https://aws.amazon.com/about-aws/global-infrastructure/ Compute Services 11 https://aws.amazon.com/products/compute/ - VM-based:

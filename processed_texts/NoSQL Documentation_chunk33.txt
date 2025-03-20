@@ -1,0 +1,1 @@
+operator, and the query, as follows: { "dept_id": { "$in": { { "object": "department", "q": { "city" : "New York" }, "fields" : ["id"] } } } } This technique relies upon retrieving a single field from the sub-query. Using more than one field would prove more complex. We can

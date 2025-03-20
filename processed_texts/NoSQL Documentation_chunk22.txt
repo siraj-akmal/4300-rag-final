@@ -1,0 +1,1 @@
+{ "$gt" : 20 } }, { "Location" : { "$like" : "Palo Alto" } } ] }, "fields": ["Location", "country"] }, { "object" : "Person", "q" : { "name": "john" }, "fields": ["City", "country"], "limit": 11 } ] } Conditions on Fields A condition on a field is a

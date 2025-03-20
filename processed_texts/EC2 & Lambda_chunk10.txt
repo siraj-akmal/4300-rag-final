@@ -1,0 +1,1 @@
+- Run a website/web server and associated apps ●Data Processing - It’s a VM… you can do anything to data possible with a programming language. ●Machine Learning - Train models using GPU instances ●Disaster Recovery - Backup critical workloads or infrastructure in the cloud 7 Let’s Spin Up an EC2

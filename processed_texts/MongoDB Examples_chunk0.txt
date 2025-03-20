@@ -1,0 +1,1 @@
+MongoDB + PyMongo Example Queries ●​ Make sure your MongoDB container is running ●​ Make sure you have pymongo installed before running cells in this notebook. If not, use pip install pymongo. import pymongo from bson.json_util import dumps # --> Update the URI with your username and password <-- uri

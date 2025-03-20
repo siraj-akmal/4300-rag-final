@@ -1,0 +1,1 @@
+single machine - Fault Tolerance / High Availability: Your application needs to continue working even if one or more machines goes down. - Latency: When you have users in different parts of the world you want to give them fast performance too Distributed Data - Challenges - Consistency: Updates must

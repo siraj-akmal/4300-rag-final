@@ -1,0 +1,1 @@
+Stores key = value - Key-value stores are designed around: - speed - usually deployed as in-memory DB - retrieving a value given its key is typically a O(1) op b/c hash tables or similar data structs used under the hood - no concept of complex queries or joins… they

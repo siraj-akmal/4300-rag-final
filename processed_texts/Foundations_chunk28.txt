@@ -1,0 +1,1 @@
+specialVal (at the same time) ○ data would have to be duplicated → space inefﬁcient 10 Back to Database Searching ● Assume data is stored on disk by column id’s value ● Searching for a speciﬁc id = fast. ● But what if we want to search for a speciﬁc

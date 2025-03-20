@@ -1,0 +1,1 @@
+Chapter 12: Binary Search Trees A binary search tree is a binary tree with a special property called the BST-property, which is given as follows: ⋆ For all nodes x and y, if y belongs to the left subtree of x, then the key at y is less than the

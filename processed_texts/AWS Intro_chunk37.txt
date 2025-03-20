@@ -1,0 +1,1 @@
+hours/month (speciﬁc OSs and Instance Sizes) ○ Amazon S3 - 5GB (20K GETs, 2K Puts) ○ Amazon RDS - 750 hours/month of DB use (within certain limits) ○ ….. So many free services 17 ?? 18

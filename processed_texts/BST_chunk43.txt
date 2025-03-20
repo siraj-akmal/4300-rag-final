@@ -1,0 +1,1 @@
+ﬁnding the successor of a given node x. • If x has the right child, then the successor is the minimum in the right subtree of x. • Otherwise, the successor is the parent of the farthest node that can be reached from x by following only right branches backward.

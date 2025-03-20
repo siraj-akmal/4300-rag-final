@@ -1,0 +1,1 @@
+of order from multiple followers. Monotonic read consistency: ensures that when a user makes multiple reads, they will not read older data after previously reading newer data. 23 Consistent Preﬁx Reads Reading data out of order can occur if different partitions replicate data at different rates. There is no global

@@ -1,0 +1,1 @@
+its records to a sibling and be removed from the tree. There is certainly room to do this, because the sibling is at most half full (remember that it had no records to contribute to the current node), and has become less than half full because it is under-flowing. This

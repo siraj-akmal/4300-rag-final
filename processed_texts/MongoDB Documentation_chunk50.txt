@@ -1,0 +1,1 @@
+less than ( ) 30 or item starts with the character p:   const cursor = db.collection('inventory $or: [{ status: 'A' }, { qty: { $lt: 3 }); Node.js   SELECT * FROM inventory WHERE statu NOTE Queries that use are subject to comparison operators Type Bracketing. $lt

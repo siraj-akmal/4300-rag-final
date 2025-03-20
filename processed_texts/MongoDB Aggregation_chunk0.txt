@@ -1,0 +1,1 @@
+MongoDB Aggregation Examples ●​ Ensure you have pymongo installed before running cells in this notebook import pymongo from bson.json_util import dumps import pprint # --> Update the URI with your username and password <-- uri = "mongodb://mark:abc123@localhost:27017/" client = pymongo.MongoClient(uri) mflixdb = client.mflix demodb = client.demodb About Aggregates in PyMongo

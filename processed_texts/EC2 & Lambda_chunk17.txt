@@ -1,0 +1,1 @@
+and log back in ●Make sure pip is now available: ○ pip --version ●Install Streamlit and sklearn ○ pip install streamlit scikit-learn ●Make a directory for a small web app ○ mkdir web ○ cd web 13 Basic Streamlit App ● nano test.py ● Add code on left ● ctrl-x

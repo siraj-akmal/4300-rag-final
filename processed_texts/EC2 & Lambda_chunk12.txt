@@ -1,0 +1,1 @@
+infrastructure in the cloud 7 Let’s Spin Up an EC2 Instance 8 Let’s Spin Up an EC2 Instance 9 Let’s Spin Up an EC2 Instance 10 Ubuntu VM Commands - Initial user is ubuntu - Access super user commands with sudo - Package manager is apt - kind of like

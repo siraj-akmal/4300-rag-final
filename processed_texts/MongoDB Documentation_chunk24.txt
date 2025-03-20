@@ -1,0 +1,1 @@
+all documents where the status equals "D":   const cursor = db.collection('inventory Node.js SELECT * FROM inventory query filter document: { <field1>: <value1>, ... } Node.js 3/17/25, 9:55 AM Query Documents - MongoDB Manual v8.0 - MongoDB Docs https://www.mongodb.com/docs/manual/tutorial/query-documents/ 4/14 This operation uses a query predicate of { status:

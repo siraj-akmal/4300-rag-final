@@ -1,0 +1,1 @@
+read from either the leader or followers 11 Leader-Based Replication 12 This write could NOT be sent to one of the followers… only the leader. Leader-Based Replication - Very Common Strategy Relational: ● MySQL, ● Oracle, ● SQL Server, ● PostgreSQL NoSQL: ● MongoDB, ● RethinkDB (realtime web apps), ●

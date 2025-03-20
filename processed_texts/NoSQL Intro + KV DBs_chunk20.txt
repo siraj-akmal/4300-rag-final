@@ -1,0 +1,1 @@
++ Availability: System always responds with the latest data and every request gets a response, but may not be able to deal with network partitions - Consistency + Partition Tolerance: If system responds with data from the distrib. system, it is always the latest, else data request is dropped. -

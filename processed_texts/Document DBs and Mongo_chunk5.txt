@@ -1,0 +1,1 @@
+operationalized as an object, record, struct, dictionary, hash table, keyed list, or associative array. ○ An ordered list of values. In most languages, this is operationalized as an array, vector, list, or sequence. ● These are two universal data structures supported by virtually all modern programming languages ○ Thus, JSON

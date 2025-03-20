@@ -1,0 +1,1 @@
+The Shared Responsibility Model - AWS - AWS Responsibilities (Security OF the cloud): - Security of physical infrastructure (infra) and network - keep the data centers secure, control access to them - maintain power availability, HVAC, etc. - monitor and maintain physical networking equipment and global infra/connectivity - Hypervisor &

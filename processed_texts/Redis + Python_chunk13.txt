@@ -1,0 +1,1 @@
+'sam', 'nick') # prints [‘mark’, ‘sam’, ‘nick’] print(redis_client.lrange('names', 0, -1)) 8 List Commands - 2 - lpush(), lpop(), lset(), lrem() - rpush(), rpop() - lrange(), llen(), lpos() - Other commands include moving elements between lists, popping from multiple lists at the same time, etc. 9 Hash Commands - 1 redis_client.hset('user-session:123',

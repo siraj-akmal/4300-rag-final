@@ -1,0 +1,1 @@
+that use are subject to comparison operators Type Bracketing. $lt   const cursor = db.collection('inventory status: 'A', $or: [{ qty: { $lt: 30 } }, { item: { }); Node.js 3/17/25, 9:55 AM Query Documents - MongoDB Manual v8.0 - MongoDB Docs https://www.mongodb.com/docs/manual/tutorial/query-documents/ 8/14 The operation uses a query

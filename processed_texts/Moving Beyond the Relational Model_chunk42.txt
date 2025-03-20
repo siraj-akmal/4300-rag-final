@@ -1,0 +1,1 @@
+replication and sharding - CockroachDB - new player on the scene - Many NoSQL systems support one or both models - But remember: Network partitioning is inevitable! - network failures, system failures - Overall system needs to be Partition Tolerant - System can keep running even w/ network partition 17

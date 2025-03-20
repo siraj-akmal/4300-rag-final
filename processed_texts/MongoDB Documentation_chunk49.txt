@@ -1,0 +1,1 @@
+example, the compound query document selects all documents in the collection where the status equals "A" and either qty is less than ( ) 30 or item starts with the character p:   const cursor = db.collection('inventory $or: [{ status: 'A' }, { qty: { $lt: 3 }); Node.js

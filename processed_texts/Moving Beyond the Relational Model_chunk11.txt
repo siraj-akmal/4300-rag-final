@@ -1,0 +1,1 @@
+ACID Properties - Isolation - Two transactions T1 and T2 are being executed at the same time but cannot affect each other - If both T1 and T2 are reading the data - no problem - If T1 is reading the same data that T2 may be writing, can result

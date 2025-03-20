@@ -1,0 +1,1 @@
+data structure satisfies several invariants: 1. Every path from the root to a leaf has the same length 2. If a node has n children, it contains n−1 keys. 3. Every node (except the root) is at least half full 4. The elements stored in a given subtree all have

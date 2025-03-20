@@ -1,0 +1,1 @@
+equals "A" and qty is less than ( ) 30: The operation uses a query predicate of { status: "A", qty: { $lt: 30 } }, which corresponds to the following SQL statement: See for other MongoDB comparison operators. Specify OR Conditions Using the operator, you can specify a compound

@@ -1,0 +1,1 @@
+38 47 50 52 60 3/17/25, 9:22 AM 12.6. B-Trees — CS3 Data Structures & Algorithms https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/BTree.html#id2 1/9 2. Otherwise, follow the proper branch and repeat the process. For example, consider a search for the record with key value 47 in the tree of Figure 12.6.1. The root node is

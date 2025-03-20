@@ -1,0 +1,1 @@
+X 52 B 33 65 S 71 W 89 M 71 46 65 33 O 46 H 47 L 52 2 −3+ 2 −3+ 1 / 33 3/17/25, 9:22 AM 12.6. B-Trees — CS3 Data Structures & Algorithms https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/BTree.html#id2 3/9 Figure 12.6.4: An example of deleting from a tree Now,

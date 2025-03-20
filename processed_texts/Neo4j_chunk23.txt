@@ -1,0 +1,1 @@
+netﬂix.zip ﬁle Copy netﬂix_titles.csv into the following folder where you put your docker compose ﬁle neo4j_db/neo4j_db/import 14 Importing Data 15 Basic Data Importing LOAD CSV WITH HEADERS FROM 'file:///netflix_titles.csv' AS line CREATE(:Movie { id: line.show_id, title: line.title, releaseYear: line.release_year } ) 16 Type the following into the Cypher Editor in

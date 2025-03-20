@@ -1,0 +1,1 @@
+"employees", "q": { "position" : "Sales Manager" }, "fields": ["name", "salary"] } Queries can also be used to compare an object's fields to constant values using common comparison operators. For example, to retrieve all fields for all employees under the age of 25, you can use the following query: {

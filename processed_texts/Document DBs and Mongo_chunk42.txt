@@ -1,0 +1,1 @@
+"imdb.rating": { $gte: 7 } } ) mongosh - ﬁnd() - Return movies from the movies collection which were released in 2010 and either won at least 5 awards or have a genre of Drama 26 db.movies.find( { “year”: 2010, $or: [ { "awards.wins": { $gte: 5 } }, {

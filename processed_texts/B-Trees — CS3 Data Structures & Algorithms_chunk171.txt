@@ -1,0 +1,1 @@
+1) require relatively little space. If the B-tree is only height four, then at most two disk fetches (internal nodes at level two and leaves at level three) are required to reach the pointer to any given record. A buffer pool could be used to manage nodes of the B-tree.

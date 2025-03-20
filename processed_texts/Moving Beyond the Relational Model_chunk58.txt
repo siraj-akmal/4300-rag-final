@@ -1,0 +1,1 @@
+possibly be consistent. But it is interpreted as: - You must always give up something: consistency, availability, or tolerance to failure. 22 ?? 23

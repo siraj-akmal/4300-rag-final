@@ -1,0 +1,1 @@
+in Boston, you could use the following query: { "position": "Sales Manager", "age" : { "$lt" : 25 }, "city": "Boston" } OR expressions An OR expression is a disjunction of conditions, { $or: [ Expression1, Expression2, ... ] } For example, use the following query to find all offices

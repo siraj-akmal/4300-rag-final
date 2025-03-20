@@ -1,0 +1,1 @@
+- precompiled stored procedures - data replication and partitioning 3 Transaction Processing - Transaction - a sequence of one or more of the CRUD operations performed as a single, logical unit of work - Either the entire sequence succeeds (COMMIT) - OR the entire sequence fails (ROLLBACK or ABORT) -

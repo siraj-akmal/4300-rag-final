@@ -1,0 +1,1 @@
+Synchronous: Leader waits for a response from the follower Asynchronous: Leader doesn’t wait for conﬁrmation. 15 Synchronous: Asynchronous: What Happens When the Leader Fails? Challenges: How do we pick a new Leader Node? ●Consensus strategy – perhaps based on who has the most updates? ●Use a controller node to appoint

@@ -1,0 +1,1 @@
+be dealt with. The node is split into two nodes containing two keys each, thus retaining the B-tree property. The middle of the five children is promoted to its parent. 12.6.1.1. B+ Trees The previous section mentioned that B-trees are universally used to implement large-scale disk-based systems. Actually, the B-tree

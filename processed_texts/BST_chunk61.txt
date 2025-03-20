@@ -1,0 +1,1 @@
+have two children. 6: if left[y] ̸= nil 7: then x ←left[y] 8: else x ←right[y] 9:  x is the node that’s moving to y’s position. 10: if x ̸= nil then p[x] ←p[y] 11:  p[x] is reset If x isn’t NIL. 12:  Resetting is unnecessary if

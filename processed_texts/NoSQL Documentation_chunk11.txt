@@ -1,0 +1,1 @@
+object's fields to constant values using common comparison operators. For example, to retrieve all fields for all employees under the age of 25, you can use the following query: { "object": "employees", "q": { "age": { "$lt" : 25 } } } Expressions An expression can be either an AND

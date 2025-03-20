@@ -1,0 +1,1 @@
+while reducing the typical number of disk fetches necessary during a search or update operation. A B-tree of order is defined to have the following shape properties: The root is either a leaf or has at least two children. Each internal node, except for the root, has between and children.

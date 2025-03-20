@@ -1,0 +1,1 @@
+while right[p[x]] = x do y ←p[x] 8: if p[x] ̸= nil then return (p[x]) 9: else return (“NO SUCCESSOR”) } 15 The predecessor can be found similarly with the roles of left and right exchanged and with the roles of maximum and minimum exchanged. For which node is the

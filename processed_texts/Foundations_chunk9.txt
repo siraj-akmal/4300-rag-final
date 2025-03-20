@@ -1,0 +1,1 @@
+needs x bytes + additional space for 1 or 2 memory addresses ○ Individual records are linked together in a type of chain using memory addresses 4 Contiguous vs Linked 5 6 Records Contiguously Allocated - Array front back 6 Records Linked by memory addresses - Linked List Extra storage

@@ -1,0 +1,1 @@
+to be duplicated → space inefﬁcient 11 We need an external data structure to support faster searching by specialVal than a linear scan. What do we have in our arsenal? 1) An array of tuples (specialVal, rowNumber) sorted by specialVal a) We could use Binary Search to quickly locate a

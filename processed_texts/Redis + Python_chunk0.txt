@@ -1,0 +1,1 @@
+DS 4300 Redis + Python Mark Fontenot, PhD Northeastern University Redis-py 2 - Redis-py is the standard client for Python. - Maintained by the Redis Company itself - GitHub Repo: redis/redis-py - In your 4300 Conda Environment: pip install redis Connecting to the Server - For your Docker deployment, host

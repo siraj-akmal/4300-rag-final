@@ -1,0 +1,1 @@
+"city": "St. Louis, MO", "zipcode": "63101" }, "rating": 750 }, {"custid": "C25", "name": "M. Streep", "address": { "street": "690 River St.", "city": "Hanover, MA", "zipcode": "02340" }, "rating": 690 }, {"custid": "C31", "name": "B. Pitt", "address": { "street": "360 Mountain Ave.", "city": "St. Louis, MO", "zipcode": "63101" } }, {"custid":

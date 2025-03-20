@@ -1,0 +1,1 @@
+- Maintained by the Redis Company itself - GitHub Repo: redis/redis-py - In your 4300 Conda Environment: pip install redis Connecting to the Server - For your Docker deployment, host could be localhost or 127.0.0.1 - Port is the port mapping given when you created the container (probably the default

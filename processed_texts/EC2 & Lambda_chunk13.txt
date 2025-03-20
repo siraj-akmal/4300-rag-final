@@ -1,0 +1,1 @@
+Spin Up an EC2 Instance 10 Ubuntu VM Commands - Initial user is ubuntu - Access super user commands with sudo - Package manager is apt - kind of like Homebrew or Choco - Update the packages installed - sudo apt update; sudo apt upgrade 11 MiniConda on EC2 Make

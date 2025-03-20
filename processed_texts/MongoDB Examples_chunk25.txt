@@ -1,0 +1,1 @@
+# Now without the _id field. # SELECT name, rating FROM customers data = demodb.customers.find({}, {"name":1, "rating":1, "_id":0}) print(dumps(data, indent=2)) All fields EXCEPT specific ones returned # For every customer, return all fields except _id and address. data = demodb.customers.find({}, {"_id": 0, "address": 0}) print(dumps(data, indent=2)) Equivalent to SQL LIKE

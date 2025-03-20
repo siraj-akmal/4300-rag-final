@@ -1,0 +1,1 @@
+concurrency works well - allows for higher concurrency ●High Conﬂict Systems ○ rolling back and rerunning transactions that encounter a conﬂict → less efﬁcient ○ So, a locking scheme (pessimistic model) might be preferable 4 NoSQL - “NoSQL” ﬁrst used in 1998 by Carlo Strozzi to describe his relational database

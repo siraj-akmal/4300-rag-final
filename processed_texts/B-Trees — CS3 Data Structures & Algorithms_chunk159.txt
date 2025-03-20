@@ -1,0 +1,1 @@
+with 50 children containing 50 records each) and at most one million records (100 second-level nodes with 100 full children each). A tree with height four must have at least 250,000 records and at most 100 million records. Thus, it would require an extremely large database to generate a tree

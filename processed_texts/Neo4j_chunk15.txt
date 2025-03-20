@@ -1,0 +1,1 @@
+test if you have Docker CLI properly installed, run: docker --version ●Major Docker Commands ○ docker compose up ○ docker compose up -d ○ docker compose down ○ docker compose start ○ docker compose stop ○ docker compose build ○ docker compose build --no-cache 8 localhost:7474 9 Neo4j Browser 10

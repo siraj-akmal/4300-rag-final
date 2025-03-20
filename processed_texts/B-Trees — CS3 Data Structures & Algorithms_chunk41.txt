@@ -1,0 +1,1 @@
+not change, a linear index provides an extremely efficient way to search. The problem is how to handle those pesky inserts and deletes. We could try to keep the core idea of storing a sorted array- based list, but make it more flexible by breaking the list into manageable chunks

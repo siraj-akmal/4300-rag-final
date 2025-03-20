@@ -1,0 +1,1 @@
+most common operation - “shortest” means fewest edges or lowest weight - Average Shortest Path can be used to monitor efﬁciency and resiliency of networks. - Minimum spanning tree, cycle detection, max/min ﬂow… are other types of pathﬁnding 15 BFS vs DFS 16 Shortest Path 17 Types of Graph Algorithms

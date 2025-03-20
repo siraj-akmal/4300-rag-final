@@ -1,0 +1,1 @@
+subtree. We assume the the left subtree always comes before the right subtree. Then there are three strategies. 1. Inorder. The ordering is: the left subtree, the current node, the right subtree. 2. Preorder. The ordering is: the current node, the left subtree, the right subtree. 3. Postorder. The ordering

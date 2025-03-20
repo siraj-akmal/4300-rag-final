@@ -1,0 +1,1 @@
+one else can. 2 See https://www.freecodecamp.org/news/how-databases-guarantee-isolation for more for a deeper dive. Optimistic Concurrency ●Transactions do not obtain locks on data when they read or write ●Optimistic because it assumes conﬂicts are unlikely to occur ○ Even if there is a conﬂict, everything will still be OK. ●But how? ○

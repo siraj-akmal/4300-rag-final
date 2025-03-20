@@ -1,0 +1,1 @@
+Examples in Apache Spark and Neo4j by Needham and Hodler (O’Reilly Press, 2019) What is a Graph Database - Data model based on the graph data structure - Composed of nodes and edges - edges connect nodes - each is uniquely identiﬁed - each can contain properties (e.g. name, occupation,

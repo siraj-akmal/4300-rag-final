@@ -1,0 +1,1 @@
+translation 15 Important Services for Data Analytics/Engineering - EC2 and Lambda - Amazon S3 - Amazon RDS and DynamoDB - AWS Glue - Amazon Athena - Amazon EMR - Amazon Redshift 16 AWS Free Tier ●Allows you to gain hands-on experience with a subset of the services for 12 months

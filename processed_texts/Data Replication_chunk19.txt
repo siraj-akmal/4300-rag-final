@@ -1,0 +1,1 @@
+every change to the database. Leader and all followers must implement the same storage engine and makes upgrades difﬁcult. Logical (row-based) Log For relational DBs: Inserted rows, modiﬁed rows (before and after), deleted rows. A transaction log will identify all the rows that changed in each transaction and how they

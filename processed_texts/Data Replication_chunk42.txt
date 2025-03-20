@@ -1,0 +1,1 @@
+older data after previously reading newer data. 23 Consistent Preﬁx Reads Reading data out of order can occur if different partitions replicate data at different rates. There is no global write consistency. Consistent Preﬁx Read Guarantee - ensures that if a sequence of writes happens in a certain order, anyone

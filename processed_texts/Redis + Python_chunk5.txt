@@ -1,0 +1,1 @@
+3 import redis redis_client = redis.Redis(host=’localhost’, port=6379, db=2, decode_responses=True) Redis Command List - Full List > here < - Use Filter to get to command for the particular data structure you’re targeting (list, hash, set, etc.) - Redis.py Documentation > here < - The next slides are not meant to

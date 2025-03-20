@@ -1,0 +1,1 @@
+JSON Type - Full support of the JSON standard - Uses JSONPath syntax for parsing/navigating a JSON document - Internally, stored in binary in a tree-structure → fast access to sub elements 34 Set Type - Unordered collection of unique strings (members) - Use Cases: - track unique items (IP

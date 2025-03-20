@@ -1,0 +1,1 @@
+maintain physical networking equipment and global infra/connectivity - Hypervisor & Host OSs - manage the virtualization layer used in AWS compute services - maintaining underlying host OSs for other services - Maintaining managed services - keep infra up to date and functional - maintain server software (patching, etc) 7 The

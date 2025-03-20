@@ -1,0 +1,1 @@
+They are used to implement most modern file systems. B-trees address effectively all of the major problems encountered when implementing disk-based search trees: 1. The B-tree is shallow, in part because the tree is always height balanced (all leaf nodes are at the same level), and in part because the

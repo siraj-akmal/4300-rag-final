@@ -1,0 +1,1 @@
+←z 3: else y ←BST-Successor(z) 4:  y is the node that’s actually removed. 5:  Here y does not have two children. 6: if left[y] ̸= nil 7: then x ←left[y] 8: else x ←right[y] 9:  x is the node that’s moving to y’s position. 10: if x

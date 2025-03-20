@@ -1,0 +1,1 @@
+dumps import pprint # --> Update the URI with your username and password <-- uri = "mongodb://mark:abc123@localhost:27017/" client = pymongo.MongoClient(uri) mflixdb = client.mflix demodb = client.demodb About Aggregates in PyMongo ●​ Aggregation uses pipelines. ●​ A pipeline is a sequence of stages through which documents proceed. ●​ Some of the

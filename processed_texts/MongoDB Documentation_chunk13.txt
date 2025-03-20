@@ -1,0 +1,1 @@
+2/14 Select All Documents in a Collection   await db.collection('inventory').insert { item: 'journal', qty: 25, size: { h: 14, w: 21, uom: 'cm' }, status: 'A' }, { item: 'notebook', qty: 50, size: { h: 8.5, w: 11, uom: 'in' }, status: 'A' }, { item: 'paper', qty: 100,

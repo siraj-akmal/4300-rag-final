@@ -1,0 +1,1 @@
+are modern systems that make horizontal scaling less problematic. 14 So what? Distributed Data when Scaling Out A distributed system is “a collection of independent computers that appear to its users as one computer.” -Andrew Tennenbaum Characteristics of Distributed Systems: - computers operate concurrently - computers fail independently - no

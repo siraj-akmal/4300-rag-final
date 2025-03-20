@@ -1,0 +1,1 @@
+- Nodes with no associated relationships are OK. Edges not connected to nodes are not permitted. 5 Example 2 Labels: - person - car 4 relationship types: - Drives - Owns - Lives_with - Married_to Properties 6 Paths A path is an ordered sequence of nodes connected by edges in

@@ -1,0 +1,1 @@
+less than its parent and every node in the right subtree is greater than its parent. 13 Image from: https://courses.grainger.illinois.edu/cs225/sp2019/notes/bst/ To the Board! 14

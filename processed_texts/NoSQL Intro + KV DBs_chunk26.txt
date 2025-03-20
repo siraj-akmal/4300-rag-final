@@ -1,0 +1,1 @@
+State - The state of the system could change over time, even w/o input. Changes could be result of eventual consistency. ○Data stores don’t have to be write-consistent ○Replicas don’t have to be mutually consistent 9 ACID Alternative for Distrib Systems - BASE ●Eventual Consistency - The system will eventually

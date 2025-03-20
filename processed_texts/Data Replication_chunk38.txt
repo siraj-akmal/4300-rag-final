@@ -1,0 +1,1 @@
+policy that all requests within one minute of last update come from leader. 21 But… This Can Create Its Own Challenges 22 We created followers so they would be proximal to users. BUT… now we have to route requests to distant leaders when reading modiﬁable data?? :( Monotonic Read Consistency

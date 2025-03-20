@@ -1,0 +1,1 @@
+Traversable - designed to be easily traversed, which is vitally important to a document DB - Efﬁcient - encoding and decoding must be efﬁcient - Supported by many modern programming languages 5 XML (eXtensible Markup Language) ●Precursor to JSON as data exchange format ●XML + CSS → web pages that

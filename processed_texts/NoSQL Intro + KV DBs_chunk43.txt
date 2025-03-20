@@ -1,0 +1,1 @@
+Data - Cart data is tied to the user - needs to be available across browsers, machines, sessions - Caching Layer: - In front of a disk-based database 17 Redis DB - Redis (Remote Directory Server) - Open source, in-memory database - Sometimes called a data structure store - Primarily

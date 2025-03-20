@@ -1,0 +1,1 @@
+the adoption of AWS in its early days ●They’ve continuously innovated, always introducing new services for ops, dev, analytics, etc… (200+ services now) 3 AWS Service Categories 4 Cloud Models ●IaaS (more) - Infrastructure as a Service ○ Contains the basic services that are needed to build an IT infrastructure

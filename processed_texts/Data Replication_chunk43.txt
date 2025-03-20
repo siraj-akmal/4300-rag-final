@@ -1,0 +1,1 @@
+partitions replicate data at different rates. There is no global write consistency. Consistent Preﬁx Read Guarantee - ensures that if a sequence of writes happens in a certain order, anyone reading those writes will see them appear in the same order. 24 A B How far into the future can

@@ -1,0 +1,1 @@
+ACID compliant - Supports distributed computing - Similar: Microsoft CosmoDB, Amazon Neptune 21 ?? 22

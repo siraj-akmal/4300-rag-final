@@ -1,0 +1,1 @@
+for the tree node interface. Leaf node and internal node subclasses would implement this interface. /** Interface for B+ Tree nodes */ public interface BPNode<Key,E> { public boolean isLeaf(); public int numrecs(); public Key[] keys(); } An important implementation detail to note is that while Figure 12.6.1 shows internal nodes

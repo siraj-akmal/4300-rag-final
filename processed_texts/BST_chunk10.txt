@@ -1,0 +1,1 @@
+The ordering is: the left subtree, the current node, the right subtree. 2. Preorder. The ordering is: the current node, the left subtree, the right subtree. 3. Postorder. The ordering is: the left subtree, the right subtree, the current node. 3 Inorder Traversal Pseudocode This recursive algorithm takes as the

@@ -1,0 +1,1 @@
+●Geographically distributed ●Commodity hardware 7 Data - Replication vs Partitioning 8 Replicates have same data as Main Partitions have a subset of the data Replication 9 Common Strategies for Replication - Single leader model - Multiple leader model - Leaderless model Distributed databases usually adopt one of these strategies. 10

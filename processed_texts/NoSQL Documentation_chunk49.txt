@@ -1,0 +1,1 @@
+$neq: "Paris" }} Group By Queries A group by query aggregates on fields, and then applies aggregation operators to the specified fields. For instance, to group by Country , and then concatenate the Location field, use the following example code: { "object" : "Employees", "q" : { "$or" : [

@@ -1,0 +1,1 @@
+= A mid left right Time Complexity ●Linear Search ○ Best case: target is found at the ﬁrst element; only 1 comparison ○ Worst case: target is not in the array; n comparisons ○ Therefore, in the worst case, linear search is O(n) time complexity. ●Binary Search ○ Best case:

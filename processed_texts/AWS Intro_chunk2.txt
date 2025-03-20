@@ -1,0 +1,1 @@
+pay-as-you-use cost model. ○ Theoretically cheaper than renting rackspace/servers in a data center… Theoretically. 2 History of AWS ●Originally launched in 2006 with only 2 services: S3 & EC2. ●By 2010, services had expanded to include SimpleDB, Elastic Block Store, Relational Database Service, DynamoDB, CloudWatch, Simple Workﬂow, CloudFront, Availability Zones,

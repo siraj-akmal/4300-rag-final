@@ -1,0 +1,1 @@
+When the Leader Fails? Challenges: How do we pick a new Leader Node? ●Consensus strategy – perhaps based on who has the most updates? ●Use a controller node to appoint new leader? AND… how do we conﬁgure clients to start writing to the new leader? 16 What Happens When the

@@ -1,0 +1,1 @@
+Compare a field using a comparison operator, e.g. { A: { $gt: 8 }} => Is A greater than 8? . The set of comparison operators is quite extensive and includes: $lte, $lt, $gte, $gt, $eq, $neq, $not 3. Test if the value of the field is IN or NOT

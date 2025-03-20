@@ -1,0 +1,1 @@
+only remove , leaving still at least half full. This is demonstrated by Figure . B+   B+ Tree Insertion Instructions: In this exercise your job is to insert the values from the stack to the B+ tree. Search for the leaf node where the topmost value of the

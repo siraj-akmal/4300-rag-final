@@ -1,0 +1,1 @@
+Conditions on Fields A condition on a field is a predicate that can perform one of the following actions: 1. Test equality of field to a constant value, e.g. { A: 6 } => Is A equal to 6? 2. Compare a field using a comparison operator, e.g. { A:

@@ -1,0 +1,1 @@
+at least 5 levels. Call your level order traversal algorithm and show that the output is correct. [20 points] class BinTreeNode: def __init__(self, value=0, left=None, right=None): self.value = value self.left = left self.right = right class BinTreeNode: def __init__(self, value=0, left=None, right=None): self.value = value self.left = left self.right =

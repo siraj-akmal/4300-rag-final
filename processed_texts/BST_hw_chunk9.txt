@@ -1,0 +1,1 @@
+(arr[x], arr[x+1]) return pair Briefly discuss which algorithm is more efficient in terms of the number of comparisons performed. A formal analysis is not necessary. You can simply state your choice and then justify it. [5 points] The second algorithm is more efficient in terms of the number of comparisons

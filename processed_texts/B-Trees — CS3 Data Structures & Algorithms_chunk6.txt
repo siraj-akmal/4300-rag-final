@@ -1,0 +1,1 @@
+of disk blocks are accessed to reach a given record. 2. Update and search operations affect only those disk blocks on the path from the root to the leaf node containing the query record. The fewer the number of disk blocks affected during an operation, the less disk I/O is

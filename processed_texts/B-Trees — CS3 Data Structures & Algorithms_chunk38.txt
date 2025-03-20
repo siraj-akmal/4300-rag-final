@@ -1,0 +1,1 @@
+universally used to implement large-scale disk-based systems. Actually, the B-tree as described in the previous section is almost never implemented. What is most commonly implemented is a variant of the B-tree, called the tree. When greater efficiency is required, a more complicated variant known as the tree is used. Consider

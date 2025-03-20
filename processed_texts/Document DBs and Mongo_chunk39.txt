@@ -1,0 +1,1 @@
+ﬁnd() - SELECT * FROM users WHERE name = “Davos Seaworth”; 23 db.users.find({"name": "Davos Seaworth"}) ﬁlter mongosh - ﬁnd() - SELECT * FROM movies WHERE rated in ("PG", "PG-13") 24 db.movies.find({rated: {$in:[ "PG", "PG-13" ]}}) mongosh - ﬁnd() - Return movies which were released in Mexico and have an IMDB

@@ -1,0 +1,1 @@
+Give the Data Source a Name - Make sure the port is 6379 - Test the connection ✅ 22 Redis Database and Interaction - Redis provides 16 databases by default - They are numbered 0 to 15 - There is no other name associated - Direct interaction with Redis is

@@ -1,0 +1,1 @@
+movies which were released in Mexico and have an IMDB rating of at least 7 25 db.movies.find( { "countries": "Mexico", "imdb.rating": { $gte: 7 } } ) mongosh - ﬁnd() - Return movies from the movies collection which were released in 2010 and either won at least 5 awards or

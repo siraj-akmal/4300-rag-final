@@ -1,0 +1,1 @@
+the impedance mismatch problem between object persistence in OO systems and how relational DBs structure data. - OO Programming → Inheritance and Composition of types. - How do we save a complex object to a relational database? We basically have to deconstruct it. - The structure of a document is

@@ -1,0 +1,1 @@
+the left subtree, the right subtree. 3. Postorder. The ordering is: the left subtree, the right subtree, the current node. 3 Inorder Traversal Pseudocode This recursive algorithm takes as the input a pointer to a tree and executed inorder traversal on the tree. While doing traversal it prints out the

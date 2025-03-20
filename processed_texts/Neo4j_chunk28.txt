@@ -1,0 +1,1 @@
+this generates duplicate Person nodes (a director can direct more than 1 movie) 18 Importing with Directors Merged MATCH (p:Person) DELETE p LOAD CSV WITH HEADERS FROM 'file:///netflix_titles.csv' AS line WITH split(line.director, ",") as directors_list UNWIND directors_list AS director_name MERGE (:Person {name: director_name}) 19 Adding Edges LOAD CSV WITH HEADERS

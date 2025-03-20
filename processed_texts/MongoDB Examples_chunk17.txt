@@ -1,0 +1,1 @@
+"qty": 2, "price": 99.98 }, { "itemno": 347, "qty": 120, "price": 22.00 }, { "itemno": 780, "qty": 1, "price": 1500.00 }, { "itemno": 375, "qty": 2, "price": 149.98 } ] }, { "orderno": 1006, "custid": "C41", "order_date": "2017-09-02", "ship_date": "2017-09-04", "items": [ { "itemno": 680, "qty": 51, "price": 25.98 },

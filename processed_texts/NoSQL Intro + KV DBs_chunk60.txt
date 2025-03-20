@@ -1,0 +1,1 @@
+k/v pairs (and variations) - Many language libraries available as well. 23 Foundation Data Type - String - Sequence of bytes - text, serialized objects, bin arrays - Simplest data type - Maps a string to another string - Use Cases: - caching frequently accessed HTML/CSS/JS fragments - conﬁg settings,

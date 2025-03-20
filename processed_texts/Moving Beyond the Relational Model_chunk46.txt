@@ -1,0 +1,1 @@
+following three guarantees: - Consistency - Every read receives the most recent write or error thrown - Availability - Every request receives a (non-error) response - but no guarantee that the response contains the most recent write - Partition Tolerance - The system can continue to operate despite arbitrary network

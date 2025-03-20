@@ -1,0 +1,1 @@
+All fields EXCEPT specific ones returned # For every customer, return all fields except _id and address. data = demodb.customers.find({}, {"_id": 0, "address": 0}) print(dumps(data, indent=2)) Equivalent to SQL LIKE operator # SELECT name, rating FROM customers WHERE name LIKE 'T%' # Regular Expression Explanation: # ^ - match beginning

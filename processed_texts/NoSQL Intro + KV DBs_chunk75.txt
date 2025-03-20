@@ -1,0 +1,1 @@
+processing by queueing up a set of tasks to be executed sequentially at a later time 29 Linked Lists Crash Course - Sequential data structure of linked nodes (instead of contiguously allocated memory) - Each node points to the next element of the list (except the last one - points

@@ -1,0 +1,1 @@
+of its veterans realized the limitations of relational databases for serving > 400,000 ads per second - MongoDB was short for Humongous Database - MongoDB Atlas released in 2016 → documentdb as a service 10 https://www.mongodb.com/company/our-story MongoDB Structure 11 Database Collection A Collection B Collection C Document 1 Document 2

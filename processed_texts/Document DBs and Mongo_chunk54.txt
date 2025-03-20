@@ -1,0 +1,1 @@
+collection.insert_one(post).inserted_id print(post_id) Count Documents in Collection - SELECT count(*) FROM collection 34 demodb.collection.count_documents({}) ?? 35

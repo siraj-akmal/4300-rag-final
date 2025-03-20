@@ -1,0 +1,1 @@
+Conditions Using Query Operators A can use the to specify conditions in the following form: The following example retrieves all documents from the inventory collection where status equals either "A" or "D":   const cursor = db.collection('inventory Node.js   SELECT * FROM inventory WHERE statu NOTE The MongoDB

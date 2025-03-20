@@ -1,0 +1,1 @@
+Up Redis in Docker - In Docker Desktop, search for Redis. - Pull/Run the latest image (see above) - Optional Settings: add 6379 to Ports to expose that port so we can connect to it. - Normally, you would not expose the Redis port for security reasons - If you

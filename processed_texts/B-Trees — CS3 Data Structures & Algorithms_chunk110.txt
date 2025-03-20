@@ -1,0 +1,1 @@
+for the leaf node where the topmost value of the stack should be inserted, and click on that node. The exercise will take care of the rest. Continue this procedure until you have inserted all the values in the stack. Undo Reset Model Answer Grade 33 35 59 42 78

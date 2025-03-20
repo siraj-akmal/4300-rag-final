@@ -1,0 +1,1 @@
+the rules used to split and merge nodes. Instead of splitting a node in half when it overflows, the tree gives some records to its neighboring sibling, if possible. If the sibling is also full, then these two nodes split into three. Similarly, when a node underflows, it is combined

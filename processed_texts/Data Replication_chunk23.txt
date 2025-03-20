@@ -1,0 +1,1 @@
+update, or delete. Flexible because you can have application speciﬁc replication, but also more error prone. Synchronous vs Asynchronous Replication Synchronous: Leader waits for a response from the follower Asynchronous: Leader doesn’t wait for conﬁrmation. 15 Synchronous: Asynchronous: What Happens When the Leader Fails? Challenges: How do we pick a

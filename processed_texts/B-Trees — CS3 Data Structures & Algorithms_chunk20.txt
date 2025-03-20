@@ -1,0 +1,1 @@
+as LRU. Figure 12.6.1 shows a B-tree of order four. Each node contains up to three keys, and internal nodes have up to four children. Figure 12.6.1: A B-tree of order four. Search in a B-tree is a generalization of search in a 2-3 tree. It is an alternating two-step

@@ -1,0 +1,1 @@
+model because it assumes one transaction has to protect itself from other transactions ■ IOW, it assumes that if something can go wrong, it will. ○ Conﬂicts are prevented by locking resources until a transaction is complete (there are both read and write locks) ○ Write Lock Analogy → borrowing

@@ -1,0 +1,1 @@
+which are populated on the server side from either parameters sent in with the filter, or from database data in your system. Variables take the form of: {{<variable name>}} Variables should be enclosed in quotes (e.g. '{{variable_name}}' instead of {{variable_name}} ) so that the final objet sent to the server

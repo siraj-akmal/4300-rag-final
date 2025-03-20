@@ -1,0 +1,1 @@
+constant 3. Inclusion or exclusion in result of a sub query 4. Negation of another comparison Negation may sometimes be swapped for comparison. For example, to test if the location field is not equal to Paris, we can use negation as follows: { $not: { location : "Paris" }} Or

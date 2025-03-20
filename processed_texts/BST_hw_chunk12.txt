@@ -1,0 +1,1 @@
+algorithm has to check each number against one another, whereas the second one only needs to check each number with the one in front of it. Question 2: Implement in Python an algorithm for a level order traversal of a binary tree. The algorithm should print each level of the

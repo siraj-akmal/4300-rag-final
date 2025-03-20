@@ -1,0 +1,1 @@
+list, but slower for random access 6 Insert after 2nd record records: records: 5 records had to be moved to make space Insert after 2nd record Observations: - Arrays - fast for random access - slow for random insertions - Linked Lists - slow for random access - fast for

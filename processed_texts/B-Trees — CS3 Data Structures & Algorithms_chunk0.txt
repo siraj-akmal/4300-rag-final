@@ -1,0 +1,1 @@
+12.6. B-Trees 12.6.1. B-Trees This module presents the B-tree. B-trees are usually attributed to R. Bayer and E. McCreight who described the B-tree in a 1972 paper. By 1979, B-trees had replaced virtually all large-file access methods other than hashing. B-trees, or some variant of B-trees, are the standard file

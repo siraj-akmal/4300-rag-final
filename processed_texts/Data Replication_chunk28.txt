@@ -1,0 +1,1 @@
+new leader may not have all the writes How do we recover the lost writes? Or do we simply discard? ● After (if?) the old leader recovers, how do we avoid having multiple leaders receiving conﬂicting data? (Split brain: no way to resolve conﬂicting requests. ● Leader failure detection. Optimal

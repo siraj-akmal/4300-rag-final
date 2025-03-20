@@ -1,0 +1,1 @@
+- Shared Nothing Architectures ●Each node has its own CPU, memory, and disk ●Coordination via application layer using conventional network ●Geographically distributed ●Commodity hardware 7 Data - Replication vs Partitioning 8 Replicates have same data as Main Partitions have a subset of the data Replication 9 Common Strategies for Replication
