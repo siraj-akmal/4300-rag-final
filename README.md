@@ -27,3 +27,37 @@ To install the required models from Ollama, open your terminal and run the follo
    ```bash
    ollama pull mistral
    ```
+## Step 2: Run Redis Server via Docker
+
+If you don't have a Redis server running, you can use Docker to pull and run the official Redis image.
+
+1. **Pull the `redis` Docker Image:**
+   ```bash
+   docker pull redis
+   ```
+2. **Pull the `chromaDB` Docker Image:**
+   ```bash
+   docker pull ghcr.io/chroma-core/chroma
+   ```
+
+2. **Run the Docker Images in a server:**
+   ```bash
+   docker run --name chromadb-server -p 8000:8000 -d ghcr.io/chroma-core/chroma
+   ```
+   ```bash
+   docker run --name redis-server -p 6379:6379 -d redis
+   ```
+3. **Verify that the servers are running:**
+   ```bash
+   docker ps
+   ```
+## Step 3: Install Required Python Libraries**
+```bash
+pip install -r requirements.txt
+```
+## Step 4:
+
+Run the Python using the database of your choosing and follow the user prompts!
+
+
+   
