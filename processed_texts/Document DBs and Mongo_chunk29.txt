@@ -1,1 +1,0 @@
-●MongoDB Enterprise ○ Subscription-based, self-managed version of MongoDB ●MongoDB Community ○ source-available, free-to-use, self-managed 15 Interacting with MongoDB ●mongosh → MongoDB Shell ○ CLI tool for interacting with a MongoDB instance ●MongoDB Compass ○ free, open-source GUI to work with a MongoDB database ●DataGrip and other 3rd Party Tools ●Every

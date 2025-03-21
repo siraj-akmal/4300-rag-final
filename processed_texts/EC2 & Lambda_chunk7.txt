@@ -1,1 +1,0 @@
-the data on the root volume 5 Where Can You Store Data? - Instance Store: Temporary, high-speed storage tied to the instance lifecycle - EFS (Elastic File System) Support - Shared ﬁle storage - EBS (Elastic Block Storage) - Persistent block-level storage - S3 - large data set storage or

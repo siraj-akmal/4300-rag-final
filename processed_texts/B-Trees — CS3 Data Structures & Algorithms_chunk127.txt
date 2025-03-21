@@ -1,1 +1,0 @@
-a level. Here is a Java-like pseudocode for the tree delete algorithm. /** Delete a record with the given key value, and return true if the root underflows */ private boolean removehelp(BPNode<Key,E> rt, Key k) { int currec = binaryle(rt.keys(), rt.numrecs(), k); if (rt.isLeaf()) { if (((BPLeaf<Key,E>)rt).keys()[currec] == k) {

@@ -1,1 +1,0 @@
-and can rapidly adjust to demands 19 How it Works ●Add/upload your code through AWS MGMT console ●Conﬁgure event source(s) ●Watch your Lambda run when one of the event sources ﬁres an event 20 Let’s Make One 21 Making a Lambda 22 Creating a Function 23 Sample Code ●Edit the

@@ -1,1 +1,0 @@
-DESC order # SELECT name, rating FROM customers ORDER BY rating DESC LIMIT 2 data = demodb.customers.find( { }, {"_id": 0, "name": 1, "rating":1} ).sort("rating", -1).limit(2) print(dumps(data, indent=2)) # Providing 2 sort keys... data = demodb.customers.find( { }, {"_id": 0, "name": 1, "rating":1} ).sort({"rating": -1, "name": 1}).limit(2) print(dumps(data, indent=2))

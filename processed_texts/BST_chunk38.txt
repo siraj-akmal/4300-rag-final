@@ -1,1 +1,0 @@
-the BST-property. 11 BST-Insert(x, z, k) 1: if x = nil then return “Error” 2: y ←x 3: while true do { 4: if key[y] < k 5: then z ←left[y] 6: else z ←right[y] 7: if z = nil break 8: } 9: if key[y] > k then left[y]

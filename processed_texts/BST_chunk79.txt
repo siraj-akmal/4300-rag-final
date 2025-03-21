@@ -1,1 +1,0 @@
-height of the right subtree. 23 Random Variables n = number of keys Xn = height of the tree of n keys Yn = 2Xn. We want an upper bound on E[Yn]. For n ≥2, we have E[Yn] = 1 n   n X i=1 2E[max{Yi−1, Yn−i}]  .

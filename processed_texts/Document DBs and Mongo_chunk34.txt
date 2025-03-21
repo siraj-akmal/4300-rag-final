@@ -1,1 +1,0 @@
-instance - Download and install from > here <. 18 Load MFlix Sample Data Set - In Compass, create a new Database named mﬂix - Download mﬂix sample dataset and unzip it - Import JSON ﬁles for users, theaters, movies, and comments into new collections in the mﬂix database 19

@@ -1,1 +1,0 @@
-4/14 This operation uses a query predicate of { status: "D" }, which corresponds to the following SQL statement: Specify Conditions Using Query Operators A can use the to specify conditions in the following form: The following example retrieves all documents from the inventory collection where status equals either "A"

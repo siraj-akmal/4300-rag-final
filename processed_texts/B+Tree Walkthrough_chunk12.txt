@@ -1,1 +1,0 @@
-○ BUT curr is full. So we have to split. ○ Create a new node to the right of curr, temporarily called newNode. ○ Insert newNode into the doubly linked list of leaf nodes. 6 B+ Tree : m = 4 Insert: 30 cont’d. ● re-distribute the keys ● copy

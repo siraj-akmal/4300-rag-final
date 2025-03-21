@@ -1,1 +1,0 @@
-to Dijkstra’s with added feature of using a heuristic to guide traversal - PageRank - measures the importance of each node within a graph based on the number of incoming relationships and the importance of the nodes from those incoming relationships 20 Neo4j - A Graph Database System that supports

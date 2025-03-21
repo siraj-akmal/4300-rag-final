@@ -1,1 +1,0 @@
-+ right) // 2 if arr[mid] == target: return mid elif arr[mid] < target: left = mid + 1 else: right = mid - 1 return -1 8 A C G M P R Z target = A mid Since target < arr[mid], we reset right to mid - 1.

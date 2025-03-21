@@ -1,1 +1,0 @@
-a) We could use Binary Search to quickly locate a particular specialVal and ﬁnd its corresponding row in the table b) But, every insert into the table would be like inserting into a sorted array - slow… 2) A linked list of tuples (specialVal, rowNumber) sorted by specialVal a) searching

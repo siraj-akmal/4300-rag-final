@@ -1,1 +1,0 @@
-Analyze petabyte scale data where it lives (S3, for example) ●Amazon EMR - Elastic MapReduce - Access Apache Spark, Hive, Presto, etc. ●AWS Glue - Discover, prepare, and integrate all your data ●Amazon Redshift - Data warehousing service ●Amazon Kinesis - real-time data streaming ●Amazon QuickSight - cloud-native BI/reporting tool

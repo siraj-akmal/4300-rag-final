@@ -1,1 +1,0 @@
-x = nil then return 2: Inorder-Walk(left[x]) 3: Print key[x] 4: Inorder-Walk(right[x]) We can write a similar pseudocode for preorder and postorder. 4 preorder postorder inorder 2 1 3 1 1 2 2 3 3 4 2 3 6 5 12 9 8 11 15 19 20 7 What is

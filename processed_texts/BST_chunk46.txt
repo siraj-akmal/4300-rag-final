@@ -1,1 +1,0 @@
-8 11 15 19 20 7 25 23 14 Algorithm BST-Successor(x) 1: if right[x] ̸= nil then 2: { y ←right[x] 3: while left[y] ̸= nil do y ←left[y] 4: return (y) } 5: else 6: { y ←x 7: while right[p[x]] = x do y ←p[x] 8: if p[x]

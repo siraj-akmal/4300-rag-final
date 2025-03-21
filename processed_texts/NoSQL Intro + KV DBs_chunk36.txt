@@ -1,1 +1,0 @@
-with eventual consistency, meaning in a distributed environment, the only guarantee is that all nodes will eventually converge on the same value. 15 KV DS Use Cases - EDA/Experimentation Results Store - store intermediate results from data preprocessing and EDA - store experiment or testing (A/B) results w/o prod db

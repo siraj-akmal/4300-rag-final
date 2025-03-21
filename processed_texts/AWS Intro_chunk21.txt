@@ -1,1 +1,0 @@
-user. 9 10 https://aws.amazon.com/about-aws/global-infrastructure/ Compute Services 11 https://aws.amazon.com/products/compute/ - VM-based: - EC2 & EC2 Spot - Elastic Cloud Compute - Container-based: - ECS - Elastic Container Service - ECR - Elastic Container Registry - EKS - Elastic Kubernetes Service - Fargate - Serverless container service - Serverless: AWS Lambda Storage

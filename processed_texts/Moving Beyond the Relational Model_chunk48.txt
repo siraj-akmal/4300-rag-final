@@ -1,1 +1,0 @@
-- The system can continue to operate despite arbitrary network issues. CAP Theorem - Database View 20 Reference: https://alperenbayramoglu.com/posts/understanding-cap-theorem/ - Consistency*: Every user of the DB has an identical view of the data at any given instant - Availability: In the event of a failure, the database remains operational -

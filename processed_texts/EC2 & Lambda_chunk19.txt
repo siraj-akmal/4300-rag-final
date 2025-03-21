@@ -1,1 +1,0 @@
-● nano test.py ● Add code on left ● ctrl-x to save and exit ● streamlit run test.py 14 import streamlit as st def main(): st.title("Welcome to my Streamlit App") st.write("## Data Sets") st.write(""" - data set 01 - data set 02 - data set 03 """) st.write("\n") st.write("## Goodbye!")

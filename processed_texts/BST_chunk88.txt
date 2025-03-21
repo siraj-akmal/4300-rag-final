@@ -1,1 +1,0 @@
-−λ)f(y) Jensen’s inequality states that for all random variables X and for all convex function f f(E[X]) ≤E[f(X)]. Let this X be Xn and f(x) = 2x. Then E[f(X)] = E[Yn]. So, we have 2E[Xn] ≤1 4 n + 3 3  . The right-hand side is at most (n

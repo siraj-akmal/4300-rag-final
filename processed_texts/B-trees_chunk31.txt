@@ -1,1 +1,0 @@
-is created with just two children, increasing the height of the tree by one. For example, here is the effect of a series of insertions. The first insertion (13) merely affects a leaf. The second insertion (14) overflows the leaf and adds a key to an internal node. The third

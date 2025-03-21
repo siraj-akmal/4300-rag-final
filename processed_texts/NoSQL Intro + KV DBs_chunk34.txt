@@ -1,1 +1,0 @@
-hood - no concept of complex queries or joins… they slow things down 14 Key Value Stores key = value - Key-value stores are designed around: - scalability - Horizontal Scaling is simple - add more nodes - Typically concerned with eventual consistency, meaning in a distributed environment, the only

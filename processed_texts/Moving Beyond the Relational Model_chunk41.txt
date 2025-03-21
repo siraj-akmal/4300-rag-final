@@ -1,1 +1,0 @@
-of data is available on N nodes - Distributed databases can be relational or non-relational - MySQL and PostgreSQL support replication and sharding - CockroachDB - new player on the scene - Many NoSQL systems support one or both models - But remember: Network partitioning is inevitable! - network failures,

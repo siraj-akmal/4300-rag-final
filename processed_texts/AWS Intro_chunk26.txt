@@ -1,1 +1,0 @@
-○ High-speed cache for datasets stored anywhere ● AWS Backup ○ Fully managed, policy-based service to automate data protection and compliance of apps on AWS Database Services ●Relational - Amazon RDS, Amazon Aurora ●Key-Value - Amazon DynamoDB ●In-Memory - Amazon MemoryDB, Amazon ElastiCache ●Document - Amazon DocumentDB (Compat with MongoDB)

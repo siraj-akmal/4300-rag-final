@@ -1,1 +1,0 @@
-Palo Alto: { "$or": [ { "num_employees": { "$gt": 30 } }, { "location": "Palo Alto" } ] } latest UNION queries A UNION query is a union of the results of queries: { $union: [ Query1, Query2, ... ] } . For example: { "$union": [ { "object" :

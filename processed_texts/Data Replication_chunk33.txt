@@ -1,1 +1,0 @@
-but at the cost of delayed or eventual consistency. This delay is called the inconsistency window. Replication Lag 18 Read-after-Write Consistency Scenario - you’re adding a comment to a Reddit post… after you click Submit and are back at the main post, your comment should show up for you. -

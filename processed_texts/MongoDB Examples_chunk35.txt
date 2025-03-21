@@ -1,1 +1,0 @@
-"name": 1, "rating":1} ).sort({"rating": -1, "name": 1}).limit(2) print(dumps(data, indent=2))

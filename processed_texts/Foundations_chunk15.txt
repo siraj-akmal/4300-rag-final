@@ -1,1 +1,0 @@
-Linked Lists - slow for random access - fast for random insertions 7 Binary Search ● Input: array of values in sorted order, target value ● Output: the location (index) of where target is located or some value indicating target was not found def binary_search(arr, target) left, right = 0,

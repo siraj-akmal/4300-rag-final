@@ -1,1 +1,0 @@
-A: condition, B: condition, ... } For example, to retrieve all employees that are 25-years-old, a Sales manager, AND live in Boston, you could use the following query: { "position": "Sales Manager", "age" : { "$lt" : 25 }, "city": "Boston" } OR expressions An OR expression is a disjunction

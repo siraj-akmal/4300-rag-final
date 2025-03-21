@@ -1,1 +1,0 @@
-minimum in the right subtree of x. • Otherwise, the successor is the parent of the farthest node that can be reached from x by following only right branches backward. 13 An Example 4 2 3 6 5 12 9 8 11 15 19 20 7 25 23 14 Algorithm

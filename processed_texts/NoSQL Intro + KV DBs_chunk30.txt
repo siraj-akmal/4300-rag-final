@@ -1,1 +1,0 @@
-key = value - Key-value stores are designed around: - simplicity - the data model is extremely simple - comparatively, tables in a RDBMS are very complex. - lends itself to simple CRUD ops and API creation 13 Key Value Stores key = value - Key-value stores are designed around:

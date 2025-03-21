@@ -1,1 +1,0 @@
-MemoryDB, Amazon ElastiCache ●Document - Amazon DocumentDB (Compat with MongoDB) ●Graph - Amazon Neptune 13 Analytics Services ●Amazon Athena - Analyze petabyte scale data where it lives (S3, for example) ●Amazon EMR - Elastic MapReduce - Access Apache Spark, Hive, Presto, etc. ●AWS Glue - Discover, prepare, and integrate all

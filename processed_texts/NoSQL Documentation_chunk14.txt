@@ -1,1 +1,0 @@
-An AND expression is a conjunction of conditions on fields. An AND expression is a JSON of the form { A: condition, B: condition, ... } For example, to retrieve all employees that are 25-years-old, a Sales manager, AND live in Boston, you could use the following query: { "position":

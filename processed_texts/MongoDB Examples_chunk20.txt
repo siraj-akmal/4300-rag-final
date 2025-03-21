@@ -1,1 +1,0 @@
-460, "qty": 120, "price": 99.98 } ] }, { "orderno": 1007, "custid": "C13", "order_date": "2017-09-13", "ship_date": "2017-09-20", "items": [ { "itemno": 185, "qty": 5, "price": 21.99 }, { "itemno": 680, "qty": 1, "price": 20.50 } ] }, { "orderno": 1008, "custid": "C13", "order_date": "2017-10-13", "items": [ { "itemno": 460, "qty":

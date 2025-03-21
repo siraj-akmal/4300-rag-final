@@ -1,1 +1,0 @@
-binaryle(rt.keys(), rt.numrecs(), k); BPNode<Key,E> temp = inserthelp( ((BPInternal<Key,E>)root).pointers(currec), k, e); if (temp != ((BPInternal<Key,E>)rt).pointers(currec)) { return ((BPInternal<Key,E>)rt). add((BPInternal<Key,E>)temp); } else{ return rt; } } B+ L L B+ L B+ B+ 1 / 42 << < > >> Example B+ Tree Visualization: Insert into a tree of degree 4 B+

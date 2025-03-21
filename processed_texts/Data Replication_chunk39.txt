@@ -1,1 +1,0 @@
-Challenges 22 We created followers so they would be proximal to users. BUT… now we have to route requests to distant leaders when reading modiﬁable data?? :( Monotonic Read Consistency Monotonic read anomalies: occur when a user reads values out of order from multiple followers. Monotonic read consistency: ensures that

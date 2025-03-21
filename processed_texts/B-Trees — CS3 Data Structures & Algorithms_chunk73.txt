@@ -1,1 +1,0 @@
-any possible key value in the node’s leftmost subtree. tree implementations typically store an additional dummy record in the leftmost leaf node whose key value is less than any legal key value. Let’s see in some detail how the simplest tree works. This would be the “ tree”, or a

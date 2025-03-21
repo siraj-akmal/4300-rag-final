@@ -1,1 +1,0 @@
-then y ←right[y] 5: else y ←left[y] 6: return (“NOT FOUND”) 8 An Example search for 8 7 4 2 6 9 13 11 NIL What is the running time of search? 9 2. The Maximum and the Minimum To ﬁnd the minimum identify the leftmost node, i.e. the farthest

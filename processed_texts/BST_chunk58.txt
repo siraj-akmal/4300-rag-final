@@ -1,1 +1,0 @@
-2 4 7 9 13 11 8 5 6 1 3 2 4 13 11 9 10 18 Algorithm This algorithm deletes z from BST T. BST-Delete(T, z) 1: if left[z] = nil or right[z] = nil 2: then y ←z 3: else y ←BST-Successor(z) 4:  y is the

@@ -1,1 +1,0 @@
-pattern matches. $regex 3/17/25, 9:55 AM Query Documents - MongoDB Manual v8.0 - MongoDB Docs https://www.mongodb.com/docs/manual/tutorial/query-documents/ 9/14 In the MongoDB Atlas UI, go to the Clusters page for your project. a. If it's not already displayed, select the organization that contains your desired project from the Organizations menu in the

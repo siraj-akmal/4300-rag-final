@@ -1,1 +1,0 @@
-Control - Reliable Data Storage - Simpliﬁed Error Handling 4 ACID Properties - Atomicity - transaction is treated as an atomic unit - it is fully executed or no parts of it are executed - Consistency - a transaction takes a database from one consistent state to another consistent state

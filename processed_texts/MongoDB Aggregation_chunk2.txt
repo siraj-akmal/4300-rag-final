@@ -1,1 +1,1 @@
-mflixdb = client.mflix demodb = client.demodb About Aggregates in PyMongo ●​ Aggregation uses pipelines. ●​ A pipeline is a sequence of stages through which documents proceed. ●​ Some of the different stages that can be used are: ■​ match ■​ project ■​ sort ■​ limit ■​ unwind ■​ group ■​
+"title": 1, "cast": 1, "rating": "$imdb.rating"}} agg = mflixdb.movies.aggregate([match, limit, project]) print(dumps(agg, indent=2))

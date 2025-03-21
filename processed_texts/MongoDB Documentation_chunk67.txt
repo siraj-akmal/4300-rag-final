@@ -1,1 +1,0 @@
-query filter document into the Filter search bar: Click Apply This query filter returns all documents in the sample_mflix.movies collection where the year field matches 1924. Additional Query Tutorials For additional query examples, see: Behavior Cursor The Collection.find() method returns a cursor. Concurrent Updates While Using a Cursor As a

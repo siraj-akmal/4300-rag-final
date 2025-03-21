@@ -1,1 +1,0 @@
-same value. 15 KV DS Use Cases - EDA/Experimentation Results Store - store intermediate results from data preprocessing and EDA - store experiment or testing (A/B) results w/o prod db - Feature Store - store frequently accessed feature → low-latency retrieval for model training and prediction - Model Monitoring -

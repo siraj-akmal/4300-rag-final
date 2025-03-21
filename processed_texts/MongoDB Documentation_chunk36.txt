@@ -1,1 +1,0 @@
- const cursor = db.collection('inventory status: { $in: ['A', 'D'] } }); Node.js NOTE Although you can express this query using the operator, use the operator rather than the operator when performing equality checks on the same field. $or $in $or   SELECT * FROM inventory WHERE statu Query

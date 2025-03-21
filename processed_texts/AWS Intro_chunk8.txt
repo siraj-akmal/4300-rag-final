@@ -1,1 +1,0 @@
-need for having to manage infrastructure ○ You can get right to deploying your app ●SaaS (more) - Software as a Service ○ Provide full software apps that are run and managed by another party/vendor 5 Cloud Models 6 https://bluexp.netapp.com/iaas The Shared Responsibility Model - AWS - AWS Responsibilities (Security

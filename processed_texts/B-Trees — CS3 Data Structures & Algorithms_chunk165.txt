@@ -1,1 +1,0 @@
-once again the high fan-out rate of the tree structure means that the vast majority of nodes are leaf nodes. A K-ary tree has approximately of its nodes as internal nodes. This means that while half of a full binary tree’s nodes are internal nodes, in a tree of order

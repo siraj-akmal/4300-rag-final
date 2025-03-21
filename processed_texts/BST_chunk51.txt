@@ -1,1 +1,0 @@
-algorithm? 16 5. Deletion Suppose we want to delete a node z. 1. If z has no children, then we will just replace z by nil. 2. If z has only one child, then we will promote the unique child to z’s place. 3. If z has two children, then

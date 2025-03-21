@@ -1,1 +1,0 @@
-hkeys() - hdel(), hexists(), hlen(), hstrlen() 11 Redis Pipelines - Helps avoid multiple related calls to the server → less network overhead 12 r = redis.Redis(decode_responses=True) pipe = r.pipeline() for i in range(5): pipe.set(f"seat:{i}", f"#{i}") set_5_result = pipe.execute() print(set_5_result) # >>> [True, True, True, True, True] pipe = r.pipeline() #

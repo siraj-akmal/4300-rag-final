@@ -1,1 +1,0 @@
-a tree are normally linked together to form a doubly linked list. Thus, the entire collection of records can be traversed in sorted order by visiting all the leaf nodes on the linked list. Here is a Java-like pseudocode representation for the tree node interface. Leaf node and internal node

@@ -1,1 +1,0 @@
-Key - A value for an attribute from the entity type ○ Could be >= 1 attribute 3 Lists of Records ●If each record takes up x bytes of memory, then for n records, we need n*x bytes of memory. ●Contiguously Allocated List ○ All n*x bytes are allocated as

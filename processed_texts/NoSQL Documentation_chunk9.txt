@@ -1,1 +1,0 @@
-latest Examples This simple query retrieves the name and salary of all employees in position of "Sales Manager": { "object": "employees", "q": { "position" : "Sales Manager" }, "fields": ["name", "salary"] } Queries can also be used to compare an object's fields to constant values using common comparison operators. For

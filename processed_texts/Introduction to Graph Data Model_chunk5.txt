@@ -1,1 +1,0 @@
-Instagram, - but also… modeling social interactions in ﬁelds like psychology and sociology - The Web - it is just a big graph of “pages” (nodes) connected by hyperlinks (edges) - Chemical and biological data - systems biology, genetics, etc. - interaction relationships in chemistry 3 Basics of Graphs and

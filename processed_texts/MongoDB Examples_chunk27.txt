@@ -1,1 +1,0 @@
-{"_id": 0, "address": 0}) print(dumps(data, indent=2)) Equivalent to SQL LIKE operator # SELECT name, rating FROM customers WHERE name LIKE 'T%' # Regular Expression Explanation: # ^ - match beginning of line # T - match literal character T (at the beginning of the line in this case) # .

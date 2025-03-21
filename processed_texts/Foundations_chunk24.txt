@@ -1,1 +1,0 @@
-○ Worst case: target is not in the array; log2 n comparisons ○ Therefore, in the worst case, binary search is O(log2n) time complexity. 9 Back to Database Searching ● Assume data is stored on disk by column id’s value ● Searching for a speciﬁc id = fast. ● But

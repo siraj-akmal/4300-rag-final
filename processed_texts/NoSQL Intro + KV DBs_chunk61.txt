@@ -1,1 +1,0 @@
-bytes - text, serialized objects, bin arrays - Simplest data type - Maps a string to another string - Use Cases: - caching frequently accessed HTML/CSS/JS fragments - conﬁg settings, user settings info, token management - counting web page/app screen views OR rate limiting 24 Some Initial Basic Commands -

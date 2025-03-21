@@ -1,1 +1,0 @@
-20 Summary of Eﬃciency Analysis Theorem A On a binary search tree of height h, Search, Minimum, Maximum, Successor, Predecessor, Insert, and Delete can be made to run in O(h) time. 21 Randomly built BST Suppose that we insert n distinct keys into an initially empty tree. Assuming that the

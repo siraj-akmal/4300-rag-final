@@ -1,1 +1,0 @@
-strings (members) - Use Cases: - track unique items (IP addresses visiting a site, page, screen) - primitive relation (set of all students in DS4300) - access control lists for users and permission structures - social network friends lists and/or group membership - Supports set operations!! 35 Set Commands SADD

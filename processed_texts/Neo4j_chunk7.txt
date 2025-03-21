@@ -1,1 +1,0 @@
-of common graph algorithms (like the ones we talked about yesterday) 3 Neo4j in Docker Compose 4 Docker Compose 5 ●Supports multi-container management. ●Set-up is declarative - using YAML docker-compose.yaml ﬁle ○ services ○ volumes ○ networks, etc. ●1 command can be used to start, stop, or scale a number

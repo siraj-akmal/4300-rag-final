@@ -1,1 +1,0 @@
-that has been modiﬁed by another transaction T2 that hasn’t yet executed a COMMIT Isolation: Non-Repeatable Read 8 Figure from: https://www.mybluelinux.com/relational-databases-explained/ Non-repeatable Read - two queries in a single transaction T1 execute a SELECT but get different values because another transaction T2 has changed data and COMMITTED Isolation: Phantom Reads

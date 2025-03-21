@@ -1,1 +1,0 @@
-swapped for comparison. For example, to test if the location field is not equal to Paris, we can use negation as follows: { $not: { location : "Paris" }} Or we can also use a not-equal operator: { location: { $neq: "Paris" }} Group By Queries A group by query

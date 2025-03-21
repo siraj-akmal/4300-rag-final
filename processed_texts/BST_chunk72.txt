@@ -1,1 +1,0 @@
-average height of the tree? To study this question we consider the process of constructing a tree T by inserting in order randomly selected n distinct keys to an initially empty tree. Here the actually values of the keys do not matter. What matters is the position of the inserted

@@ -1,1 +1,0 @@
-4 Insert: 30 cont’d. ● re-distribute the keys ● copy the smallest key (27 in this case) from newNode to parent; rearrange keys and pointers in parent node. ● Parent of newNode is also root. So, nothing else to do. 7 B+ Tree : m = 4 Fast forward to

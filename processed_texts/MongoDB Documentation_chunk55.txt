@@ -1,1 +1,0 @@
-Documents with MongoDB Atlas The example in this section uses the sample movies dataset. To learn how to load the sample dataset into your MongoDB Atlas deployment, see Load Sample Data. To project fields to return from a query in MongoDB Atlas, follow these steps:   { status: 'A',

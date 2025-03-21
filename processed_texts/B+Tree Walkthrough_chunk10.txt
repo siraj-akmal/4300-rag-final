@@ -1,1 +1,0 @@
-values cause a node to split 5 B+ Tree : m = 4 Insert: 30 ● Starting at root, we descend to the left-most child (we’ll call curr). ○ curr is a leaf node. Thus, we insert 30 into curr. ○ BUT curr is full. So we have to split.

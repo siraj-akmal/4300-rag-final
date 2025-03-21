@@ -1,1 +1,0 @@
-number of faults, requests can be directed to any server, and you insist on serving every request, then you cannot possibly be consistent. But it is interpreted as: - You must always give up something: consistency, availability, or tolerance to failure. 22 ?? 23

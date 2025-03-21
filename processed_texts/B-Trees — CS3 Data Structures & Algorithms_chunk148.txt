@@ -1,1 +1,0 @@
-if higher space utilization is required. However, the update routines become much more complicated. I once worked on a project where we implemented 3-for-4 node split and merge routines. This gave better performance than the 2-for-3 node split and merge routines of the tree. However, the spitting and merging routines

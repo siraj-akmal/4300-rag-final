@@ -1,1 +1,0 @@
-rollback_message VARCHAR(255) DEFAULT 'Transaction rolled back: Insufficient funds'; DECLARE commit_message VARCHAR(255) DEFAULT 'Transaction committed successfully'; -- Start the transaction START TRANSACTION; -- Attempt to debit money from account 1 UPDATE accounts SET balance = balance - amount WHERE account_id = sender_id; -- Attempt to credit money to account 2 UPDATE

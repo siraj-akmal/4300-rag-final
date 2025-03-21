@@ -1,1 +1,0 @@
-Single Main Node Distributed Data Stores - Data is stored on > 1 node, typically replicated - i.e. each block of data is available on N nodes - Distributed databases can be relational or non-relational - MySQL and PostgreSQL support replication and sharding - CockroachDB - new player on the

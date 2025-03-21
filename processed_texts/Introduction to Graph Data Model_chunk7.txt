@@ -1,1 +1,0 @@
-- interaction relationships in chemistry 3 Basics of Graphs and Graph Theory 4 What is a graph? Labeled Property Graph - Composed of a set of node (vertex) objects and relationship (edge) objects - Labels are used to mark a node as part of a group - Properties are attributes

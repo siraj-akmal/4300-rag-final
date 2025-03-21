@@ -1,1 +1,0 @@
-or changing state ○System appears to work most of the time 8 ACID Alternative for Distrib Systems - BASE ●Soft State - The state of the system could change over time, even w/o input. Changes could be result of eventual consistency. ○Data stores don’t have to be write-consistent ○Replicas don’t

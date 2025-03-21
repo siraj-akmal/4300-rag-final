@@ -1,1 +1,0 @@
-in AWS ●Supports a large number of runtimes… Python, Java, Node.js, etc ●HIGHLY integrated with other AWS services ●Extremely scalable and can rapidly adjust to demands 19 How it Works ●Add/upload your code through AWS MGMT console ●Conﬁgure event source(s) ●Watch your Lambda run when one of the event sources

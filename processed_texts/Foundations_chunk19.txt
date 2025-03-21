@@ -1,1 +1,0 @@
-right = mid - 1 return -1 8 A C G M P R Z target = A mid Since target < arr[mid], we reset right to mid - 1. left right A C G M P R Z target = A mid left right Time Complexity ●Linear Search ○

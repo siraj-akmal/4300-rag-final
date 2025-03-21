@@ -1,1 +1,0 @@
-St.", "city": "Hanover, MA", "zipcode": "02340" }, "rating": 690 }, {"custid": "C31", "name": "B. Pitt", "address": { "street": "360 Mountain Ave.", "city": "St. Louis, MO", "zipcode": "63101" } }, {"custid": "C35", "name": "J. Roberts", "address": { "street": "420 Green St.", "city": "Boston, MA", "zipcode": "02115" }, "rating": 565 }, {"custid":

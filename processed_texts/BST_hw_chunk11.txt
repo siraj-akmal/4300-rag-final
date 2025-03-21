@@ -1,1 +1,0 @@
-is more efficient in terms of the number of comparisons performed, although it is limited to sorted lists. The first algorithm has to check each number against one another, whereas the second one only needs to check each number with the one in front of it. Question 2: Implement in

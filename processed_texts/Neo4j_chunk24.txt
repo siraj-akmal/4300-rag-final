@@ -1,1 +1,0 @@
-Basic Data Importing LOAD CSV WITH HEADERS FROM 'file:///netflix_titles.csv' AS line CREATE(:Movie { id: line.show_id, title: line.title, releaseYear: line.release_year } ) 16 Type the following into the Cypher Editor in Neo4j Browser Loading CSVs - General Syntax LOAD CSV [WITH HEADERS] FROM 'file:///file_in_import_folder.csv' AS line [FIELDTERMINATOR ','] // do stuffs

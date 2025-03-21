@@ -1,1 +1,0 @@
-The operation uses a query predicate of { $or: [ { status: 'A' }, { qty: { $lt: 30 } } ] }, which corresponds to the following SQL statement: Specify AND as well as OR Conditions In the following example, the compound query document selects all documents in the

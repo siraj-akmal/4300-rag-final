@@ -1,1 +1,0 @@
-of maximum and minimum exchanged. For which node is the successor undeﬁned? What is the running time of the successor algorithm? 16 5. Deletion Suppose we want to delete a node z. 1. If z has no children, then we will just replace z by nil. 2. If z has

@@ -1,1 +1,0 @@
-PyMongo (Python), Mongoose (JavaScript/node), … 16 Mongodb Community Edition in Docker - Create a container - Map host:container port 27017 - Give initial username and password for superuser 17 E D MongoDB Compass - GUI Tool for interacting with MongoDB instance - Download and install from > here <. 18

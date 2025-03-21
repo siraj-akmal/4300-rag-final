@@ -1,1 +1,0 @@
-formal analysis is not necessary. You can simply state your choice and then justify it. [5 points] The second algorithm is more efficient in terms of the number of comparisons performed, although it is limited to sorted lists. The first algorithm has to check each number against one another, whereas

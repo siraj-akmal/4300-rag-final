@@ -1,1 +1,0 @@
-→ 2 → 3 Flavors of Graphs Connected (vs. Disconnected) – there is a path between any two nodes in the graph Weighted (vs. Unweighted) – edge has a weight property (important for some algorithms) Directed (vs. Undirected) – relationships (edges) deﬁne a start and end node Acyclic (vs. Cyclic)

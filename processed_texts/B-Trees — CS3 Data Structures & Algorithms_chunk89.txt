@@ -1,1 +1,0 @@
-algorithm. private E findhelp(BPNode<Key,E> rt, Key k) { int currec = binaryle(rt.keys(), rt.numrecs(), k); if (rt.isLeaf()) { if ((((BPLeaf<Key,E>)rt).keys())[currec] == k) { << < > >> Example 2-3+ Tree Visualization: Delete 22 71 46 65 51 2 −3+ B+ B+ B+ 1 / 10 << < > >> Example B+

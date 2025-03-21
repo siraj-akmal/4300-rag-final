@@ -1,1 +1,0 @@
-receiver_id; -- Continued Next Slide Example Transaction - Transfer $$ 11 -- Continued from previous slide -- Check if there are sufficient funds in account 1 -- Simulate a condition where there are insufficient funds IF (SELECT balance FROM accounts WHERE account_id = sender_id) < 0 THEN -- Roll back

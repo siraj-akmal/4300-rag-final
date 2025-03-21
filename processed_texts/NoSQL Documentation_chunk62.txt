@@ -1,1 +1,0 @@
-) so that the final objet sent to the server can be marked as valid JSON. Variables are not escaped when used as part of a filter or query - only constants can be escaped by Backand. With this in mind, you want to make sure that variables tied directly

@@ -1,1 +1,0 @@
-cause it to underflow in turn. If the last two children of the root merge together, then the tree loses a level. Here is a Java-like pseudocode for the tree delete algorithm. /** Delete a record with the given key value, and return true if the root underflows */ private

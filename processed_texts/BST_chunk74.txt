@@ -1,1 +1,0 @@
-not matter. What matters is the position of the inserted key in the n keys. 22 The Process of Construction So, we will view the process as follows: A key x from the keys is selected uniformly at random and is inserted to the tree. Then all the other keys

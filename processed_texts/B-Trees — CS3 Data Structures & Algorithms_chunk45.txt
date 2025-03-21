@@ -1,1 +1,0 @@
-to store a chunk that is the size of a disk block, or a small multiple of the disk block size. If the next record to be inserted belongs to a chunk that hasn’t filled its block then we can just insert it there. The fact that this might cause

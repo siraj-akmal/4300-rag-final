@@ -1,1 +1,0 @@
-ML platform, including Jupyter NBs - build, train, deploy ML models - AWS AI Services w/ Pre-trained Models - Amazon Comprehend - NLP - Amazon Rekognition - Image/Video analysis - Amazon Textract - Text extraction - Amazon Translate - Machine translation 15 Important Services for Data Analytics/Engineering - EC2 and

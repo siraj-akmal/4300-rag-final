@@ -1,1 +1,0 @@
-is “a collection of independent computers that appear to its users as one computer.” -Andrew Tennenbaum Characteristics of Distributed Systems: - computers operate concurrently - computers fail independently - no shared global clock 15 Distributed Storage - 2 Directions 16 Single Main Node Distributed Data Stores - Data is stored

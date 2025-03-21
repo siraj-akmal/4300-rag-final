@@ -1,1 +1,0 @@
-"country"] }, { "object" : "Person", "q" : { "name": "john" }, "fields": ["City", "country"], "limit": 11 } ] } Conditions on Fields A condition on a field is a predicate that can perform one of the following actions: 1. Test equality of field to a constant value, e.g. {

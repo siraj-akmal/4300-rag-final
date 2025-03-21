@@ -1,1 +1,0 @@
-node, then insert the key. If there is not, then split the node into two and promote the middle key to the parent. If the parent becomes full, then it is split in turn, and its middle key promoted. Note that this insertion process is guaranteed to keep all nodes

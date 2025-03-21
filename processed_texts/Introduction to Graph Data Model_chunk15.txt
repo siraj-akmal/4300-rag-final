@@ -1,1 +1,0 @@
-the graph Weighted (vs. Unweighted) – edge has a weight property (important for some algorithms) Directed (vs. Undirected) – relationships (edges) deﬁne a start and end node Acyclic (vs. Cyclic) – Graph contains no cycles 8 Connected vs. Disconnected 9 Weighted vs. Unweighted 10 Directed vs. Undirected 11 Cyclic vs

@@ -1,1 +1,0 @@
-different in that it stores key/pointer pairs. Figure 12.6.1 shows the tree as it is traditionally drawn. To simplify implementation in practice, nodes really do associate a key with each pointer. Each internal node should be assumed to hold in the B+ B∗ B+ B+ B+ B+ B+ B+ B+

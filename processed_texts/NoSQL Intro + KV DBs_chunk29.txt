@@ -1,1 +1,0 @@
-can be updated 10 Categories of NoSQL DBs - Review 11 First Up → Key-Value Databases 12 Key Value Stores key = value - Key-value stores are designed around: - simplicity - the data model is extremely simple - comparatively, tables in a RDBMS are very complex. - lends itself

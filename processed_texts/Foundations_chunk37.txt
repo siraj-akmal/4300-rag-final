@@ -1,1 +1,0 @@
-b) But inserting into the table would theoretically be quick to also add to the list. 12 Something with Fast Insert and Fast Search? - Binary Search Tree - a binary tree where every node in the left subtree is less than its parent and every node in the right

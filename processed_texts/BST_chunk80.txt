@@ -1,1 +1,0 @@
-n keys Yn = 2Xn. We want an upper bound on E[Yn]. For n ≥2, we have E[Yn] = 1 n   n X i=1 2E[max{Yi−1, Yn−i}]  . E[max{Yi−1, Yn−i}] ≤ E[Yi−1 + Yn−i] ≤ E[Yi−1] + E[Yn−i] Collecting terms: E[Yn] ≤4 n n−1 X i=1 E[Yi]. 24

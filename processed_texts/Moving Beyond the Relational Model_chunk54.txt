@@ -1,1 +1,0 @@
-- Consistency + Partition Tolerance: If system responds with data from a distributed store, it is always the latest, else data request is dropped. - Availability + Partition Tolerance: System always sends are responds based on distributed store, but may not be the absolute latest data. CAP in Reality What

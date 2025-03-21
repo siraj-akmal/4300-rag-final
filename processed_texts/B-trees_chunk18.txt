@@ -1,1 +1,0 @@
-node is at least half full, we are guaranteed that the asymptotic performance is O(lg n) where n is the size of the collection. The real win is in the constant factors, of course. We can choose m so that the pointers to the m children plus the m−1 elements

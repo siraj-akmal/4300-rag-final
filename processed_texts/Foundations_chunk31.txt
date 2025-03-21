@@ -1,1 +1,0 @@
-● Can’t store data on disk sorted by both id and specialVal (at the same time) ○ data would have to be duplicated → space inefﬁcient 11 We need an external data structure to support faster searching by specialVal than a linear scan. What do we have in our arsenal?

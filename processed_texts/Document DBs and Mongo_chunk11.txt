@@ -1,1 +1,0 @@
-decoding must be efﬁcient - Supported by many modern programming languages 5 XML (eXtensible Markup Language) ●Precursor to JSON as data exchange format ●XML + CSS → web pages that separated content and formatting ●Structurally similar to HTML, but tag set is extensible 6 XML-Related Tools/Technologies - Xpath - a

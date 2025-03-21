@@ -1,1 +1,0 @@
-a failure - Originally developed in 2009 in C++ - Can be very fast … > 100,000 SET ops / second - Rich collection of commands - Does NOT handle complex data. No secondary indexes. Only supports lookup by Key. 19 Redis Data Types Keys: - usually strings but can

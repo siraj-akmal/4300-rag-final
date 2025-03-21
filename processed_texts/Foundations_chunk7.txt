@@ -1,1 +1,0 @@
-Records ●If each record takes up x bytes of memory, then for n records, we need n*x bytes of memory. ●Contiguously Allocated List ○ All n*x bytes are allocated as a single “chunk” of memory ●Linked List ○ Each record needs x bytes + additional space for 1 or 2

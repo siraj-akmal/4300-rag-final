@@ -1,1 +1,0 @@
-project from the Projects menu in the navigation bar. c. If it's not already displayed, click Clusters in the sidebar. The Clusters page displays. Navigate to the collection a. For the cluster that contains the sample data, click Browse Collections. b. In the left navigation pane, select the sample_mflix database.

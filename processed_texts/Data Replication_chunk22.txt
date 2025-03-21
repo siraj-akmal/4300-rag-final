@@ -1,1 +1,0 @@
-easier to parse. Trigger-based Changes are logged to a separate table whenever a trigger ﬁres in response to an insert, update, or delete. Flexible because you can have application speciﬁc replication, but also more error prone. Synchronous vs Asynchronous Replication Synchronous: Leader waits for a response from the follower Asynchronous:

@@ -1,1 +1,0 @@
-If x isn’t NIL. 12:  Resetting is unnecessary if x is NIL. 19 Algorithm (cont’d) 13: if p[y] = nil then root[T] ←x 14:  If y is the root, then x becomes the root. 15:  Otherwise, do the following. 16: else if y = left[p[y]] 17: then

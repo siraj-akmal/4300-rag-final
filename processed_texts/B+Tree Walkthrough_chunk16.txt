@@ -1,1 +1,0 @@
-7 B+ Tree : m = 4 Fast forward to this state of the tree… ● Observation: The root node is full. ○ The next insertion that splits a leaf will cause the root to split, and thus the tree will get 1 level deeper. 8 B+ Tree : m

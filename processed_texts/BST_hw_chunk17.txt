@@ -1,1 +1,0 @@
-use other data structures in the Python foundation library in your implementation, but you may not use an existing implementation of a Binary Tree or an existing level order traversal algorithm from any source. Construct a non-complete binary tree1 of at least 5 levels. Call your level order traversal algorithm

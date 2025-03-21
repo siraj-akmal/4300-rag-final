@@ -1,1 +1,0 @@
-intervals or b) append-only ﬁle which is a journal of changes that can be used for roll-forward if there is a failure - Originally developed in 2009 in C++ - Can be very fast … > 100,000 SET ops / second - Rich collection of commands - Does NOT handle

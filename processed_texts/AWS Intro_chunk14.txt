@@ -1,1 +1,0 @@
-and functional - maintain server software (patching, etc) 7 The Shared Responsibility Model - Client - Client Responsibilities (Security IN the cloud): - Control of Data/Content - client controls how its data is classiﬁed, encrypted, and shared - implement and enforce appropriate data-handling policies - Access Management & IAM -

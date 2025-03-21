@@ -1,1 +1,0 @@
-follow the proper branch and repeat the process. For example, consider a search for the record with key value 47 in the tree of Figure 12.6.1. The root node is examined and the second (right) branch taken. After examining the node at level 1, the third branch is taken to

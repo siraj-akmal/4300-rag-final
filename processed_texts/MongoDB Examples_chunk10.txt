@@ -1,1 +1,0 @@
-Corso", "city": "Rome, Italy" }, "rating": 625 } ] orders = [ { "orderno": 1001, "custid": "C41", "order_date": "2017-04-29", "ship_date": "2017-05-03", "items": [ { "itemno": 347, "qty": 5, "price": 19.99 }, { "itemno": 193, "qty": 2, "price": 28.89 } ] }, { "orderno": 1002, "custid": "C13", "order_date": "2017-05-01", "ship_date": "2017-05-03",

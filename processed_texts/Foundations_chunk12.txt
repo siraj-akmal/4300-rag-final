@@ -1,1 +1,0 @@
-for random access, but slow for inserting anywhere but the end ●Linked Lists are faster for inserting anywhere in the list, but slower for random access 6 Insert after 2nd record records: records: 5 records had to be moved to make space Insert after 2nd record Observations: - Arrays -

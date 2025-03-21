@@ -1,1 +1,0 @@
-graph databases - Provides a visual way of matching patterns and relationships (nodes)-[:CONNECT_TO]->(otherNodes) - APOC Plugin - Awesome Procedures on Cypher - Add-on library that provides hundreds of procedures and functions - Graph Data Science Plugin - provides efﬁcient implementations of common graph algorithms (like the ones we talked about

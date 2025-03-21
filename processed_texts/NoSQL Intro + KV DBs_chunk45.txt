@@ -1,1 +1,0 @@
-database - Sometimes called a data structure store - Primarily a KV store, but can be used with other models: Graph, Spatial, Full Text Search, Vector, Time Series - From db-engines.com Ranking of KV Stores: 18 Redis - It is considered an in-memory database system, but… - Supports durability of

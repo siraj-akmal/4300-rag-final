@@ -1,1 +1,0 @@
-- computers operate concurrently - computers fail independently - no shared global clock 15 Distributed Storage - 2 Directions 16 Single Main Node Distributed Data Stores - Data is stored on > 1 node, typically replicated - i.e. each block of data is available on N nodes - Distributed databases

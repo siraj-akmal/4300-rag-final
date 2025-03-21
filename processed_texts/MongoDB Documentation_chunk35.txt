@@ -1,1 +1,0 @@
-of a compound query so that the query selects the documents in the collection that match all the conditions.   const cursor = db.collection('inventory status: { $in: ['A', 'D'] } }); Node.js NOTE Although you can express this query using the operator, use the operator rather than the operator

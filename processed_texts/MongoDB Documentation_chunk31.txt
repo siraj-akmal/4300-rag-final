@@ -1,1 +1,0 @@
-<operator1>: <value1> }, Node.js 3/17/25, 9:55 AM Query Documents - MongoDB Manual v8.0 - MongoDB Docs https://www.mongodb.com/docs/manual/tutorial/query-documents/ 5/14 The operation uses a query predicate of { status: { $in: [ "A", "D" ] } }, which corresponds to the following SQL statement: Refer to the document for the complete list

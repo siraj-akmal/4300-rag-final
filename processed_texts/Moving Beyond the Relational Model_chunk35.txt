@@ -1,1 +1,0 @@
-the demands of high-availability make it necessary to scale out with some type of distributed computing model But why? Scaling up is easier - no need to really modify your architecture. But there are practical and ﬁnancial limits However: There are modern systems that make horizontal scaling less problematic. 14

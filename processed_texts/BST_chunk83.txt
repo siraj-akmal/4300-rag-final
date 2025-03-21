@@ -1,1 +1,0 @@
-4 n+3 3  . We prove this by induction on n. Base case: E[Y1] = 20 = 1. Induction step: We have E[Yn] ≤4 n n−1 X i=1 E[Yi] Using the fact that n−1 X i=0 i + 3 3  = n + 3 4  E[Yn] ≤4

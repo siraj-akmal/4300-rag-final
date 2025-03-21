@@ -1,1 +1,0 @@
-ﬁnd the minimum identify the leftmost node, i.e. the farthest node you can reach by following only left branches. To ﬁnd the maximum identify the rightmost node, i.e. the farthest node you can reach by following only right branches. BST-Minimum(x) 1: if x = nil then return (“Empty Tree”) 2:

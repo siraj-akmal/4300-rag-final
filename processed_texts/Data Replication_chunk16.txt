@@ -1,1 +1,0 @@
-PostgreSQL NoSQL: ● MongoDB, ● RethinkDB (realtime web apps), ● Espresso (LinkedIn) Messaging Brokers: Kafka, RabbitMQ 13 How Is Replication Info Transmitted to Followers? 14 Replication Method Description Statement-based Send INSERT, UPDATE, DELETEs to replica. Simple but error-prone due to non-deterministic functions like now(), trigger side-effects, and difﬁculty in handling

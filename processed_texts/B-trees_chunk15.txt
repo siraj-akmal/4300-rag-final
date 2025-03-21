@@ -1,1 +1,0 @@
-on either side of the subtree pointer. (This generalizes the BST invariant.) 5. The root has at least two children if it is not a leaf. For example, the following is an order-5 B-tree (m=5) where the leaves have enough space to store up to 3 data records: Because the

@@ -1,1 +1,0 @@
-special techniques for node replacement will be required because the upper-level nodes will naturally be accessed frequently. B+ B∗ B+ B∗ Θ(logn) n B+ B+ B+ B+ B+ B+ B+ 1/K B+ 1/75 3/17/25, 9:22 AM 12.6. B-Trees — CS3 Data Structures & Algorithms https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/BTree.html#id2 8/9 3/17/25, 9:22 AM 12.6.

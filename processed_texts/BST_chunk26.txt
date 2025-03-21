@@ -1,1 +1,0 @@
-searched for. That means that we do not need to search in the left subtree. Thus, we will examine only the right subtree. If the latter is the case, by symmetry we will examine only the right subtree. 7 Algorithm Here k is the key that is searched for and

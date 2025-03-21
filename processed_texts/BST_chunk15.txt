@@ -1,1 +1,0 @@
-and postorder. 4 preorder postorder inorder 2 1 3 1 1 2 2 3 3 4 2 3 6 5 12 9 8 11 15 19 20 7 What is the outcome of inorder traversal on this BST? How about postorder traversal and preorder traversal? 5 Inorder traversal gives: 2,

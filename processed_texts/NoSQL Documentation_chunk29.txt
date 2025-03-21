@@ -1,1 +1,0 @@
-negation of a comparison. For example, to test if the location field is not Boston, we can do: { "$not": { "location" : "Boston" }} Sub Queries The following sub-query retrieves the department ID of each department in New York: { "object": "department", "q": { "city" : "New York" },

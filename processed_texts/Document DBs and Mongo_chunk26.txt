@@ -1,1 +1,0 @@
-Index Index Join Embedded Document Foreign Key Reference MongoDB Features - Rich Query Support - robust support for all CRUD ops - Indexing - supports primary and secondary indices on document ﬁelds - Replication - supports replica sets with automatic failover - Load balancing built in 14 MongoDB Versions ●MongoDB

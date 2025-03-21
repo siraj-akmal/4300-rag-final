@@ -1,1 +1,0 @@
-if the value of the field is IN or NOT IN the result of a sub-query. 4. Test for the negation of a comparison. For example, to test if the location field is not Boston, we can do: { "$not": { "location" : "Boston" }} Sub Queries The following sub-query

@@ -1,1 +1,0 @@
-b. In the left navigation pane, select the sample_mflix database. c. Select the movies collection. Specify the Filter field Specify the in the Filter field. A query filter document uses to specify search conditions. 1  2 3 query filter document query operators 3/17/25, 9:55 AM Query Documents - MongoDB

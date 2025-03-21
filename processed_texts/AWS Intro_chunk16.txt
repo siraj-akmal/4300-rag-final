@@ -1,1 +1,0 @@
-enforce appropriate data-handling policies - Access Management & IAM - properly conﬁgure IAM users, roles, and policies. - enforce the Principle of Least Privilege - Manage self-hosted Apps and associated OSs - Ensure network security to its VPC - Handle compliance and governance policies and procedures 8 The AWS Global

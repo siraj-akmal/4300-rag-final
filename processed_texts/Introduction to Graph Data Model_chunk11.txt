@@ -1,1 +1,0 @@
-- person - car 4 relationship types: - Drives - Owns - Lives_with - Married_to Properties 6 Paths A path is an ordered sequence of nodes connected by edges in which no nodes or edges are repeated. 7 1 2 3 6 5 4 Ex: 1 → 2 → 6

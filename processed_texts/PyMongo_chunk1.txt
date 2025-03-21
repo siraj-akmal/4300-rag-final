@@ -1,1 +1,1 @@
-instances 2 from pymongo import MongoClient client = MongoClient( ‘mongodb://user_name:pw@localhost:27017’ ) Getting a Database and Collection 3 from pymongo import MongoClient client = MongoClient( ‘mongodb://user_name:pw@localhost:27017’ ) db = client[‘ds4300’] # or client.ds4300 collection = db[‘myCollection’] #or db.myCollection Inserting a Single Document 4 db = client[‘ds4300’] collection = db[‘myCollection’] post =
+zip ﬁle - contains 2 Jupyter Notebooks - In terminal, navigate to the folder where you unzipped the ﬁles, and run jupyter lab 6 ?? 7

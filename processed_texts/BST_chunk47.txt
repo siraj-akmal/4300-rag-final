@@ -1,1 +1,0 @@
-←right[x] 3: while left[y] ̸= nil do y ←left[y] 4: return (y) } 5: else 6: { y ←x 7: while right[p[x]] = x do y ←p[x] 8: if p[x] ̸= nil then return (p[x]) 9: else return (“NO SUCCESSOR”) } 15 The predecessor can be found similarly with the

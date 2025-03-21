@@ -1,1 +1,0 @@
-}, { ____ }) ﬁlters projections mongosh - ﬁnd() - SELECT * FROM users; 22 use mflix db.users.find() mongosh - ﬁnd() - SELECT * FROM users WHERE name = “Davos Seaworth”; 23 db.users.find({"name": "Davos Seaworth"}) ﬁlter mongosh - ﬁnd() - SELECT * FROM movies WHERE rated in ("PG", "PG-13") 24

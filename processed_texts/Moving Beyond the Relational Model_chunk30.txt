@@ -1,1 +1,0 @@
-system failure, committed transactions are preserved - For more info on Transactions, see: - Kleppmann Book Chapter 7 12 But … Relational Databases may not be the solution to all problems… - sometimes, schemas evolve over time - not all apps may need the full strength of ACID compliance -

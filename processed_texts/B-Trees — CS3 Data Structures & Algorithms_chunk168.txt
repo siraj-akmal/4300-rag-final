@@ -1,1 +1,0 @@
-This means that the overhead associated with internal nodes is very low. We can reduce the number of disk fetches required for the B-tree even more by using the following methods. First, the upper levels of the tree can be stored in main memory at all times. Because the tree

@@ -1,1 +1,0 @@
-your system. Variables take the form of: {{<variable name>}} Variables should be enclosed in quotes (e.g. '{{variable_name}}' instead of {{variable_name}} ) so that the final objet sent to the server can be marked as valid JSON. Variables are not escaped when used as part of a filter or query -

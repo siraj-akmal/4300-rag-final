@@ -1,1 +1,0 @@
-more. Thus, in practice the B-tree and its variants are extremely shallow. As an illustration, consider a tree of order 100 and leaf nodes that contain up to 100 records. A B- tree with height one (that is, just a single leaf node) can have at most 100 records. A

@@ -1,1 +1,0 @@
-and comments into new collections in the mﬂix database 19 Creating a Database and Collection 20 mﬂix users To Create a new DB: To Create a new Collection: mongosh - Mongo Shell - ﬁnd(...) is like SELECT 21 collection.find({ ____ }, { ____ }) ﬁlters projections mongosh - ﬁnd() -

@@ -1,1 +1,0 @@
-at level two and leaves at level three) are required to reach the pointer to any given record. A buffer pool could be used to manage nodes of the B-tree. Several nodes of the tree would typically be in main memory at one time. The most straightforward approach is to

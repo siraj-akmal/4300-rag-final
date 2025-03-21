@@ -1,1 +1,0 @@
-basic services that are needed to build an IT infrastructure ●PaaS (more) - Platform as a Service ○ Remove the need for having to manage infrastructure ○ You can get right to deploying your app ●SaaS (more) - Software as a Service ○ Provide full software apps that are run

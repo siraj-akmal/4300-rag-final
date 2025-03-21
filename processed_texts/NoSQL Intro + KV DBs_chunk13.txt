@@ -1,1 +1,0 @@
-in 1998 by Carlo Strozzi to describe his relational database system that did not use SQL. - More common, modern meaning is “Not Only SQL” - But, sometimes thought of as non-relational DBs - Idea originally developed, in part, as a response to processing unstructured web-based data. 5 https://www.dataversity.net/a-brief-history-of-non-relational-databases/ CAP

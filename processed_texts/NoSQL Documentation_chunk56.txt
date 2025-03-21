@@ -1,1 +1,0 @@
-function(err, result) , called upon completion The result is a structure with the following fields: { str: <SQL statement for query>, select: <select clause>, from: <from clause>, where: <where clause>, group: <group by clause>, order: <order by clause>, limit: <limit clause> } Escaping All constants appearing in the JSON query

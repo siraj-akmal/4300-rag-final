@@ -1,1 +1,0 @@
-the instance lifecycle - EFS (Elastic File System) Support - Shared ﬁle storage - EBS (Elastic Block Storage) - Persistent block-level storage - S3 - large data set storage or EC2 backups even 6 Common EC2 Use Cases ●Web Hosting - Run a website/web server and associated apps ●Data Processing

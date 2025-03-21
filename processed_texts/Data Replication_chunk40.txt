@@ -1,1 +1,0 @@
-distant leaders when reading modiﬁable data?? :( Monotonic Read Consistency Monotonic read anomalies: occur when a user reads values out of order from multiple followers. Monotonic read consistency: ensures that when a user makes multiple reads, they will not read older data after previously reading newer data. 23 Consistent Preﬁx

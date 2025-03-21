@@ -1,1 +1,0 @@
-leaf node whose key value is less than any legal key value. Let’s see in some detail how the simplest tree works. This would be the “ tree”, or a tree of order 3. Figure 12.6.2: An example of building a tree Next, let’s see how to search. Figure 12.6.3:

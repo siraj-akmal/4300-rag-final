@@ -1,1 +1,0 @@
-TRANSACTION; -- Attempt to debit money from account 1 UPDATE accounts SET balance = balance - amount WHERE account_id = sender_id; -- Attempt to credit money to account 2 UPDATE accounts SET balance = balance + amount WHERE account_id = receiver_id; -- Continued Next Slide Example Transaction - Transfer $$

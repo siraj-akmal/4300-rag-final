@@ -1,1 +1,0 @@
-(200+ services now) 3 AWS Service Categories 4 Cloud Models ●IaaS (more) - Infrastructure as a Service ○ Contains the basic services that are needed to build an IT infrastructure ●PaaS (more) - Platform as a Service ○ Remove the need for having to manage infrastructure ○ You can get

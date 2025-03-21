@@ -1,1 +1,0 @@
-if it is not a leaf. For example, the following is an order-5 B-tree (m=5) where the leaves have enough space to store up to 3 data records: Because the height of the tree is uniformly the same and every node is at least half full, we are guaranteed that

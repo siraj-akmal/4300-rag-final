@@ -1,1 +1,0 @@
-will get 1 level deeper. 8 B+ Tree : m = 4 Insert 37. Step 1 9 B+ Tree : m = 4 Insert 37. Step 2. ● When splitting an internal node, we move the middle element to the parent (instead of copying it). ● In this particular tree,

@@ -1,1 +1,0 @@
-print(dumps(data, indent = 2)) Reformatting Queries match = {"$match": {"year": {"$lte": 1920}}} limit = {"$limit": 5} project = {"$project": {"_id":0, "title": 1, "cast": 1, "rating": "$imdb.rating"}} agg = mflixdb.movies.aggregate([match, limit, project]) print(dumps(agg, indent=2))

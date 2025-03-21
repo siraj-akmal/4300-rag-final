@@ -1,1 +1,0 @@
-data exchange format ●XML + CSS → web pages that separated content and formatting ●Structurally similar to HTML, but tag set is extensible 6 XML-Related Tools/Technologies - Xpath - a syntax for retrieving speciﬁc elements from an XML doc - Xquery - a query language for interrogating XML documents; the

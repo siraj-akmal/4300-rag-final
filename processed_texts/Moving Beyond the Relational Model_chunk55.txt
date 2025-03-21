@@ -1,1 +1,0 @@
-data request is dropped. - Availability + Partition Tolerance: System always sends are responds based on distributed store, but may not be the absolute latest data. CAP in Reality What it is really saying: - If you cannot limit the number of faults, requests can be directed to any server,

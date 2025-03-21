@@ -1,1 +1,0 @@
-the tree to gain a new level. tree insertion keeps all leaf nodes at equal depth. Figure illustrates the insertion process through several examples. Figure 12.6.6: An example of building a B+ tree of order four. Here is a a Java-like pseudocode sketch of the tree insert algorithm. private BPNode<Key,E>

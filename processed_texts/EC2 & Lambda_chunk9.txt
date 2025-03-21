@@ -1,1 +1,0 @@
-block-level storage - S3 - large data set storage or EC2 backups even 6 Common EC2 Use Cases ●Web Hosting - Run a website/web server and associated apps ●Data Processing - It’s a VM… you can do anything to data possible with a programming language. ●Machine Learning - Train models

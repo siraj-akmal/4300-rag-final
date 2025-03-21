@@ -1,1 +1,0 @@
-https://www.json.org/json-en.html Binary JSON? BSON - BSON → Binary JSON - binary-encoded serialization of a JSON-like document structure - supports extended types not part of basic JSON (e.g. Date, BinaryData, etc) - Lightweight - keep space overhead to a minimum - Traversable - designed to be easily traversed, which is vitally

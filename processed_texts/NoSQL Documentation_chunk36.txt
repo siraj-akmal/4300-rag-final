@@ -1,1 +1,0 @@
-query retrieving all employees employed in departments that are located in New York. In this example, the deptId field is a reference field referring the employees table to the department table: { "object": "employees", "q" : { "deptId" : { "$in": { "object": "department", "q": { "city" : "New York"

@@ -1,1 +1,0 @@
-4: return (key[y]) BST-Maximum(x) 1: if x = nil then return (“Empty Tree”) 2: y ←x 3: while right[y] ̸= nil do y ←right[y] 4: return (key[y]) 10 3. Insertion Suppose that we need to insert a node z such that k = key[z]. Using binary search we ﬁnd a

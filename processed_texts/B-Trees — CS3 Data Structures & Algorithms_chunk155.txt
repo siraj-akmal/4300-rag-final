@@ -1,1 +1,0 @@
-100 and leaf nodes that contain up to 100 records. A B- tree with height one (that is, just a single leaf node) can have at most 100 records. A tree with height two (a root internal node whose children are leaves) must have at least 100 records (2 leaves

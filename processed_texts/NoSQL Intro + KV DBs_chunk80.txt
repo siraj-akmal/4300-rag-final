@@ -1,1 +1,0 @@
-LPOP bikes:repairs LPOP biles:repairs 32 List Commands - Others Other List Ops LLEN mylist LRANGE <key> <start> <stop> LRANGE mylist 0 3 LRANGE mylist 0 0 LRANGE mylist -2 -1 33 LPUSH mylist “one” LPUSH mylist “two” LPUSH mylist “three” JSON Type - Full support of the JSON standard -

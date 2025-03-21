@@ -1,1 +1,0 @@
-of ﬁeld/value pairs per hash is 2^32-1 - practical limit: available system resources (e.g. memory) - Session information management - User/Event tracking (could include TTL) - Active Session Tracking (all sessions under one hash key) Hash Commands 28 HSET bike:1 model Demios brand Ergonom price 1971 HGET bike:1 model HGET

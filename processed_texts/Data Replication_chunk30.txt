@@ -1,1 +1,0 @@
-way to resolve conﬂicting requests. ● Leader failure detection. Optimal timeout is tricky. 17 Replication Lag refers to the time it takes for writes on the leader to be reﬂected on all of the followers. ●Synchronous replication: Replication lag causes writes to be slower and the system to be more

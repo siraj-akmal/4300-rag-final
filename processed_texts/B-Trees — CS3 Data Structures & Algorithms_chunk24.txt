@@ -1,1 +1,0 @@
-found, then return that record. If the current node is a leaf node and the key is not found, then report an unsuccessful search. m ⌈m/2⌉ m 24 15 20 33 45 48 10 12 18 21 23 30 30 38 47 50 52 60 3/17/25, 9:22 AM 12.6. B-Trees

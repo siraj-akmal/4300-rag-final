@@ -1,1 +1,0 @@
-is full. ○ The next insertion that splits a leaf will cause the root to split, and thus the tree will get 1 level deeper. 8 B+ Tree : m = 4 Insert 37. Step 1 9 B+ Tree : m = 4 Insert 37. Step 2. ● When splitting

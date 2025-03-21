@@ -1,1 +1,0 @@
-would require an extremely large database to generate a tree of more than height four. The tree split and insert rules guarantee that every node (except perhaps the root) is at least half full. So they are on average about 3/4 full. But the internal nodes are purely overhead, since

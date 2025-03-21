@@ -1,1 +1,1 @@
-- Geographically Centralized server - Some fault tolerance (via hot-swappable components) 4 Vertical Scaling - Shared Disk Architectures - Machines are connected via a fast network - Contention and the overhead of locking limit scalability (high-write volumes) … BUT ok for Data Warehouse applications (high read volumes) 5 AWS EC2
+order. 24 A B How far into the future can you see, Ms. B? About 10 seconds usually, Mr A. ?? 25

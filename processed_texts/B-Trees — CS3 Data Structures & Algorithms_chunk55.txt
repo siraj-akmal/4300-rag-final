@@ -1,1 +1,0 @@
-exactly what motivate the tree. The tree is essentially a mechanism for managing a sorted array-based list, where the list is broken into chunks. The most significant difference between the tree and the BST or the standard B-tree is that the tree stores records only at the leaf nodes. Internal

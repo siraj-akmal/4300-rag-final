@@ -1,1 +1,0 @@
-routines of the tree. However, the spitting and merging routines were so complicated that even their author could no longer understand them once they were completed! 12.6.1.2. B-Tree Analysis The asymptotic cost of search, insertion, and deletion of records from B-trees, trees, and trees is where is the total number

@@ -1,1 +1,0 @@
-Since 10 < 42, we follow the pointer to the left of 42 ● Note - none of these new values cause a node to split 5 B+ Tree : m = 4 Insert: 30 ● Starting at root, we descend to the left-most child (we’ll call curr). ○ curr

@@ -1,1 +1,0 @@
-"$in": { "object": "department", "q": { "city" : "New York" }, "fields" : ["id"] } } } } If we wanted to look at a more complex query, we could modify this a bit. Let's say we wanted to retrieve all employees whose department is located in New York, but

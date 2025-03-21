@@ -1,1 +1,0 @@
-will just replace z by nil. 2. If z has only one child, then we will promote the unique child to z’s place. 3. If z has two children, then we will identify z’s successor. Call it y. The successor y either is a leaf or has only the right

@@ -1,1 +1,0 @@
-parent; rearrange keys and pointers in parent node. ● Parent of newNode is also root. So, nothing else to do. 7 B+ Tree : m = 4 Fast forward to this state of the tree… ● Observation: The root node is full. ○ The next insertion that splits a leaf

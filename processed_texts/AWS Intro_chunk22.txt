@@ -1,1 +1,0 @@
-Container-based: - ECS - Elastic Container Service - ECR - Elastic Container Registry - EKS - Elastic Kubernetes Service - Fargate - Serverless container service - Serverless: AWS Lambda Storage Services 12 https://aws.amazon.com/products/storage/ ● Amazon S3 - Simple Storage Service ○ Object storage in buckets; highly scalable; different storage classes

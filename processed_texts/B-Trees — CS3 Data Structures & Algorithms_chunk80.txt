@@ -1,1 +1,0 @@
-2 −3+ 2 −3+ 1 / 33 3/17/25, 9:22 AM 12.6. B-Trees — CS3 Data Structures & Algorithms https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/BTree.html#id2 3/9 Figure 12.6.4: An example of deleting from a tree Now, let’s extend these ideas to a tree of higher order. trees are exceptionally good for range queries. Once the first

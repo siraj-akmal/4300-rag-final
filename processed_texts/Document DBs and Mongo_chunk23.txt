@@ -1,1 +1,0 @@
-Collection A Collection B Collection C Document 1 Document 2 Document 3 Document 1 Document 2 Document 3 Document 1 Document 2 Document 3 MongoDB Documents - No predeﬁned schema for documents is needed - Every document in a collection could have different data/schema 12 Relational vs Mongo/Document DB 13

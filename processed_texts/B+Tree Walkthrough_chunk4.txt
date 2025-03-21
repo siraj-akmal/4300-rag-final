@@ -1,1 +1,0 @@
-node needs to split to accommodate 35. New leaf node allocated to the right of existing node ● 5/2 values stay in original node; remaining values moved to new node ● Smallest value from new leaf node (42) is copied up to the parent, which needs to be created in

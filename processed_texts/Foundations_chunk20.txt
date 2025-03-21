@@ -1,1 +1,0 @@
-target < arr[mid], we reset right to mid - 1. left right A C G M P R Z target = A mid left right Time Complexity ●Linear Search ○ Best case: target is found at the ﬁrst element; only 1 comparison ○ Worst case: target is not in the

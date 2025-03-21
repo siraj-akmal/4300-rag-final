@@ -1,1 +1,0 @@
-2-3 tree, promotion might cause the parent to split in turn, perhaps eventually leading to splitting the root and causing the tree to gain a new level. tree insertion keeps all leaf nodes at equal depth. Figure illustrates the insertion process through several examples. Figure 12.6.6: An example of building

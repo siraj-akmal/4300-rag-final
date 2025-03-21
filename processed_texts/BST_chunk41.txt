@@ -1,1 +1,0 @@
-The Predecessor The successor (respectively, the predecessor) of a key k in a search tree is the smallest (respectively, the largest) key that belongs to the tree and that is strictly greater than (respectively, less than) k. The idea for ﬁnding the successor of a given node x. • If

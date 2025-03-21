@@ -1,1 +1,0 @@
-n   n X i=1 2E[max{Yi−1, Yn−i}]  . E[max{Yi−1, Yn−i}] ≤ E[Yi−1 + Yn−i] ≤ E[Yi−1] + E[Yn−i] Collecting terms: E[Yn] ≤4 n n−1 X i=1 E[Yi]. 24 Analysis We claim that for all n ≥1 E[Yn] ≤1 4 n+3 3  . We prove this by induction

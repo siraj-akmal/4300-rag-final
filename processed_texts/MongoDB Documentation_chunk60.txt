@@ -1,1 +1,0 @@
-Atlas UI, go to the Clusters page for your project. a. If it's not already displayed, select the organization that contains your desired project from the Organizations menu in the navigation bar. b. If it's not already displayed, select your project from the Projects menu in the navigation bar. c.

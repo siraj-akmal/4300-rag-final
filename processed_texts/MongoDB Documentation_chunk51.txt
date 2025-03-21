@@ -1,1 +1,0 @@
-status: 'A' }, { qty: { $lt: 3 }); Node.js   SELECT * FROM inventory WHERE statu NOTE Queries that use are subject to comparison operators Type Bracketing. $lt   const cursor = db.collection('inventory status: 'A', $or: [{ qty: { $lt: 30 } }, { item: { });

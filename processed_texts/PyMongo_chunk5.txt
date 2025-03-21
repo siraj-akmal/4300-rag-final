@@ -1,1 +1,0 @@
-in 2000 movies_2000 = db.movies.find({"year": 2000}) # Print results print(dumps(movies_2000, indent = 2)) Jupyter Time - Activate your DS4300 conda or venv python environment - Install pymongo with pip install pymongo - Install Jupyter Lab in you python environment - pip install jupyterlab - Download and unzip > this <

@@ -1,1 +1,0 @@
-each other - If both T1 and T2 are reading the data - no problem - If T1 is reading the same data that T2 may be writing, can result in: - Dirty Read - Non-repeatable Read - Phantom Reads 6 Isolation: Dirty Read 7 Figure from: https://www.mybluelinux.com/relational-databases-explained/ Dirty Read

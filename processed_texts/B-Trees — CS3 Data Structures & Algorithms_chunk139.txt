@@ -1,1 +1,0 @@
-into three. Similarly, when a node underflows, it is combined with its two siblings, and the total reduced to two nodes. Thus, the nodes are always at least two thirds full. [1] Finally, here is an example of building a B+ Tree of order five. You can compare this to

@@ -1,1 +1,0 @@
-the in the Filter field. A query filter document uses to specify search conditions. 1  2 3 query filter document query operators 3/17/25, 9:55 AM Query Documents - MongoDB Manual v8.0 - MongoDB Docs https://www.mongodb.com/docs/manual/tutorial/query-documents/ 10/14 Copy the following query filter document into the Filter search bar: Click Apply

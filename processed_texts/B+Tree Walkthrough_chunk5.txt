@@ -1,1 +1,0 @@
-stay in original node; remaining values moved to new node ● Smallest value from new leaf node (42) is copied up to the parent, which needs to be created in this case. It will be an internal node. 4 B+ Tree : m = 4 Insert: 10, 27, 96 ●

@@ -1,1 +1,0 @@
-(row-based) Log For relational DBs: Inserted rows, modiﬁed rows (before and after), deleted rows. A transaction log will identify all the rows that changed in each transaction and how they changed. Logical logs are decoupled from the storage engine and easier to parse. Trigger-based Changes are logged to a separate

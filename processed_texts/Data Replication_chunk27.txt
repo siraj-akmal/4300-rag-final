@@ -1,1 +1,0 @@
-writing to the new leader? 16 What Happens When the Leader Fails? More Challenges: ● If asynchronous replication is used, new leader may not have all the writes How do we recover the lost writes? Or do we simply discard? ● After (if?) the old leader recovers, how do we

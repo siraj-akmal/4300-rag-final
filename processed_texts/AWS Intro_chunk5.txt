@@ -1,1 +1,1 @@
-the adoption of AWS in its early days ●They’ve continuously innovated, always introducing new services for ops, dev, analytics, etc… (200+ services now) 3 AWS Service Categories 4 Cloud Models ●IaaS (more) - Infrastructure as a Service ○ Contains the basic services that are needed to build an IT infrastructure
+5GB (20K GETs, 2K Puts) ○ Amazon RDS - 750 hours/month of DB use (within certain limits) ○ ….. So many free services 17 ?? 18

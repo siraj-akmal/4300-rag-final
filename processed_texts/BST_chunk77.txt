@@ -1,1 +1,0 @@
-into the right subtree of x and all the keys smaller than x go into the left subtree. Thus, the height of the tree thus constructed is one plus the larger of the height of the left subtree and the height of the right subtree. 23 Random Variables n =

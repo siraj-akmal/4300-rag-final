@@ -1,1 +1,0 @@
-●Supports multi-container management. ●Set-up is declarative - using YAML docker-compose.yaml ﬁle ○ services ○ volumes ○ networks, etc. ●1 command can be used to start, stop, or scale a number of services at one time. ●Provides a consistent method for producing an identical environment (no more “well… it works on

@@ -1,1 +1,0 @@
-bike:1 price 100 What is returned? List Type - Value of KV Pair is linked lists of string values - Use Cases: - implementation of stacks and queues - queue management & message passing queues (producer/consumer model) - logging systems (easy to keep in chronological order) - build social media

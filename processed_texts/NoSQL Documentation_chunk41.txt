@@ -1,1 +1,0 @@
-use an AND expression to combine the two conditions: { "object": "employees", "q" : { "deptId": { "$in": { "object": "department", "q": { "city" : "New York" }, "fields" : ["id"] } }, "location": "Boston" } } Conditions on Fields latest Formally, a condition on a field is a key-value

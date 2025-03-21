@@ -1,1 +1,0 @@
-store keys to guide the search, associating each key with a pointer to a child tree node. Leaf nodes store actual records, or else keys and pointers to actual records in a separate disk file if the tree is being used purely as an index. Depending on the size of

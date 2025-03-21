@@ -1,1 +1,0 @@
-BinTreeNode(9) 1 A complete binary tree is a binary tree where every level except possibly the last level is full, meaning no additional nodes could fit on that level. root.left.left.left.left = BinTreeNode(10) print_tree(root) Question 3: Fill out your profile on Slack including a clear head shot. This will help the

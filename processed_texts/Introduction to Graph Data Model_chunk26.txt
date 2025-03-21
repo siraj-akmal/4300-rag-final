@@ -1,1 +1,0 @@
-node within a graph based on the number of incoming relationships and the importance of the nodes from those incoming relationships 20 Neo4j - A Graph Database System that supports both transactional and analytical processing of graph-based data - Relatively new class of no-sql DBs - Considered schema optional (one

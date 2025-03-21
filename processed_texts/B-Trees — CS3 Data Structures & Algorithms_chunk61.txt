@@ -1,1 +1,0 @@
-used purely as an index. Depending on the size of a record as compared to the size of a key, a leaf node in a tree of order might have enough room to store more or less than records. The requirement is simply that the leaf nodes store enough records

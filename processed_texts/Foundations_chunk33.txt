@@ -1,1 +1,0 @@
-a linear scan. What do we have in our arsenal? 1) An array of tuples (specialVal, rowNumber) sorted by specialVal a) We could use Binary Search to quickly locate a particular specialVal and ﬁnd its corresponding row in the table b) But, every insert into the table would be like

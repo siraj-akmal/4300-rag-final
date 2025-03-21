@@ -1,1 +1,0 @@
-here < - The next slides are not meant to be an exhaustive list of commands, only some highlights. Check the documentation for a complete list. 4 String Commands # r represents the Redis client object r.set(‘clickCount:/abc’, 0) val = r.get(‘clickCount:/abc’) r.incr(‘clickCount:/abc’) ret_val = r.get(‘clickCount:/abc’) print(f’click count = {ret_val}’) 5

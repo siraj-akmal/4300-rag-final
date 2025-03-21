@@ -1,1 +1,0 @@
-MongoDB Atlas, follow these steps:   { status: 'A', $or: [ { qty: { $lt: 30 } }, { item: ] }   SELECT * FROM inventory WHERE statu NOTE MongoDB supports regular expressions queries to perform string pattern matches. $regex 3/17/25, 9:55 AM Query Documents - MongoDB

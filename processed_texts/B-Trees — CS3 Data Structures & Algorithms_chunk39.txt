@@ -1,1 +1,0 @@
-What is most commonly implemented is a variant of the B-tree, called the tree. When greater efficiency is required, a more complicated variant known as the tree is used. Consider again the linear index. When the collection of records will not change, a linear index provides an extremely efficient way

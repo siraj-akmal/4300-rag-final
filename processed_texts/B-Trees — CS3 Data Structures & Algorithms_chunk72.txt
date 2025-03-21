@@ -1,1 +1,0 @@
-— CS3 Data Structures & Algorithms https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/BTree.html#id2 2/9 leftmost position an additional key that is less than or equal to any possible key value in the node’s leftmost subtree. tree implementations typically store an additional dummy record in the leftmost leaf node whose key value is less than any legal

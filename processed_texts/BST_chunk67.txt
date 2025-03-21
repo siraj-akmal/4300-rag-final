@@ -1,1 +1,0 @@
-y is the right child of its parent, then 22:  Set the parent’s right child to x. 23: if y ̸= z then 24: { key[z] ←key[y] 25: Move other data from y to z } 27: return (y) 20 Summary of Eﬃciency Analysis Theorem A On a binary

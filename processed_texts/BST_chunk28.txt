@@ -1,1 +1,0 @@
-Here k is the key that is searched for and x is the start node. BST-Search(x, k) 1: y ←x 2: while y ̸= nil do 3: if key[y] = k then return y 4: else if key[y] < k then y ←right[y] 5: else y ←left[y] 6: return (“NOT

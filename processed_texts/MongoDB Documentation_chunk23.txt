@@ -1,1 +1,0 @@
-Equality Condition To specify equality conditions, use <field>: <value> expressions in the The following example selects from the inventory collection all documents where the status equals "D":   const cursor = db.collection('inventory Node.js SELECT * FROM inventory query filter document: { <field1>: <value1>, ... } Node.js 3/17/25, 9:55 AM

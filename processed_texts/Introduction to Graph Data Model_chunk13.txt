@@ -1,1 +1,0 @@
-3 6 5 4 Ex: 1 → 2 → 6 → 5 Not a path: 1 → 2 → 6 → 2 → 3 Flavors of Graphs Connected (vs. Disconnected) – there is a path between any two nodes in the graph Weighted (vs. Unweighted) – edge has a weight

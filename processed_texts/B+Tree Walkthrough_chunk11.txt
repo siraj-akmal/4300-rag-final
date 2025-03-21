@@ -1,1 +1,0 @@
-descend to the left-most child (we’ll call curr). ○ curr is a leaf node. Thus, we insert 30 into curr. ○ BUT curr is full. So we have to split. ○ Create a new node to the right of curr, temporarily called newNode. ○ Insert newNode into the doubly linked

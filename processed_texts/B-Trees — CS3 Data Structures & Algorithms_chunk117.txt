@@ -1,1 +1,0 @@
-do something to keep the node sufficiently full. The first choice is to look at the node’s adjacent siblings to determine if they have a spare record that can be used to fill the gap. If so, then enough records are transferred from the sibling so that both nodes have

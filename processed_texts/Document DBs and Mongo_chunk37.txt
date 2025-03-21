@@ -1,1 +1,0 @@
-a new DB: To Create a new Collection: mongosh - Mongo Shell - ﬁnd(...) is like SELECT 21 collection.find({ ____ }, { ____ }) ﬁlters projections mongosh - ﬁnd() - SELECT * FROM users; 22 use mflix db.users.find() mongosh - ﬁnd() - SELECT * FROM users WHERE name = “Davos

@@ -1,1 +1,0 @@
-in each node. If neither sibling can lend a record to the under-full node (call it ), then must give its records to a sibling and be removed from the tree. There is certainly room to do this, because the sibling is at most half full (remember that it had

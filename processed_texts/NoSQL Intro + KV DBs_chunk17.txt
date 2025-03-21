@@ -1,1 +1,0 @@
-any given instant - Availability: In the event of a failure, the database system remains operational - Partition Tolerance: The database can maintain operations in the event of the network’s failing between two segments of the distributed system * Note, the definition of Consistency in CAP is different from that

@@ -1,1 +1,0 @@
-append() 7 List Commands - 1 # create list: key = ‘names’ # values = [‘mark’, ‘sam’, ‘nick’] redis_client.rpush('names', 'mark', 'sam', 'nick') # prints [‘mark’, ‘sam’, ‘nick’] print(redis_client.lrange('names', 0, -1)) 8 List Commands - 2 - lpush(), lpop(), lset(), lrem() - rpush(), rpop() - lrange(), llen(), lpos() - Other commands

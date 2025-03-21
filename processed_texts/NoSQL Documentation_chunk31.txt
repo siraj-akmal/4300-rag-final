@@ -1,1 +1,0 @@
-{ "object": "department", "q": { "city" : "New York" }, "fields" : ["id"]} latest Using this subquery, we can now test a new field - dept_id - with respect to the results of the subqeury. We simply use the $in operator, and the query, as follows: { "dept_id": { "$in":

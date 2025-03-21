@@ -1,1 +1,0 @@
-using a top-down transformation. Usage transformJson(json, sqlSchema, isFilter, callback) The parameters are: 1. json - JSON query or filter 2. sqlSchema - JSON schema of database 3. isFilter - boolean - true if json is a filter 4. callback - function(err, result) , called upon completion The result is a

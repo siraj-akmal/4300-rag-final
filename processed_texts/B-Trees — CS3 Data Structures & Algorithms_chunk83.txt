@@ -1,1 +1,0 @@
-the records with keys in the range can be accessed by sequential processing of the remaining records in the first node, and then continuing down the linked list of leaf nodes as far as necessary. Figure illustrates the tree. Figure 12.6.5: An example of search in a B+ tree of

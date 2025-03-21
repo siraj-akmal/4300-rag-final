@@ -1,1 +1,1 @@
-of records of the same entity type; a table ○ Trivially, stored in some sequential order like a list ●Search Key - A value for an attribute from the entity type ○ Could be >= 1 attribute 3 Lists of Records ●If each record takes up x bytes of memory,
+to also add to the list. 12 Something with Fast Insert and Fast Search? - Binary Search Tree - a binary tree where every node in the left subtree is less than its parent and every node in the right subtree is greater than its parent. 13 Image from: https://courses.grainger.illinois.edu/cs225/sp2019/notes/bst/ To the Board! 14

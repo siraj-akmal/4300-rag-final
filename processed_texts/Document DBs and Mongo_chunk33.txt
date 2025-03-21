@@ -1,1 +1,0 @@
-- Give initial username and password for superuser 17 E D MongoDB Compass - GUI Tool for interacting with MongoDB instance - Download and install from > here <. 18 Load MFlix Sample Data Set - In Compass, create a new Database named mﬂix - Download mﬂix sample dataset and

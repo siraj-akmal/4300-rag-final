@@ -1,1 +1,0 @@
-// Process internal node if (removehelp(((BPInternal<Key,E>)rt).pointers(currec), k)) { // Child will merge if necessary return ((BPInternal<Key,E>)rt).underflow(currec); } else { return false; } } } The tree requires that all nodes be at least half full (except for the root). Thus, the storage utilization must be at least 50%. This is

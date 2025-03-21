@@ -1,1 +1,0 @@
-the cloud): - Control of Data/Content - client controls how its data is classiﬁed, encrypted, and shared - implement and enforce appropriate data-handling policies - Access Management & IAM - properly conﬁgure IAM users, roles, and policies. - enforce the Principle of Least Privilege - Manage self-hosted Apps and associated

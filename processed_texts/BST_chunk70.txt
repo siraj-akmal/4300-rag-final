@@ -1,1 +1,0 @@
-Insert, and Delete can be made to run in O(h) time. 21 Randomly built BST Suppose that we insert n distinct keys into an initially empty tree. Assuming that the n! permutations are equally likely to occur, what is the average height of the tree? To study this question we

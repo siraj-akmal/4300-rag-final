@@ -1,1 +1,0 @@
-postorder traversal and preorder traversal? 5 Inorder traversal gives: 2, 3, 4, 5, 6, 7, 8 , 9, 11, 12, 15, 19, 20. Preorder traversal gives: 7, 4, 2, 3, 6, 5, 12, 9, 8, 11, 19, 15, 20. Postorder traversal gives: 3, 2, 5, 6, 4, 8, 11, 9,

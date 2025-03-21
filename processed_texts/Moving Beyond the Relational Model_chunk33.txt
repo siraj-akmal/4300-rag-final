@@ -1,1 +1,0 @@
-semi-structured or unstructured (JSON, XML, etc) - Horizontal scaling presents challenges - some apps need something more performant (real time, low latency systems) 13 Scalability - Up or Out? Conventional Wisdom: Scale vertically (up, with bigger, more powerful systems) until the demands of high-availability make it necessary to scale out

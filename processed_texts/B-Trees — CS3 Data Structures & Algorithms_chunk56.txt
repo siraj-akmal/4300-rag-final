@@ -1,1 +1,0 @@
-is broken into chunks. The most significant difference between the tree and the BST or the standard B-tree is that the tree stores records only at the leaf nodes. Internal nodes store key values, but these are used solely as placeholders to guide the search. This means that internal nodes

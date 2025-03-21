@@ -1,1 +1,0 @@
-in 2010 and either won at least 5 awards or have a genre of Drama 26 db.movies.find( { “year”: 2010, $or: [ { "awards.wins": { $gte: 5 } }, { “genres”: "Drama" } ] }) Comparison Operators 27 mongosh - countDocuments() - How many movies from the movies collection were

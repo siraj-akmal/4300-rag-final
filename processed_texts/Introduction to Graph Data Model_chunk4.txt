@@ -1,1 +1,0 @@
-- shortest path - lots of others 2 Where do Graphs Show up? - Social Networks - yes… things like Instagram, - but also… modeling social interactions in ﬁelds like psychology and sociology - The Web - it is just a big graph of “pages” (nodes) connected by hyperlinks (edges)

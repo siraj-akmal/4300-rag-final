@@ -1,1 +1,0 @@
-- only sets value to key if key does not already exist 26 Hash Type 27 - Value of KV entry is a collection of ﬁeld-value pairs - Use Cases: - Can be used to represent basic objects/structures - number of ﬁeld/value pairs per hash is 2^32-1 - practical limit:

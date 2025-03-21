@@ -1,1 +1,0 @@
-new class of no-sql DBs - Considered schema optional (one can be imposed) - Supports various types of indexing - ACID compliant - Supports distributed computing - Similar: Microsoft CosmoDB, Amazon Neptune 21 ?? 22

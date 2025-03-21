@@ -1,1 +1,0 @@
-low latency systems) 13 Scalability - Up or Out? Conventional Wisdom: Scale vertically (up, with bigger, more powerful systems) until the demands of high-availability make it necessary to scale out with some type of distributed computing model But why? Scaling up is easier - no need to really modify your

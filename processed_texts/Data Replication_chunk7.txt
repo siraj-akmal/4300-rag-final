@@ -1,1 +1,0 @@
-are connected via a fast network - Contention and the overhead of locking limit scalability (high-write volumes) … BUT ok for Data Warehouse applications (high read volumes) 5 AWS EC2 Pricing - Oct 2024 6 > $78,000/month https://aws.amazon.com/ec2/pricing/on-demand/ Horizontal Scaling - Shared Nothing Architectures ●Each node has its own CPU,

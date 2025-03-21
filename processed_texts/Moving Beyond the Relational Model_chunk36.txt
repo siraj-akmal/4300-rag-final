@@ -1,1 +1,0 @@
-up is easier - no need to really modify your architecture. But there are practical and ﬁnancial limits However: There are modern systems that make horizontal scaling less problematic. 14 So what? Distributed Data when Scaling Out A distributed system is “a collection of independent computers that appear to its

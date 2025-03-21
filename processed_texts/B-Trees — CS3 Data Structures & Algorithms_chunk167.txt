@@ -1,1 +1,0 @@
-tree’s nodes are internal nodes, in a tree of order 100 probably only about of its nodes are internal nodes. This means that the overhead associated with internal nodes is very low. We can reduce the number of disk fetches required for the B-tree even more by using the following

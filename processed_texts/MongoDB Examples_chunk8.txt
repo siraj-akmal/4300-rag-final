@@ -1,1 +1,0 @@
-"city": "Boston, MA", "zipcode": "02115" }, "rating": 750 }, {"custid": "C41", "name": "R. Duvall", "address": { "street": "150 Market St.", "city": "St. Louis, MO", "zipcode": "63101" }, "rating": 640 }, {"custid": "C47", "name": "S. Loren", "address": { "street": "Via del Corso", "city": "Rome, Italy" }, "rating": 625 } ] orders

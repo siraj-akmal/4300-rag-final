@@ -1,1 +1,0 @@
-as a transport layer 8 MongoDB 9 MongoDB - Started in 2007 after Doubleclick was acquired by Google, and 3 of its veterans realized the limitations of relational databases for serving > 400,000 ads per second - MongoDB was short for Humongous Database - MongoDB Atlas released in 2016 →

@@ -1,1 +1,0 @@
-sudo - Package manager is apt - kind of like Homebrew or Choco - Update the packages installed - sudo apt update; sudo apt upgrade 11 MiniConda on EC2 Make sure you’re logged in to your EC2 instance ● Let’s install MiniConda ○ curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh ○ bash ./Miniconda3-latest-Linux-x86_64.sh 12

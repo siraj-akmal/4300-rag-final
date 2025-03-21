@@ -1,1 +1,0 @@
-subset of the data Replication 9 Common Strategies for Replication - Single leader model - Multiple leader model - Leaderless model Distributed databases usually adopt one of these strategies. 10 Leader-Based Replication - All writes from clients go to the leader - Leader sends replication info to the followers -

@@ -1,1 +1,0 @@
-more than one field would prove more complex. We can now use this sub-query as a part of a larger query retrieving all employees employed in departments that are located in New York. In this example, the deptId field is a reference field referring the employees table to the department

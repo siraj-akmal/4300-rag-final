@@ -1,1 +1,0 @@
-Settings: add 6379 to Ports to expose that port so we can connect to it. - Normally, you would not expose the Redis port for security reasons - If you did this in a prod environment, major security hole. - Notice, we didn’t set a password… 21 Connecting from DataGrip

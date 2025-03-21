@@ -1,1 +1,0 @@
-with the same records. 5 F 10 S 44 Q 48 E 67 A 88 B 58 A 60 F 12 V 27 T N N N B+ B+ B+ B∗ B∗ B+ B∗ 1 / 33 << < > >> Example B+ Tree Visualization: Insert into a tree of

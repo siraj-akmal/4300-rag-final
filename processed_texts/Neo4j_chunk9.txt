@@ -1,1 +1,0 @@
-can be used to start, stop, or scale a number of services at one time. ●Provides a consistent method for producing an identical environment (no more “well… it works on my machine!) ●Interaction is mostly via command line docker-compose.yaml 6 services: neo4j: container_name: neo4j image: neo4j:latest ports: - 7474:7474 -

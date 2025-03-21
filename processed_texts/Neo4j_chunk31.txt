@@ -1,1 +1,0 @@
-split(line.director, ",") as directors_list UNWIND directors_list AS director_name MATCH (p:Person {name: director_name}) CREATE (p)-[:DIRECTED]->(m) 20 Gut Check Let’s check the movie titled Ray: MATCH (m:Movie {title: "Ray"})<-[:DIRECTED]-(p:Person) RETURN m, p 21 ?? 22

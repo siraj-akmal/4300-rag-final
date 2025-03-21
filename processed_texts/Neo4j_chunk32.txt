@@ -1,1 +1,0 @@
-movie titled Ray: MATCH (m:Movie {title: "Ray"})<-[:DIRECTED]-(p:Person) RETURN m, p 21 ?? 22

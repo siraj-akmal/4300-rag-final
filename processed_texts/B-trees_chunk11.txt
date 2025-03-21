@@ -1,1 +1,0 @@
-keys. Each leaf stores some number of elements; the maximum number may be greater or (typically) less than m. The data structure satisfies several invariants: 1. Every path from the root to a leaf has the same length 2. If a node has n children, it contains n−1 keys. 3.

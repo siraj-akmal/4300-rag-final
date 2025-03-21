@@ -1,1 +1,0 @@
-each). A tree with height four must have at least 250,000 records and at most 100 million records. Thus, it would require an extremely large database to generate a tree of more than height four. The tree split and insert rules guarantee that every node (except perhaps the root) is

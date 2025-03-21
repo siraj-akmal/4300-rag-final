@@ -1,1 +1,0 @@
-x and y, x < y, and for all λ, 0 ≤λ ≤1, f(λx + (1 −λ)y) ≤λf(x) + (1 −λ)f(y) Jensen’s inequality states that for all random variables X and for all convex function f f(E[X]) ≤E[f(X)]. Let this X be Xn and f(x) = 2x. Then E[f(X)] =

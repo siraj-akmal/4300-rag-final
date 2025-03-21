@@ -1,1 +1,0 @@
-considered an in-memory database system, but… - Supports durability of data by: a) essentially saving snapshots to disk at speciﬁc intervals or b) append-only ﬁle which is a journal of changes that can be used for roll-forward if there is a failure - Originally developed in 2009 in C++ -

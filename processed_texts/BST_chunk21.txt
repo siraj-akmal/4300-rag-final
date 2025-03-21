@@ -1,1 +1,0 @@
-key and the subtree in which the key is searched for are given as an input. We’ll take the full advantage of the BST-property. Suppose we are at a node. If the node has the key that is being searched for, then the search is over. Otherwise, the key at

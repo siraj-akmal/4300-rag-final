@@ -1,1 +1,0 @@
-Database and Interaction - Redis provides 16 databases by default - They are numbered 0 to 15 - There is no other name associated - Direct interaction with Redis is through a set of commands related to setting and getting k/v pairs (and variations) - Many language libraries available as

@@ -1,1 +1,0 @@
-of {}, which corresponds to the following SQL statement: To see supported options for the find() method, see find(). Specify Equality Condition To specify equality conditions, use <field>: <value> expressions in the The following example selects from the inventory collection all documents where the status equals "D":   const

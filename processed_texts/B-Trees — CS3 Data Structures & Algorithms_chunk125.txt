@@ -1,1 +1,0 @@
-become less than half full because it is under-flowing. This merge process combines two subtrees of the parent, which might cause it to underflow in turn. If the last two children of the root merge together, then the tree loses a level. Here is a Java-like pseudocode for the tree

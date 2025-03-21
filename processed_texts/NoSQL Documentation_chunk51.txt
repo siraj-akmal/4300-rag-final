@@ -1,1 +1,0 @@
-{ "object" : "Employees", "q" : { "$or" : [ { "Budget" : { "$gt" : 20 } }, { "Location" : { "$like" : "Palo Alto" } } ] }, "fields": ["Location", "Country"], "order": [["Budget", "desc"]], "groupBy": ["Country"], "aggregate": { "Location": "$concat" } } latest Algorithm to Generate SQL

@@ -1,1 +1,0 @@
-stored in binary in a tree-structure → fast access to sub elements 34 Set Type - Unordered collection of unique strings (members) - Use Cases: - track unique items (IP addresses visiting a site, page, screen) - primitive relation (set of all students in DS4300) - access control lists for

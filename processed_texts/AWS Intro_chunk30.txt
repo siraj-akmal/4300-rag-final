@@ -1,1 +1,0 @@
-Presto, etc. ●AWS Glue - Discover, prepare, and integrate all your data ●Amazon Redshift - Data warehousing service ●Amazon Kinesis - real-time data streaming ●Amazon QuickSight - cloud-native BI/reporting tool 14 ML and AI Services - Amazon SageMaker - fully-managed ML platform, including Jupyter NBs - build, train, deploy ML

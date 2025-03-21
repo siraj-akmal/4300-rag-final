@@ -1,1 +1,0 @@
-First, the leaf that should contain the record is found. If is not full, then the new record is added, and no other tree nodes are affected. If is already full, split it in two (dividing the records evenly among the two nodes) and promote a copy of the least-valued

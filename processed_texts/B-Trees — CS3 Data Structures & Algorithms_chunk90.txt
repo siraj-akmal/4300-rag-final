@@ -1,1 +1,0 @@
-k) { << < > >> Example 2-3+ Tree Visualization: Delete 22 71 46 65 51 2 −3+ B+ B+ B+ 1 / 10 << < > >> Example B+ Tree Visualization: Search in a tree of degree 4 10 S 18 E 40 Q 55 F 25 40 77

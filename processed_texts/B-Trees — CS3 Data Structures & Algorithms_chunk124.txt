@@ -1,1 +1,0 @@
-sibling is at most half full (remember that it had no records to contribute to the current node), and has become less than half full because it is under-flowing. This merge process combines two subtrees of the parent, which might cause it to underflow in turn. If the last two

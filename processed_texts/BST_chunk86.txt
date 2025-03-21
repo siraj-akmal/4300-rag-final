@@ -1,1 +1,0 @@
-E[Yn] ≤1 4 · n + 3 3  25 Jensen’s inequality A function f is convex if for all x and y, x < y, and for all λ, 0 ≤λ ≤1, f(λx + (1 −λ)y) ≤λf(x) + (1 −λ)f(y) Jensen’s inequality states that for all random variables X

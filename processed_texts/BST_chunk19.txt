@@ -1,1 +1,0 @@
-traversal gives: 3, 2, 5, 6, 4, 8, 11, 9, 15, 20, 19, 12, 7. So, inorder travel on a BST ﬁnds the keys in nondecreasing order! 6 Operations on BST 1. Searching for a key We assume that a key and the subtree in which the key is searched

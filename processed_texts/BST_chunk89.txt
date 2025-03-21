@@ -1,1 +1,0 @@
-X be Xn and f(x) = 2x. Then E[f(X)] = E[Yn]. So, we have 2E[Xn] ≤1 4 n + 3 3  . The right-hand side is at most (n + 3)3. By taking the log of both sides, we have E[Xn] = O(log n). Thus the average height of

@@ -1,1 +1,0 @@
-space to store up to 3 data records: Because the height of the tree is uniformly the same and every node is at least half full, we are guaranteed that the asymptotic performance is O(lg n) where n is the size of the collection. The real win is in the

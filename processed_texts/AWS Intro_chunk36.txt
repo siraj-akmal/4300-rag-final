@@ -1,1 +1,0 @@
-experience with a subset of the services for 12 months (service limitations apply as well) ○ Amazon EC2 - 750 hours/month (speciﬁc OSs and Instance Sizes) ○ Amazon S3 - 5GB (20K GETs, 2K Puts) ○ Amazon RDS - 750 hours/month of DB use (within certain limits) ○ ….. So

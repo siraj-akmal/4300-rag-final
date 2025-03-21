@@ -1,1 +1,0 @@
-OR Conditions Using the operator, you can specify a compound query that joins each clause with a logical OR conjunction so that the query selects the documents in the collection that match at least one condition. The following example retrieves all documents in the collection where the status equals "A"

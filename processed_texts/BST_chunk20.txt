@@ -1,1 +1,0 @@
-BST ﬁnds the keys in nondecreasing order! 6 Operations on BST 1. Searching for a key We assume that a key and the subtree in which the key is searched for are given as an input. We’ll take the full advantage of the BST-property. Suppose we are at a node.

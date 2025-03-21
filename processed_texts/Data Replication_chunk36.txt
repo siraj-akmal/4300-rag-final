@@ -1,1 +1,0 @@
-immediately. 19 Implementing Read-After-Write Consistency Method 1: Modiﬁable data (from the client’s perspective) is always read from the leader. 20 Implementing Read-After-Write Consistency Method 2: Dynamically switch to reading from leader for “recently updated” data. - For example, have a policy that all requests within one minute of last update
