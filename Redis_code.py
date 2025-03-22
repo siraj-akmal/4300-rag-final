@@ -190,5 +190,5 @@ print(f"Using LLM model: {LLM_MODEL}")
 if __name__ == "__main__":
     create_hnsw_index()
     process_text_files()
-    query = "What is redis?"
+    query = input("What question do you want to ask? ")
     perform_knn_search(query)

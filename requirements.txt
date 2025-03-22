@@ -1,0 +1,6 @@
+fitz
+transformers
+ollama
+chromadb
+numpy
+redis
