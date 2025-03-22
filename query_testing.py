@@ -15,8 +15,8 @@ TEXT_FOLDER = "processed_texts"  # Folder containing .txt files
 
 # Prompt user to select an embedding model
 embedding_models = {
-    "1": "unclemusclez/jina-embeddings-v2-base-code",
-    "2": "all-minilm",
+    "1": "nomic-embed-text",
+    "2": "jina/jina-embeddings-v2-base-en",
     "3": "granite-embedding:278m",
 }
 
