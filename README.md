@@ -15,9 +15,9 @@ To install the required models from Ollama, open your terminal and run the follo
    ```bash
    ollama pull nomic-embed-text
    ```
-2. **Install `ranite-embedding:278m` model:**
+2. **Install `granite-embedding:278m` model:**
    ```bash
-   ollama pull ranite-embedding:278m
+   ollama pull granite-embedding:278m
    ```
 
 3. **Install `jina/jina-embeddings-v2-base-en` model:**
