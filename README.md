@@ -19,11 +19,17 @@ To install the required models from Ollama, open your terminal and run the follo
    ```bash
    ollama pull ranite-embedding:278m
    ```
-3. **Install `llama3.2:latest` model:**
+
+3. **Install `jina/jina-embeddings-v2-base-en` model:**
+   ```bash
+   ollama pull jina/jina-embeddings-v2-base-en
+   ```
+
+4. **Install `llama3.2:latest` model:**
    ```bash
    ollama pull llama3.2:latest
    ```
-4. **Install `mistral` model:**
+5. **Install `mistral` model:**
    ```bash
    ollama pull mistral
    ```
