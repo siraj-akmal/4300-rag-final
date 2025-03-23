@@ -188,7 +188,13 @@ LLM_MODEL = llm_models[selected_llm_model]
 print(f"Using LLM model: {LLM_MODEL}")
 
 if __name__ == "__main__":
-    create_hnsw_index()
-    process_text_files()
-    query = input("What question do you want to ask? ")
-    perform_knn_search(query)
+    while True:
+        query = input("What question do you want to ask? (Type 'exit' to quit) ")
+        
+        # If the user types 'exit', break the loop and stop the program
+        if query.lower() == 'exit':
+            print("Exiting program.")
+            break
+        
+        response = query_llm(query)
+        print(f"Response from {LLM_MODEL}: {response}\n")
