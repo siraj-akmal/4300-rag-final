@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ```
 ## Step 4:
 
-Run the Python using the database of your choosing and follow the user prompts!
+Run the Python File of the Database you want or, for Timing/Storage demonstrations, run the Timing and Storage versions!
 
 
    

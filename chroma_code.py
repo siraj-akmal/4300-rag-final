@@ -136,7 +136,7 @@ print(f"Using LLM model: {LLM_MODEL}")
 
 if __name__ == "__main__":
     # process text files loads the parsed notes into the database
-    #process_text_files()
+    process_text_files()
     query = input("What question do you want to ask? ")
     # acctually performs the semantic search and queries the LLM
     perform_knn_search(query)
